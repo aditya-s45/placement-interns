@@ -197,6 +197,35 @@ def run_update() -> tuple[dict, dict, list[str]]:
     )
     kept = _dedup(kept)
 
+    # --- Phase 2: LLM Classification ---
+    new_jobs = [j for j in kept if j.id not in existing]
+    if new_jobs and os.environ.get("OPENROUTER_API_KEY"):
+        from . import llm
+        print(f"Classifying {len(new_jobs)} new jobs with LLM...")
+        
+        async def _run_classification():
+            async with httpx.AsyncClient() as client:
+                from .net import Net, HostLimiter
+                net = Net(client, HostLimiter(1))
+                return await llm.classify_jobs_batch(new_jobs, net)
+                
+        classifications = asyncio.run(_run_classification())
+        
+        filtered_kept = []
+        for j in kept:
+            if j.id in classifications:
+                cls_data = classifications[j.id]
+                if cls_data.get("is_internship", True) and cls_data.get("is_technical_cs", True):
+                    cat = cls_data.get("category")
+                    if cat in ["Software", "Data & ML/AI", "Quant", "Hardware", "Other"]:
+                        j.category = cat
+                    filtered_kept.append(j)
+                else:
+                    print(f"  [LLM] Dropped false positive: {j.title} at {j.company}")
+            else:
+                filtered_kept.append(j)
+        kept = filtered_kept
+
     for company, _jobs, error in results:
         health.record(health_data, company, error)
     health.save(health_data)

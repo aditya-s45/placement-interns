@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Intern Engine India — New Internships</title>
-  <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
-  <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
-  <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-20T20:29:01Z</updated>
+  <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
+  <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
+  <id>https://aditya-s45.github.io/placement-interns/</id>
+  <updated>2026-08-20T21:34:24Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Tower Research Capital — Intern - AI/ML</title>
@@ -20,9 +20,9 @@
     <summary>Gurugram, HR, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Citi — Young Apprentice - C00 - MUMBAI</title>
-    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217" rel="alternate"/>
-    <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217</id>
-    <updated>2026-08-19T19:02:04Z</updated>
+    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219" rel="alternate"/>
+    <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219</id>
+    <updated>2026-08-20T05:05:31Z</updated>
     <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Cox — Inspector Apprentice (Manheim)</title>
@@ -66,12 +66,6 @@
     <id>workday:ag:job/Bangalore-Area/Apprentice---Governance---Operations_JR10409958</id>
     <updated>2026-08-18T13:07:22Z</updated>
     <summary>Bangalore Area · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Alcon — Apprentice BPA</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Apprentice-BPA_R-2026-48852" rel="alternate"/>
-    <id>workday:alcon:job/Bangalore-India/Apprentice-BPA_R-2026-48852</id>
-    <updated>2026-08-18T09:04:57Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>AHEAD — MS - EUS Apprentice/Intern (6 months)</title>
     <link href="https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f" rel="alternate"/>
@@ -253,12 +247,6 @@
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Remote · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>R1 RCM — Apprentice</title>
-    <link href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967" rel="alternate"/>
-    <id>workday:r1rcm:job/Noida-India/Apprentice_R250000011967</id>
-    <updated>2026-07-29T18:50:34Z</updated>
-    <summary>Noida, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Astreya — AI Infrastructure DC Design Intern</title>
     <link href="https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746" rel="alternate"/>
     <id>workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746</id>
@@ -306,5 +294,17 @@
     <id>workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GE Healthcare — Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1" rel="alternate"/>
+    <id>workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Liberty University — ADS Apprentice</title>
+    <link href="https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1" rel="alternate"/>
+    <id>workday:liberty:job/Hybrid/ADS-Apprentice_R0010936-1</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Hybrid · Other · Summer 2027</summary>
   </entry>
 </feed>

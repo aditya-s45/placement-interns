@@ -279,6 +279,11 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/whatnot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
+  "bloomberg:bloomberg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T21:34:24Z",
+    "last_error": "UnicodeEncodeError: 'charmap' codec can't encode characters in position 225-286: character maps to <undefined>"
+  },
   "breezy:census": {
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
@@ -333,6 +338,11 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for breezy"
+  },
+  "bytedance:bytedance": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T21:34:24Z",
+    "last_error": "UnicodeEncodeError: 'charmap' codec can't encode characters in position 217-278: character maps to <undefined>"
   },
   "custom:meesho-custom": {
     "consecutive_failures": 12,
@@ -673,6 +683,11 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/thumbtack/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
+  },
+  "greenhouse:tmc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T21:34:24Z",
+    "last_error": "ConnectTimeout: "
   },
   "greenhouse:transcarent": {
     "consecutive_failures": 12,
@@ -1214,6 +1229,11 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for naukri"
   },
+  "oracle:elar.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T21:34:24Z",
+    "last_error": "HTTPStatusError: Client error '403 Forbidden' for url 'https://elar.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocatio"
+  },
   "recruitee:1x": {
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
@@ -1223,6 +1243,16 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for recruitee"
+  },
+  "smartrecruiters:UniversityOfMarylandMedicalSystem": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T21:34:24Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "uber:uber": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T21:34:24Z",
+    "last_error": "UnicodeEncodeError: 'charmap' codec can't encode characters in position 210-271: character maps to <undefined>"
   },
   "unstop:cybersecurity": {
     "consecutive_failures": 12,
@@ -1253,11 +1283,6 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for wellfound"
-  },
-  "workable:texas-sports-academy-main": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-20T19:01:14Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/texas-sports-academy-main/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "workable:the-anywhere-company": {
     "consecutive_failures": 4,
@@ -1358,11 +1383,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-19T11:02:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/we-are-social-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
-  },
-  "workable:western-magnetics": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-20T19:01:14Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/western-magnetics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:zaizi": {
     "consecutive_failures": 7,

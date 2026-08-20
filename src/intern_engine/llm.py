@@ -87,3 +87,70 @@ async def extract_jobs_from_html(html: str, company_name: str, base_url: str, ne
     except Exception as e:
         print(f"  [LLM] Failed to extract jobs for {company_name}: {e}")
         return []
+async def classify_jobs_batch(jobs, net: Net) -> dict[str, dict[str, Any]]:
+    """Use OpenRouter to classify a batch of jobs."""
+    if not jobs:
+        return {}
+        
+    api_key = os.environ.get("OPENROUTER_API_KEY")
+    if not api_key:
+        print("  [LLM] OPENROUTER_API_KEY not set. Skipping LLM classification.")
+        return {}
+
+    system_prompt = (
+        "You are an API that classifies job postings. "
+        "I will give you a list of jobs. For each job, return a JSON object mapping its ID to a classification. "
+        "Each classification must have: "
+        "'is_internship' (boolean: true if it is an internship, co-op, or apprenticeship. false if it's full-time or senior), "
+        "'is_technical_cs' (boolean: true if it's a computer science / software / data / ML / hardware tech role. false if it's marketing, sales, HR, etc.), "
+        "'category' (string: one of 'Software', 'Data & ML/AI', 'Quant', 'Hardware', or 'Other'). "
+        "Do not include any markdown formatting or explanation, just output raw JSON."
+    )
+    
+    jobs_payload = []
+    for j in jobs:
+        jobs_payload.append({
+            "id": j.id,
+            "title": j.title,
+            "company": j.company,
+            "description": j.description[:500] if j.description else "No description available"
+        })
+        
+    user_prompt = f"Classify these jobs:\n\n{json.dumps(jobs_payload, indent=2)}"
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "HTTP-Referer": "https://github.com/10vulture1005/interns-work", 
+        "Content-Type": "application/json"
+    }
+    
+    payload = {
+        "model": "openrouter/free",
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+    }
+
+    try:
+        resp = await net.client.post(
+            "https://openrouter.ai/api/v1/chat/completions",
+            json=payload,
+            headers=headers,
+            timeout=40.0
+        )
+        resp.raise_for_status()
+        data = resp.json()
+        content = data["choices"][0]["message"]["content"].strip()
+        
+        if content.startswith("```"):
+            content = re.sub(r"^```(?:json)?\s*", "", content)
+            content = re.sub(r"\s*```$", "", content)
+            
+        parsed = json.loads(content)
+        if isinstance(parsed, dict):
+            return parsed
+        return {}
+    except Exception as e:
+        print(f"  [LLM] Failed to classify jobs: {e}")
+        return {}

@@ -34,6 +34,8 @@ jobs:
         run: playwright install chromium
 
       - name: Discover + harvest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           python run.py discover
           python run.py harvest

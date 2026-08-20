@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-08-20T20:29:01Z",
+  "duration_seconds": 0.2,
+  "companies_total": 2,
+  "companies_by_source": {
+    "custom": 1,
+    "yc_waas": 1
+  },
+  "quarantined": 0,
+  "fetched_ok": 1,
+  "fetch_errors": 1,
+  "errors_by_source": {
+    "custom": 1
+  },
+  "fetch_success_rate": 0.5,
+  "roles_matched": 0,
+  "roles_by_source": {},
+  "roles_by_cycle": {},
+  "roles_by_region": {},
+  "purged_this_run": 0,
+  "new_this_run": 0,
+  "open_total": 70
+}

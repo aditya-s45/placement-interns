@@ -90,7 +90,7 @@ def generate(store_data: dict) -> dict:
         f'    <img src="https://img.shields.io/badge/Open%20Roles-{len(open_jobs)}-6366f1?style=for-the-badge" alt="Open Roles" />',
         '    <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />',
         '  </p>',
-        f'  <p><em>Last updated: {datetime.now(UTC).strftime("%b %d, %Y at %H:%M UTC")}</em></p>',
+        f'  <p><em>Last updated: {(datetime.now(UTC) + __import__("datetime").timedelta(hours=5, minutes=30)).strftime("%b %d, %Y at %H:%M IST")}</em></p>',
         '</div>',
         '',
         '---',

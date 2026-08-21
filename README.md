@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 21, 2026 at 09:21 UTC</em></p>
+  <p><em>Last updated: Aug 21, 2026 at 11:05 UTC</em></p>
 </div>
 
 ---
@@ -50,10 +50,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-21 |
+| Baxter International | Apprentice | Summer 2027 | 2026-08-21 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-21 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-21 |
+| S&P Global | Apprentice | Summer 2027 | 2026-08-21 |
 | State Street | Apprentice | Summer 2027 | 2026-08-21 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-21 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-21 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-21 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-21 |
 | Viavi Solutions | Apprentice  - 3 | Summer 2027 | 2026-08-21 |
@@ -66,10 +70,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Alcon | Apprentice BPA | Summer 2027 | 2026-08-20 |
 | Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-08-20 |
 | State Street | Apprentice | Summer 2027 | 2026-08-20 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-20 |
-| Viavi Solutions | Apprentice - 1 | Summer 2027 | 2026-08-20 |
-| Air Products | Graduate Trainee – Software Development | Summer 2027 | 2026-08-20 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-20 |
 
 </details>
 

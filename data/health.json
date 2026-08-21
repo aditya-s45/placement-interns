@@ -1214,21 +1214,6 @@
     "last_attempt_at": "2026-08-21T02:19:58Z",
     "last_error": "no connector for naukri"
   },
-  "oracle:ekmu.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-21T21:01:20Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ekmu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
-  },
-  "oracle:encd.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-21T21:01:20Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://encd.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
-  },
-  "oracle:eoff.fa.em1.ukg.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-21T21:01:20Z",
-    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://eoff.fa.em1.ukg.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList"
-  },
   "recruitee:1x": {
     "consecutive_failures": 13,
     "last_attempt_at": "2026-08-21T02:19:58Z",
@@ -1268,6 +1253,11 @@
     "consecutive_failures": 13,
     "last_attempt_at": "2026-08-21T02:19:58Z",
     "last_error": "no connector for wellfound"
+  },
+  "workable:thingtrax": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-21T23:06:47Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
     "consecutive_failures": 7,
@@ -1344,6 +1334,11 @@
     "last_attempt_at": "2026-08-19T11:02:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/viewline-ventures/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
+  "workable:vortexa": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-21T23:06:47Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/vortexa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
+  },
   "workable:wallstreetquants": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-19T11:02:39Z",
@@ -1353,6 +1348,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-19T11:02:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/we-are-social-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "workable:western-magnetics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-21T23:06:47Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/western-magnetics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:zaizi": {
     "consecutive_failures": 7,

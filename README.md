@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 21, 2026 at 20:49 IST</em></p>
+  <p><em>Last updated: Aug 21, 2026 at 22:44 IST</em></p>
 </div>
 
 ---
@@ -51,6 +51,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Masters Software Eng | Summer 2027 | 2026-08-21 |
+| Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-08-21 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-21 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
 | S&P Global | Apprentice | Summer 2027 | 2026-08-21 |
@@ -68,9 +71,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | Alcon | Apprentice BPA | Summer 2027 | 2026-08-20 |
 | Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-08-20 |
 | State Street | Apprentice | Summer 2027 | 2026-08-20 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-20 |
-| Viavi Solutions | Apprentice - 1 | Summer 2027 | 2026-08-20 |
-| Air Products | Graduate Trainee – Software Development | Summer 2027 | 2026-08-20 |
 
 </details>
 

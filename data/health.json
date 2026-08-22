@@ -1214,10 +1214,10 @@
     "last_attempt_at": "2026-08-21T02:19:58Z",
     "last_error": "no connector for naukri"
   },
-  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com": {
+  "oracle:hdsn.fa.us6.oraclecloud.com": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T07:22:17Z",
-    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requ"
+    "last_attempt_at": "2026-08-22T09:20:14Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://hdsn.fa.us6.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
   },
   "recruitee:1x": {
     "consecutive_failures": 13,

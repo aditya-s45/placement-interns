@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 22, 2026 at 22:40 IST</em></p>
+  <p><em>Last updated: Aug 23, 2026 at 00:37 IST</em></p>
 </div>
 
 ---
@@ -50,6 +50,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Availity | Software Engineering Intern | Summer 2027 | 2026-08-22 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-22 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-22 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-22 |
@@ -69,7 +70,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-21 |
 | Viavi Solutions | Apprentice  - 3 | Summer 2027 | 2026-08-21 |
 | Viavi Solutions | Apprentice - 4 | Summer 2027 | 2026-08-21 |
-| Viavi Solutions | Apprentice - 5 | Summer 2027 | 2026-08-21 |
 
 </details>
 

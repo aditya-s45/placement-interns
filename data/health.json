@@ -1214,20 +1214,10 @@
     "last_attempt_at": "2026-08-21T02:19:58Z",
     "last_error": "no connector for naukri"
   },
-  "oracle:emqz.fa.us2.oraclecloud.com": {
+  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T05:17:39Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://emqz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
-  },
-  "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T05:17:39Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
-  },
-  "oracle:hcal.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-22T05:17:39Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hcal.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+    "last_attempt_at": "2026-08-22T07:22:17Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requ"
   },
   "recruitee:1x": {
     "consecutive_failures": 13,

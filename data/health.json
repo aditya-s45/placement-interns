@@ -1214,11 +1214,6 @@
     "last_attempt_at": "2026-08-21T02:19:58Z",
     "last_error": "no connector for naukri"
   },
-  "oracle:hctz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-23T02:24:53Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://hctz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
-  },
   "recruitee:1x": {
     "consecutive_failures": 13,
     "last_attempt_at": "2026-08-21T02:19:58Z",

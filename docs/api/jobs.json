@@ -12,18 +12,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:availity:job/Remote---United-States/Software-Engineering-Intern_R0008436",
-    "company": "Availity",
-    "title": "Software Engineering Intern",
-    "location": "Remote - United States",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cisco:job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
     "company": "Cisco",
     "title": "Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition",
@@ -216,6 +204,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "company": "GE Healthcare",
+    "title": "Field Engineer Apprentice",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -224,18 +224,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043060-1",
-    "company": "GE Healthcare",
-    "title": "Field Engineer Apprentice",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 4 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1",
     "salary": null,
     "source": "workday"
   },
@@ -260,18 +248,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -706,18 +682,6 @@
     "url": "https://jobs.smartrecruiters.com/RRSGroup/744000133857769",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "workable:altom-transport:9FC654F05E",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "category": "Software",
-    "season": "Fall 2026",
-    "posted_at": "2026-06-23T00:00:00.000Z",
-    "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
-    "salary": null,
-    "source": "workable"
   },
   {
     "id": "rippling:spreeai:aa087086-dd4b-42be-a499-051546655e97",

@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 23, 2026 at 22:42 IST</em></p>
+  <p><em>Last updated: Aug 24, 2026 at 00:42 IST</em></p>
 </div>
 
 ---
@@ -48,8 +48,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-23 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-23 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-23 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-23 |
 | GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-08-23 |
 | GE Healthcare | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) | Summer 2027 | 2026-08-23 |
 | Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-08-23 |
@@ -67,7 +68,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | S&P Global | Apprentice | Summer 2027 | 2026-08-21 |
 | State Street | Apprentice | Summer 2027 | 2026-08-21 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-21 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-21 |
 
 </details>
 

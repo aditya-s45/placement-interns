@@ -12,6 +12,54 @@
     "source": "workday"
   },
   {
+    "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26975600",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - PUNE",
+    "location": "Pune Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26975600",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI-IGS-BEU_26976651",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - MUMBAI IGS BEU",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI-IGS-BEU_26976651",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Hiring-for-2026--2027_R0448345",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Pune - Business Bay",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Hiring-for-2026--2027_R0448345",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:spgi:job/Hyderabad-Telangana/Apprentice--Private-Markets_324609-1",
+    "company": "S&P Global",
+    "title": "Apprentice, Private Markets",
+    "location": "Hyderabad, Telangana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Hyderabad-Telangana/Apprentice--Private-Markets_324609-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
     "company": "S&P Global",
     "title": "Apprentice, Data Operations",
@@ -56,18 +104,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442936",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442936",
     "salary": null,
     "source": "workday"
   },
@@ -152,6 +188,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -694,6 +742,18 @@
     "url": "https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37",
     "salary": null,
     "source": "lever"
+  },
+  {
+    "id": "instahyre:pagarbook:439220",
+    "company": "PagarBook",
+    "title": "Full Stack Development Intern",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/",
+    "salary": null,
+    "source": "instahyre"
   },
   {
     "id": "rippling:spreeai:aa087086-dd4b-42be-a499-051546655e97",

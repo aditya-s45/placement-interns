@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:wexinc:job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+    "company": "Wex",
+    "title": "PhD Intern, AI/ML/NLP Engineer",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gevernova:job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411",
     "company": "Gevernova",
     "title": "Field/Onsite Winder Apprentice-6",
@@ -144,18 +156,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
-    "company": "Cox",
-    "title": "Inspector Apprentice (Manheim)",
-    "location": "Indianapolis IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:ag:job/Bangalore-Area/Apprentice---Governance---Operations_JR10409958",
     "company": "Airbus",
     "title": "Apprentice - Governance & Operations",
@@ -180,18 +180,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
-    "company": "Baxter International",
-    "title": "Apprentice",
-    "location": "Bangalore, Karnataka",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043136-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -212,18 +200,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -260,18 +236,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
-    "company": "Liberty University",
-    "title": "Quality Analyst Engineer Apprentice",
-    "location": "Remote Location",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "salary": null,
     "source": "workday"
   },
@@ -348,18 +312,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "company": "Bloom Energy",
     "title": "Field Service Apprentice - Fixed Term",
@@ -404,18 +356,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:liberty:job/Hybrid/ADS-Apprentice_R0010936-1",
-    "company": "Liberty University",
-    "title": "ADS Apprentice",
-    "location": "Hybrid",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1",
     "salary": null,
     "source": "workday"
   },

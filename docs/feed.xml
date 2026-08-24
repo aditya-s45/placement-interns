@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-08-24T19:26:15Z</updated>
+  <updated>2026-08-24T21:06:32Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Gevernova — Field/Onsite Winder Apprentice-6</title>
@@ -72,12 +72,6 @@
     <id>workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1</id>
     <updated>2026-08-23T21:05:18Z</updated>
     <summary>Ahmedabad, Gujarat · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>State Street — Apprentice</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796418" rel="alternate"/>
-    <id>workday:statestreet:job/Bangalore-India/Apprentice_R-796418</id>
-    <updated>2026-08-23T19:12:25Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Cisco — Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition</title>
     <link href="https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Liberty University — ADS Apprentice</title>
+    <link href="https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1" rel="alternate"/>
+    <id>workday:liberty:job/Hybrid/ADS-Apprentice_R0010936-1</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Hybrid · Other · Summer 2027</summary>
   </entry>
 </feed>

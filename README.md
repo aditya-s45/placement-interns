@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 24, 2026 at 22:51 IST</em></p>
+  <p><em>Last updated: Aug 25, 2026 at 00:56 IST</em></p>
 </div>
 
 ---
@@ -48,9 +48,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| American Express | Apprentice | Summer 2027 | 2026-08-24 |
+| Availity | Data Science Intern | Summer 2027 | 2026-08-24 |
+| S&P Global | Apprentice, Private Markets | Summer 2027 | 2026-08-24 |
+| State Street | Apprentice | Summer 2027 | 2026-08-24 |
 | Availity | Software Engineering Intern | Summer 2027 | 2026-08-24 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-24 |
-| State Street | Apprentice | Summer 2027 | 2026-08-24 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-24 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-24 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-24 |
@@ -65,9 +68,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-24 |
 | RRS Group | 2027 Summer Investment Analyst Internship – Real Estate Development & Multifamily Investments | Summer 2027 | 2026-08-24 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-24 |
-| GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-08-23 |
-| GE Healthcare | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) | Summer 2027 | 2026-08-23 |
-| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-08-23 |
 
 </details>
 

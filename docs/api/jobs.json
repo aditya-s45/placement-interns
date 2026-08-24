@@ -132,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
-    "company": "Baxter International",
-    "title": "Apprentice",
-    "location": "Bangalore, Karnataka",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043136-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",

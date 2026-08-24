@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 24, 2026 at 09:16 IST</em></p>
+  <p><em>Last updated: Aug 24, 2026 at 10:57 IST</em></p>
 </div>
 
 ---
@@ -48,6 +48,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice | Summer 2027 | 2026-08-24 |
 | Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-24 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-24 |
 | RRS Group | 2027 Summer Investment Analyst Internship – Real Estate Development & Multifamily Investments | Summer 2027 | 2026-08-24 |
@@ -67,7 +68,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Honeywell | Intern Masters Software Eng | Summer 2027 | 2026-08-21 |
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-08-21 |
 | S&P Global | Apprentice | Summer 2027 | 2026-08-21 |
-| State Street | Apprentice | Summer 2027 | 2026-08-21 |
 
 </details>
 

@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:adobe:job/Bangalore/Apprentice-Tech_R171457",
+    "company": "Adobe",
+    "title": "Apprentice Tech",
+    "location": "Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171457",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gsk:job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848",
     "company": "GSK",
     "title": "Apprentice, India Tier-1 Operations – People Services",
@@ -24,6 +36,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:barrywehmiller:job/Chennai-India/AI-Intern_R022521",
+    "company": "Barry-Wehmiller",
+    "title": "AI Intern",
+    "location": "Chennai, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWCareers/job/Chennai-India/AI-Intern_R022521",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5049276-1",
     "company": "Gevernova",
     "title": "Grid Automation & Software Intern",
@@ -32,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/New-Delhi-18--20-Kasturba-GM/Apprentice-Hiring--NCT_R0446334-1",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring, NCT",
-    "location": "New Delhi, 18 & 20 Kasturba GM",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/New-Delhi-18--20-Kasturba-GM/Apprentice-Hiring--NCT_R0446334-1",
     "salary": null,
     "source": "workday"
   },
@@ -108,18 +120,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B4-B5",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:spgi:job/Gurugram-Haryana/Apprentice_327533-1",
     "company": "S&P Global",
     "title": "Apprentice, Private Equity",
@@ -144,6 +144,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
     "company": "S&P Global",
     "title": "Apprentice, Data Operations",
@@ -164,6 +176,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442936",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Jaipur",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442936",
     "salary": null,
     "source": "workday"
   },
@@ -228,6 +252,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
+    "company": "Baxter International",
+    "title": "Apprentice",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043136-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -248,6 +284,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -332,18 +380,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792995",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
     "salary": null,
     "source": "workday"
   },

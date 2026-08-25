@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-08-25T02:12:57Z</updated>
+  <updated>2026-08-25T03:44:13Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Wex — PhD Intern, AI/ML/NLP Engineer</title>
@@ -78,12 +78,6 @@
     <id>workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1</id>
     <updated>2026-08-23T21:05:18Z</updated>
     <summary>Ahmedabad, Gujarat · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>State Street — Apprentice</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796418" rel="alternate"/>
-    <id>workday:statestreet:job/Bangalore-India/Apprentice_R-796418</id>
-    <updated>2026-08-23T19:12:25Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Cisco — Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition</title>
     <link href="https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1" rel="alternate"/>
@@ -253,12 +247,6 @@
     <updated>2026-07-29T19:38:45Z</updated>
     <summary>Hybrid (San Francisco, California, US) · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Vishay Intertechnology — Apprentice</title>
-    <link href="https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1" rel="alternate"/>
-    <id>workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1</id>
-    <updated>2026-07-29T19:38:45Z</updated>
-    <summary>Mumbai, IN · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Innovaccer — Apprentice - HR (Employee Engagement)</title>
     <link href="https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/" rel="alternate"/>
     <id>workable:innovaccer-analytics:47C4AD89C2</id>
@@ -306,5 +294,17 @@
     <id>workday:ensemblehp:job/Remote---Nationwide/Data-Scientist--AI_R048077</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Remote - Nationwide · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Equifax — Trainee -Data Operations Analyst</title>
+    <link href="https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586" rel="alternate"/>
+    <id>workday:equifax:job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>IND-Bangalore-Equifax Credit Information Services · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GE Healthcare — Field Engineer Apprentice</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1" rel="alternate"/>
+    <id>workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-25T09:26:34Z",
-  "duration_seconds": 2208.4,
-  "companies_total": 4808,
+  "generated_at": "2026-08-25T11:16:33Z",
+  "duration_seconds": 2308.3,
+  "companies_total": 4818,
   "companies_by_source": {
-    "greenhouse": 1061,
-    "lever": 403,
-    "smartrecruiters": 809,
-    "workable": 125,
-    "ashby": 666,
+    "greenhouse": 1063,
+    "lever": 406,
+    "smartrecruiters": 810,
+    "workable": 128,
+    "ashby": 667,
     "recruitee": 2,
     "workday": 1421,
     "oracle": 140,
@@ -29,33 +29,33 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 242,
-  "fetched_ok": 4562,
-  "fetch_errors": 4,
+  "quarantined": 243,
+  "fetched_ok": 4556,
+  "fetch_errors": 19,
   "errors_by_source": {
-    "ashby": 1,
-    "workable": 3
+    "lever": 1,
+    "workable": 18
   },
-  "fetch_success_rate": 0.999,
-  "roles_matched": 70,
+  "fetch_success_rate": 0.996,
+  "roles_matched": 69,
   "roles_by_source": {
     "lever": 5,
-    "workday": 53,
+    "workday": 51,
     "ashby": 2,
     "greenhouse": 4,
     "workable": 2,
-    "smartrecruiters": 2,
+    "smartrecruiters": 3,
     "rippling": 2
   },
   "roles_by_cycle": {
-    "Summer 2027": 69,
+    "Summer 2027": 68,
     "Fall 2026": 1
   },
   "roles_by_region": {
-    "India": 44,
+    "India": 43,
     "Remote": 26
   },
   "purged_this_run": 0,
   "new_this_run": 2,
-  "open_total": 71
+  "open_total": 70
 }

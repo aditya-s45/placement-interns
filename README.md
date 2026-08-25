@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 25, 2026 at 04:31 IST</em></p>
+  <p><em>Last updated: Aug 25, 2026 at 07:42 IST</em></p>
 </div>
 
 ---
@@ -48,26 +48,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-24 |
-| Baxter International | Apprentice | Summer 2027 | 2026-08-24 |
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-24 |
-| Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-08-24 |
-| Liberty University | ADS Apprentice | Summer 2027 | 2026-08-24 |
-| Liberty University | Quality Analyst Engineer Apprentice | Summer 2027 | 2026-08-24 |
-| State Street | Apprentice | Summer 2027 | 2026-08-24 |
+| State Street | Apprentice | Summer 2027 | 2026-08-25 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-25 |
 | American Express | Apprentice | Summer 2027 | 2026-08-24 |
 | Availity | Data Science Intern | Summer 2027 | 2026-08-24 |
 | S&P Global | Apprentice, Private Markets | Summer 2027 | 2026-08-24 |
 | Availity | Software Engineering Intern | Summer 2027 | 2026-08-24 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-24 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-24 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-24 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-24 |
 | Caterpillar Inc. | India Production Apprentice-3 | Summer 2027 | 2026-08-24 |
 | Caterpillar Inc. | India Production Apprentice-4 | Summer 2027 | 2026-08-24 |
 | Caterpillar Inc. | India Production Apprentice-5 | Summer 2027 | 2026-08-24 |
 | Citi | Young Apprentice - C00 - MUMBAI IGS BEU | Summer 2027 | 2026-08-24 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-24 |
+| State Street | Apprentice | Summer 2027 | 2026-08-24 |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-24 |
+| Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-24 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-24 |
+| RRS Group | 2027 Summer Investment Analyst Internship – Real Estate Development & Multifamily Investments | Summer 2027 | 2026-08-24 |
+| GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-24 |
 
 </details>
 

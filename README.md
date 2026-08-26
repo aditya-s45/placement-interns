@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 26, 2026 at 21:01 IST</em></p>
+  <p><em>Last updated: Aug 26, 2026 at 23:03 IST</em></p>
 </div>
 
 ---
@@ -26,7 +26,7 @@
 | **Citi** | Services – Summer Analyst, India, 2027 <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Philips** | Intern - Embedded System <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Pune | Posted Tod | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Pune/Intern---Embedded-System_588498) |
 | **Cisco** | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition <sup>~</sup> | `Software` | Bangalore, India | Posted Tod | [Apply ↗](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1) |
-| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219) |
+| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -51,9 +51,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-26 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-26 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-26 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-26 |
+| Jones Lang LaSalle (JLL) | Apprentice- Finance | Summer 2027 | 2026-08-26 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-26 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-26 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-26 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-26 |
 | Airbus | Apprentice - Governance & Operations | Summer 2027 | 2026-08-26 |
@@ -67,10 +71,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-25 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-08-25 |
 | S&P Global | Apprentice | Summer 2027 | 2026-08-25 |
-| LinkedIn | Software Engineering Intern | Summer 2027 | 2026-08-25 |
-| Adobe | Apprentice Tech | Summer 2027 | 2026-08-25 |
-| Deutsche Bank | Apprentice Hiring, NCT | Summer 2027 | 2026-08-25 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-25 |
 
 </details>
 

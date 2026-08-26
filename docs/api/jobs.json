@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "company": "Citi",
+    "title": "Services – Summer Analyst, India, 2027",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:philips:job/Pune/Intern---Embedded-System_588498",
     "company": "Philips",
     "title": "Intern - Embedded System",
@@ -144,18 +156,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442936",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442936",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-162216",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -168,26 +168,38 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219",
     "company": "Citi",
     "title": "Young Apprentice - C00 - MUMBAI",
     "location": "Mumbai Maharashtra India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219",
     "salary": null,
     "source": "workday"
   },
   {
-    "id": "workday:ag:job/Bangalore-Area/Apprentice---Governance---Operations_JR10409958",
-    "company": "Airbus",
-    "title": "Apprentice - Governance & Operations",
-    "location": "Bangalore Area",
+    "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
+    "company": "Cox",
+    "title": "Inspector Apprentice (Manheim)",
+    "location": "Indianapolis IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Apprentice---Governance---Operations_JR10409958",
+    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Mumbai/Apprentice-Hiring-for-2026--2027_R0446921",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai/Apprentice-Hiring-for-2026--2027_R0446921",
     "salary": null,
     "source": "workday"
   },
@@ -276,18 +288,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -372,6 +372,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -380,18 +392,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -452,18 +452,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },

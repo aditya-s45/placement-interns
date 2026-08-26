@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 27, 2026 at 01:52 IST</em></p>
+  <p><em>Last updated: Aug 27, 2026 at 05:19 IST</em></p>
 </div>
 
 ---
@@ -51,11 +51,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Barry-Wehmiller | AI Intern | Summer 2027 | 2026-08-26 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-26 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-26 |
+| Baxter International | Apprentice | Summer 2027 | 2026-08-26 |
 | State Street | Apprentice | Summer 2027 | 2026-08-26 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-26 |
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-26 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-26 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-26 |
 | Jones Lang LaSalle (JLL) | Apprentice- Finance | Summer 2027 | 2026-08-26 |
@@ -71,6 +70,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Adobe | Apprentice Tech | Summer 2027 | 2026-08-25 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-08-25 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-25 |
+| GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-08-25 |
 
 </details>
 

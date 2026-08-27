@@ -1,0 +1,46 @@
+name: Test Telegram Features
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install -r requirements.txt
+
+      - name: Run Test Script
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python -c "
+          import sys, os
+          sys.path.insert(0, os.path.join(os.getcwd(), 'src'))
+          from intern_engine import telegram_notify
+          
+          fake_store = {
+              'test-123': {
+                  'id': 'test-123',
+                  'company': 'Google',
+                  'title': 'Software Engineering Intern, Summer 2027',
+                  'location': 'Bangalore, India',
+                  'url': 'https://www.google.com/about/careers/applications/jobs/results/137687877547016838-software-engineering-intern-summer-2027'
+              }
+          }
+          
+          print('Triggering test Telegram notification...')
+          telegram_notify.notify_new_jobs(fake_store, ['test-123'])
+          "

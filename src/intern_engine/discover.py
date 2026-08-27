@@ -323,5 +323,27 @@ def discover() -> tuple[list[dict], int]:
 
     # Auto-generate tracked/untracked files
     _update_tracked_untracked(merged)
+    
+    # Phase 0: Tier 2 & Tier 3 Discovery
+    if os.path.exists(paths.UNTRACKED_TXT_PATH):
+        with open(paths.UNTRACKED_TXT_PATH, "r", encoding="utf-8") as f:
+            untracked = [line.strip() for line in f if line.strip()]
+            
+        if untracked:
+            print(f"Starting Advanced Discovery for {len(untracked)} untracked companies...")
+            from . import advanced_discovery
+            advanced_hits = asyncio.run(advanced_discovery.resolve_untracked(untracked))
+            
+            if advanced_hits:
+                for hit in advanced_hits:
+                    merged[(hit["ats"], hit["slug"])] = hit
+                    
+                # Resave
+                companies = sorted(merged.values(), key=lambda c: c["name"].lower())
+                with open(paths.COMPANIES_PATH, "w", encoding="utf-8") as f:
+                    json.dump(companies, f, indent=2, ensure_ascii=False)
+                    
+                n_found = len(merged) - n_before
+                _update_tracked_untracked(merged)
 
     return companies, n_found

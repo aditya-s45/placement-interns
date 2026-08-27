@@ -33,11 +33,13 @@ def evaluate_fit(job_url: str) -> dict | None:
     prompt = (
         "You are a brutal, highly critical technical recruiter. "
         "I will provide a job description and a candidate's resume. "
-        "Compare them and return a JSON object with strictly these two keys:
+        "Compare them and return a JSON object with strictly these keys:
 "
         "'score': An integer from 0 to 100 representing how good of a match they are.
 "
         "'critique': A single brutally honest sentence explaining their biggest missing skill or why they might get rejected.
+"
+        "'tailored_bullets': If the score is 75 or higher, provide a list of 3 strings. Each string should be an existing bullet point from the resume rewritten to perfectly highlight skills relevant to this specific job description. If the score is below 75, omit this key.
 "
         "Do not include any markdown formatting, only valid JSON."
     )

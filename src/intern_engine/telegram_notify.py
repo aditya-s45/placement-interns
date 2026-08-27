@@ -38,6 +38,13 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
             lines.append(f'Score: {score}% Match {indicator}')
             lines.append(f'Critique: {fit.get("critique", "")}')
             
+            tailored = fit.get('tailored_bullets')
+            if tailored and isinstance(tailored, list):
+                lines.append('')
+                lines.append('? *Auto-Tailored Resume Bullets for this Role:*')
+                for bullet in tailored:
+                    lines.append(f'• {bullet}')
+            
         # The Inside Man feature
         alumni = referrals.find_alumni(company)
         if alumni:

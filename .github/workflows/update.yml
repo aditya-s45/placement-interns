@@ -31,7 +31,7 @@ jobs:
           pip list
 
       - name: Install Playwright browsers
-        run: playwright install chromium
+        run: playwright install --with-deps chromium
 
       - name: Run the engine
         env:

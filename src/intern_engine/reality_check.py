@@ -25,24 +25,18 @@ def evaluate_fit(job_url: str) -> dict | None:
         with httpx.Client(follow_redirects=True) as client:
             resp = client.get(job_url, timeout=10.0)
             soup = BeautifulSoup(resp.text, 'html.parser')
-            jd_text = soup.get_text(separator='
-', strip=True)[:15000]
+            jd_text = soup.get_text(separator='\n', strip=True)[:15000]
     except Exception:
         return None
         
     prompt = (
         "You are a brutal, highly critical technical recruiter. "
         "I will provide a job description and a candidate's resume. "
-        "Compare them and return a JSON object with strictly these keys:
-"
-        "'score': An integer from 0 to 100 representing how good of a match they are.
-"
-        "'critique': A single brutally honest sentence explaining their biggest missing skill or why they might get rejected.
-"
-        "'missing_keywords': A JSON list of strings representing the hard technical skills, tools, or languages (e.g. 'React', 'Kubernetes', 'C++') that are explicitly required in the job description but are completely missing from the candidate's resume. Keep the list concise (max 5 keywords).
-"
-        "'tailored_bullets': If the score is 75 or higher, provide a list of 3 strings. Each string should be an existing bullet point from the resume rewritten to perfectly highlight skills relevant to this specific job description. If the score is below 75, omit this key.
-"
+        "Compare them and return a JSON object with strictly these keys:\n"
+        "'score': An integer from 0 to 100 representing how good of a match they are.\n"
+        "'critique': A single brutally honest sentence explaining their biggest missing skill or why they might get rejected.\n"
+        "'missing_keywords': A JSON list of strings representing the hard technical skills, tools, or languages (e.g. 'React', 'Kubernetes', 'C++') that are explicitly required in the job description but are completely missing from the candidate's resume. Keep the list concise (max 5 keywords).\n"
+        "'tailored_bullets': If the score is 75 or higher, provide a list of 3 strings. Each string should be an existing bullet point from the resume rewritten to perfectly highlight skills relevant to this specific job description. If the score is below 75, omit this key.\n"
         "Do not include any markdown formatting, only valid JSON."
     )
     
@@ -54,11 +48,7 @@ def evaluate_fit(job_url: str) -> dict | None:
                     'model': 'openrouter/free',
                     'messages': [
                         {'role': 'system', 'content': prompt},
-                        {'role': 'user', 'content': f'JOB DESCRIPTION:
-{jd_text}
-
-RESUME:
-{resume_text}'}
+                        {'role': 'user', 'content': f'JOB DESCRIPTION:\n{jd_text}\n\nRESUME:\n{resume_text}'}
                     ]
                 },
                 headers={'Authorization': f'Bearer {api_key}'},
@@ -66,12 +56,11 @@ RESUME:
             )
             data = resp.json()
             content = data['choices'][0]['message']['content'].strip()
-            if content.startswith('`'):
+            if content.startswith('```'):
                 import re
-                content = re.sub(r'^`(?:json)?\s*', '', content)
-                content = re.sub(r'\s*`$', '', content)
+                content = re.sub(r'^```(?:json)?\s*', '', content)
+                content = re.sub(r'\s*```$', '', content)
             return json.loads(content)
     except Exception as e:
         print(f'  [RealityCheck] Error: {e}')
         return None
-

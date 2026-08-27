@@ -46,6 +46,10 @@ def cmd_update() -> None:
     dashboard.generate(store_data, stats)
     feed_entries = publish.write_feed(store_data)
     publish.write_api(store_data, stats)
+    
+    # Send WhatsApp alerts
+    from intern_engine import whatsapp
+    whatsapp.notify_new_jobs(store_data, new_ids)
     print("Update complete:")
     for k, v in stats.items():
         if isinstance(v, (int, float, str)):

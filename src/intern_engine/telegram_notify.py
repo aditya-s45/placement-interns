@@ -1,6 +1,7 @@
 import os
 import httpx
 from . import referrals
+from . import reality_check
 
 def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
     token = os.environ.get('TELEGRAM_BOT_TOKEN')
@@ -26,6 +27,17 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
         lines.append(f'?? {loc}')
         lines.append(f'?? [Apply Here]({url})')
         
+        # The Brutal Reality Check
+        print(f'  [Telegram] Running reality check for {company}...')
+        fit = reality_check.evaluate_fit(url)
+        if fit:
+            lines.append('')
+            lines.append('?? *Brutal Reality Check*')
+            score = fit.get('score', 0)
+            indicator = '??' if score >= 80 else '??' if score >= 50 else '??'
+            lines.append(f'Score: {score}% Match {indicator}')
+            lines.append(f'Critique: {fit.get("critique", "")}')
+            
         # The Inside Man feature
         alumni = referrals.find_alumni(company)
         if alumni:
@@ -42,9 +54,9 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
     lines.append('See all at: https://aditya-s45.github.io/placement-interns/')
     text = '
 '.join(lines)
-    url = f'https://api.telegram.org/bot{token}/sendMessage'
+    tg_url = f'https://api.telegram.org/bot{token}/sendMessage'
     try:
-        resp = httpx.post(url, json={'chat_id': chat_id, 'text': text, 'parse_mode': 'Markdown', 'disable_web_page_preview': True}, timeout=20.0)
+        resp = httpx.post(tg_url, json={'chat_id': chat_id, 'text': text, 'parse_mode': 'Markdown', 'disable_web_page_preview': True}, timeout=20.0)
         resp.raise_for_status()
         print('  [Telegram] Alert sent successfully!')
     except Exception as e:

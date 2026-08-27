@@ -1,4 +1,5 @@
-import os
+import codecs
+content = '''import os
 import httpx
 from . import referrals
 from . import reality_check
@@ -70,3 +71,6 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
         print('  [Telegram] Alert sent successfully!')
     except Exception as e:
         print(f'  [Telegram] Failed to send alert: {e}')
+'''
+with codecs.open('src/intern_engine/telegram_notify.py', 'w', 'utf-8') as f:
+    f.write(content)

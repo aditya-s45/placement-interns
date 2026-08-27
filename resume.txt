@@ -1,2 +1,50 @@
-PASTE YOUR RESUME TEXT HERE.
-(The more detailed, the better the AI can score your match for new internships!)
+Aditya Shingare Email: workaholicaditya4518@gmail.com
+Linkedin : adityashingare Mobile: +91-9284914072
+Github : aditya-s45
+Education
+Indian Institute of Information Technology Lucknow Lucknow, India
+Bachelor of Technology in Information Technology; CGPA: 8.65/10.0 August 2024 – June 2028
+• Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, Full-Stack Web Development, Artificial Intelligence, Software Engineering.
+• Honors: Reliance Foundation Scholar (Top 5% of 100,000+ applicants).
+
+Technical Skills
+Languages: C++, Python, JavaScript, Java, SQL, C, HTML/CSS
+ML & Deep Learning: PyTorch, OpenCV, CNNs, Attention Mechanisms, Meta HQ-SAM, YOLOv8, Gemini API
+Web & Backend: React.js, Next.js, Node.js, Express.js, Flask, Spring Boot, Spring Security, RESTful APIs, WebSockets
+Toolkit: PostgreSQL, Docker, Git/GitHub Actions, Linux, Chrome Extensions MV3
+Core Fundamentals: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, Machine Learning
+
+Experience
+PayPal Remote
+Mentee – Career Academy Program March 2026 – Aug 2026
+• Selected from a highly competitive applicant pool for an exclusive 6-month software engineering mentorship program.
+• Engaging in advanced technical upskilling under the guidance of industry experts, with a core focus on modern Software Engineering trends, system architecture, and professional development.
+• Participating in dedicated 1-on-1 sessions with senior PayPal engineers to refine system architecture design, optimize problem-solving approaches, and align technical workflows with enterprise standards.
+
+Technical Projects
+IRCTC Tatkal Auto-Filler | JavaScript, Chrome Extensions MV3, Angular DOM
+• Built a Chrome Extension (Manifest V3) that automates the entire IRCTC Tatkal booking flow — login to payment — in under 10 seconds, using zero npm dependencies for maximum execution speed.
+• Reverse-engineered Angular + PrimeNG’s change detection by simulating character-by-character input events and full mouse event sequences (mousedown -> mouseup -> click) to interact with the framework reliably without triggering bot detection.
+
+RubiksCV – Real-Time AR Solver | Python, OpenCV, Flask, WebSockets, Kociemba Algorithm
+• Built a real-time computer vision pipeline using OpenCV and HSV color segmentation to detect a physical Rubik’s Cube’s face colors and map them into a virtual state matrix.
+• Applied Kociemba’s Two-Phase algorithm to compute optimal solutions in under 20 moves and streamed step-by-step AR overlay guidance to a live frontend via WebSockets.
+
+DineSync – Full-Stack Dining Management System | Java, Spring Boot, Spring Security, Thymeleaf, PostgreSQL
+• Architected a scalable, full-stack MVC application using Spring Boot 3.4 and Java 21, supporting seamless product cataloging, cart management, and real-time order tracking mechanisms.
+• Engineered robust authentication and authorization utilizing Spring Security and OAuth2, enforcing role-based access control (RBAC) and securely hashing user passwords with BCrypt.
+• Designed the relational database schema with Spring Data JPA (Hibernate) to efficiently manage complex entities and order histories, containerizing the application with Docker for streamlined cloud deployment.
+
+Honors and Achievements
+• Google Big Code Challenge: Qualified as a Semi-finalist, ranking among the Top 1,500 participants globally.
+• Amazon ML Summer School Scholar: Selected out of 1,30,000+ applicants nationwide for Amazon’s competitive machine learning training program, mentored directly by Amazon Applied Scientists.
+• Shubhra Kar Linux Foundation LiFT Scholar: One of 500 recipients selected globally for the Linux Foundation’s LiFT Scholarship, awarding fully-funded open-source training.
+• Competitive Programming: Rated Expert (1708) on Codeforces, 4-Star (1828) on CodeChef, and Knight (1873) on LeetCode. Solved 1100+ algorithmic problems and participated in 90+ contests.
+• Global Top Contest Ranks: Secured Global Rank 42 (CodeChef Div. 2), Global Rank 410 (Codeforces Div. 2), Global Rank 46 (CodeChef Div. 3) and Global Rank 1240 (Codeforces Div.1+Div.2).
+• Hackathon Achievements: Winner (1st Place) at Hack-o-Fiesta v6.1 (IIIT Lucknow’s flagship 24-hour global AI/Web3 hackathon) and Top 21 Global Finalist at the Rootstock AI BUIDL Hackathon.
+• Mathematics Excellence: Placed in the Top 1% National Talent Pool (88,000+ candidates) for the IOQM.
+
+Leadership & Collaboration
+E-Cell IIIT Lucknow
+Coordinator June 2026 - Present
+• Coordinated Annual Startup Expo (500+ attendees, 20+ sponsors); collaborated with cross-functional teams and managed corporate outreach.

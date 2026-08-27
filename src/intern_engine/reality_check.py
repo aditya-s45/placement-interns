@@ -39,6 +39,8 @@ def evaluate_fit(job_url: str) -> dict | None:
 "
         "'critique': A single brutally honest sentence explaining their biggest missing skill or why they might get rejected.
 "
+        "'missing_keywords': A JSON list of strings representing the hard technical skills, tools, or languages (e.g. 'React', 'Kubernetes', 'C++') that are explicitly required in the job description but are completely missing from the candidate's resume. Keep the list concise (max 5 keywords).
+"
         "'tailored_bullets': If the score is 75 or higher, provide a list of 3 strings. Each string should be an existing bullet point from the resume rewritten to perfectly highlight skills relevant to this specific job description. If the score is below 75, omit this key.
 "
         "Do not include any markdown formatting, only valid JSON."

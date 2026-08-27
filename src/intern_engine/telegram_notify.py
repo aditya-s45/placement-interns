@@ -38,6 +38,10 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
             lines.append(f'Score: {score}% Match {indicator}')
             lines.append(f'Critique: {fit.get("critique", "")}')
             
+            missing = fit.get('missing_keywords', [])
+            if missing and isinstance(missing, list):
+                lines.append(f'Missing Keywords: [{", ".join(missing)}]')
+            
             tailored = fit.get('tailored_bullets')
             if tailored and isinstance(tailored, list):
                 lines.append('')

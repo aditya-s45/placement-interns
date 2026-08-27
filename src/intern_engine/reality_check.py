@@ -1,7 +1,7 @@
 import os
 import json
 import httpx
-from bs4 import BeautifulSoup
+from playwright.sync_api import sync_playwright
 
 from . import paths
 from . import llm
@@ -22,11 +22,15 @@ def evaluate_fit(job_url: str) -> dict | None:
         return None
         
     try:
-        with httpx.Client(follow_redirects=True) as client:
-            resp = client.get(job_url, timeout=10.0)
-            soup = BeautifulSoup(resp.text, 'html.parser')
-            jd_text = soup.get_text(separator='\n', strip=True)[:15000]
-    except Exception:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+            page.goto(job_url, wait_until="domcontentloaded", timeout=20000)
+            page.wait_for_timeout(2000) # Give React/Angular a moment to mount the DOM
+            jd_text = page.inner_text("body")[:15000]
+            browser.close()
+    except Exception as e:
+        print(f"  [RealityCheck] Playwright error: {e}")
         return None
         
     prompt = (

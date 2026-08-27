@@ -40,7 +40,7 @@ jobs:
                   'company': 'Google',
                   'title': 'Software Engineering Intern, Summer 2027',
                   'location': 'Bangalore, India',
-                  'url': 'https://www.google.com/about/careers/applications/jobs/results/137687877547016838-software-engineering-intern-summer-2027'
+                  'url': 'https://raw.githubusercontent.com/aditya-s45/placement-interns/main/docs/fake_job.html'
               }
           }
           

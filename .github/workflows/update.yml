@@ -36,8 +36,8 @@ jobs:
       - name: Run the engine
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
-          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python run.py update
 
       - name: Commit & push if changed

@@ -1,4 +1,5 @@
-import os
+import codecs
+content = '''import os
 import httpx
 from . import referrals
 from . import reality_check
@@ -16,52 +17,53 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
         return
     print(f'  [Telegram] Sending alert for {len(new_jobs)} new roles...')
     
-    lines = ['🚨 *New Internships Found!* 🚨', '']
+    lines = ['?? *New Internships Found!* ??', '']
     for j in new_jobs:
         company = j.get('company', 'Unknown')
         title = j.get('title', 'Role')
         loc = j.get('location', 'N/A')
         url = j.get('url', '')
-        lines.append(f'🏢 *{company}*')
-        lines.append(f'💼 {title}')
-        lines.append(f'📍 {loc}')
-        lines.append(f'🔗 [Apply Here]({url})')
+        lines.append(f'?? *{company}*')
+        lines.append(f'?? {title}')
+        lines.append(f'?? {loc}')
+        lines.append(f'?? [Apply Here]({url})')
         
         print(f'  [Telegram] Running reality check for {company}...')
         fit = reality_check.evaluate_fit(url)
         if fit:
             lines.append('')
-            lines.append('🤖 *Brutal Reality Check*')
+            lines.append('?? *Brutal Reality Check*')
             score = fit.get('score', 0)
-            indicator = '🟢' if score >= 80 else '🟡' if score >= 50 else '🔴'
+            indicator = '??' if score >= 80 else '??' if score >= 50 else '??'
             lines.append(f'Score: {score}% Match {indicator}')
             lines.append(f'Critique: {fit.get("critique", "")}')
             
             missing = fit.get('missing_keywords', [])
             if missing and isinstance(missing, list):
-                lines.append(f'Missing Keywords: [{", ".join(missing)}]')
+                lines.append(f'Missing Keywords: [{ ", ".join(missing) }]')
             
             tailored = fit.get('tailored_bullets')
             if tailored and isinstance(tailored, list):
                 lines.append('')
-                lines.append('✨ *Auto-Tailored Resume Bullets for this Role:*')
+                lines.append('? *Auto-Tailored Resume Bullets for this Role:*')
                 for bullet in tailored:
-                    lines.append(f'• {bullet}')
+                    lines.append(f'� {bullet}')
             
         alumni = referrals.find_alumni(company)
         if alumni:
             lines.append('')
-            lines.append(f'🤝 *IIIT Lucknow Alumni at {company}:*')
+            lines.append(f'?? *IIIT Lucknow Alumni at {company}:*')
             for name, link in alumni:
-                lines.append(f'• [{name}]({link})')
+                lines.append(f'� [{name}]({link})')
             lines.append('')
             lines.append(f'_"Hi {{Name}}, I saw your journey from IIIT Lucknow to {company} and was really inspired. I am currently applying for their internship and would love to ask you 2 quick questions about your experience if you have a moment!"_')
         lines.append('')
-        lines.append('━━━━━━━━━━━━━━━')
+        lines.append('???????????????')
         lines.append('')
         
     lines.append('See all at: https://aditya-s45.github.io/placement-interns/')
-    text = '\n'.join(lines)
+    text = '
+'.join(lines)
     tg_url = f'https://api.telegram.org/bot{token}/sendMessage'
     try:
         resp = httpx.post(tg_url, json={'chat_id': chat_id, 'text': text, 'parse_mode': 'Markdown', 'disable_web_page_preview': True}, timeout=20.0)
@@ -69,3 +71,6 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
         print('  [Telegram] Alert sent successfully!')
     except Exception as e:
         print(f'  [Telegram] Failed to send alert: {e}')
+'''
+with codecs.open('src/intern_engine/telegram_notify.py', 'w', 'utf-8') as f:
+    f.write(content)

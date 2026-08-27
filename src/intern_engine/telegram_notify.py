@@ -61,8 +61,7 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
         lines.append('')
         
     lines.append('See all at: https://aditya-s45.github.io/placement-interns/')
-    text = '
-'.join(lines)
+    text = '\n'.join(lines)
     tg_url = f'https://api.telegram.org/bot{token}/sendMessage'
     try:
         resp = httpx.post(tg_url, json={'chat_id': chat_id, 'text': text, 'parse_mode': 'Markdown', 'disable_web_page_preview': True}, timeout=20.0)

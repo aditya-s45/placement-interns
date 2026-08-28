@@ -12,6 +12,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:msd:job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414758",
+    "company": "Merck",
+    "title": "Information Technology Intern",
+    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414758",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:unisys:job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
+    "company": "Unisys",
+    "title": "AI Engineering Intern",
+    "location": "Bangalore, KA, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:alcon:job/Bangalore-India/Apprentice_R-2026-48654",
     "company": "Alcon",
     "title": "Apprentice",
@@ -48,14 +72,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "company": "Citi",
-    "title": "Services – Summer Analyst, India, 2027",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
+    "id": "workday:barrywehmiller:job/Chennai-India/AI-Intern_R022521",
+    "company": "Barry-Wehmiller",
+    "title": "AI Intern",
+    "location": "Chennai, India",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWCareers/job/Chennai-India/AI-Intern_R022521",
     "salary": null,
     "source": "workday"
   },
@@ -68,6 +92,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5049276-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B4-B5",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
     "salary": null,
     "source": "workday"
   },
@@ -132,18 +168,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
-    "company": "S&P Global",
-    "title": "Apprentice, Data Operations",
-    "location": "Ahmedabad, Gujarat",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
     "company": "Cox",
     "title": "Inspector Apprentice (Manheim)",
@@ -164,6 +188,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bengaluru-KA/MTS---Apprentice_REQ523318",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
+    "company": "Baxter International",
+    "title": "Apprentice",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
     "salary": null,
     "source": "workday"
   },
@@ -192,6 +228,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -212,18 +260,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
     "salary": null,
     "source": "workday"
   },
@@ -574,6 +610,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6148707004",
+    "company": "GuidePoint Security",
+    "title": "GPSU Cybersecurity Spring Internship",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-08-28T08:30:00-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "oracle:hccz.fa.em3.oraclecloud.com:25742",

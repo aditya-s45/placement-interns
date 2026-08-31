@@ -12,6 +12,66 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "company": "GE Healthcare",
+    "title": "Client Service Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976395",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - MUMBAI",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976395",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:elanco:job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1",
+    "company": "Elanco",
+    "title": "Junior IT Engineer – Information Technology Intern (Summer 2027)",
+    "location": "Indianapolis, IN",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:igsenergy:job/Ohio-Remote/Software-Engineer-Intern_R6263",
+    "company": "IGS Energy",
+    "title": "Software Engineer Intern",
+    "location": "Ohio Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:igsenergy:job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
+    "company": "IGS Energy",
+    "title": "Business Analyst Intern (Summer 2027)",
+    "location": "Ohio Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26991043",
     "company": "Citi",
     "title": "Young Apprentice - C00 - PUNE",
@@ -48,18 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/SNC-Lavalin-Atkins-Pune-Office/Apprentice_R-162403",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "SNC-Lavalin Atkins Pune Office",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/SNC-Lavalin-Atkins-Pune-Office/Apprentice_R-162403",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:unisys:job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
     "company": "Unisys",
     "title": "AI Engineering Intern",
@@ -68,18 +116,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980969",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - MUMBAI",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980969",
     "salary": null,
     "source": "workday"
   },
@@ -228,6 +264,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-159252",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Gurgaon.DLF Cyber City",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-159252",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
@@ -276,14 +324,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
-    "company": "GE Healthcare",
-    "title": "Field Engineer Apprentice",
-    "location": "Remote",
+    "id": "workday:epicorsoftware:job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
+    "company": "Epicor",
+    "title": "Interns - Content Developer /Technical Writing/ Instructional Designer",
+    "location": "India, Bangalore",
     "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "posted_at": "Posted Today",
+    "url": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
     "salary": null,
     "source": "workday"
   },
@@ -300,14 +348,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
+    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043420-2",
+    "company": "GE Healthcare",
+    "title": "Field Engineer Apprentice",
+    "location": "Remote",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
     "salary": null,
     "source": "workday"
   },
@@ -392,6 +440,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
@@ -512,6 +572,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 29 Days Ago",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
+    "company": "GE Healthcare",
+    "title": "Research Intern - AI",
+    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 2 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
     "salary": null,
     "source": "workday"
   },
@@ -658,18 +730,6 @@
     "url": "https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "smartrecruiters:RRSGroup:744000142513209",
-    "company": "RRS Group",
-    "title": "2027 Software Engineer Intern - Placement Year",
-    "location": "San Francisco, XX (Remote)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-09T14:55:15.629Z",
-    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "oracle:hccz.fa.em3.oraclecloud.com:25087",

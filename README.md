@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-12-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 31, 2026 at 03:01 IST</em></p>
+  <p><em>Last updated: Aug 31, 2026 at 06:23 IST</em></p>
 </div>
 
 ---
@@ -47,16 +47,17 @@ _~ = the title doesn't state a year; bucketed here from its posting date (12 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-31 |
+| Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-08-31 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-31 |
 | Alcon | Apprentice | Summer 2027 | 2026-08-30 |
 | Barry-Wehmiller | AI Intern | Summer 2027 | 2026-08-30 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-30 |
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | Summer 2027 | 2026-08-30 |
 | Baxter International | Apprentice | Summer 2027 | 2026-08-30 |
-| Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-08-30 |
 | Merck | Information Technology Intern | Summer 2027 | 2026-08-30 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-30 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-30 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-30 |
 | S&P Global | Apprentice, Private Equity | Summer 2027 | 2026-08-29 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-29 |
 | Concentric Ai | Internship, AI Workflow Optimization, Fall 2026 (Remote) | Fall 2026 | 2026-08-29 |
@@ -66,7 +67,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (12 of 
 | S&P Global | Apprentice, Data Operations | Summer 2027 | 2026-08-28 |
 | Conduent | Applied AI Engineer Intern | Summer 2027 | 2026-08-28 |
 | Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | Summer 2027 | 2026-08-27 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-27 |
 
 </details>
 

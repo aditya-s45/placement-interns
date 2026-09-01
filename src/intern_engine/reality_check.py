@@ -6,17 +6,17 @@ from playwright.sync_api import sync_playwright
 from . import paths
 from . import llm
 
-def evaluate_fit(job_url: str) -> dict | None:
+def evaluate_fit(job_url: str, resume_text: str = None) -> dict | None:
     api_key = os.environ.get('OPENROUTER_API_KEY')
     if not api_key:
         return None
         
-    resume_path = os.path.join(paths.ROOT, 'resume.txt')
-    if not os.path.exists(resume_path):
-        return None
-        
-    with open(resume_path, 'r', encoding='utf-8') as f:
-        resume_text = f.read().strip()
+    if not resume_text:
+        resume_path = os.path.join(paths.ROOT, 'resume.txt')
+        if not os.path.exists(resume_path):
+            return None
+        with open(resume_path, 'r', encoding='utf-8') as f:
+            resume_text = f.read().strip()
         
     if len(resume_text) < 100 or 'PASTE YOUR RESUME' in resume_text:
         return None

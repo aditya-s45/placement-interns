@@ -58,8 +58,17 @@ def cmd_update() -> None:
     print(f"  feed entries                 {feed_entries}")
 
 
+def cmd_poll_bot() -> None:
+    from intern_engine import telegram_bot
+    telegram_bot.poll()
+
+
 def main() -> None:
-    cmd = sys.argv[1] if len(sys.argv) > 1 else "update"
+    if len(sys.argv) < 2:
+        print("Usage: python run.py [discover|harvest|update|all|poll-bot]")
+        sys.exit(1)
+
+    cmd = sys.argv[1].lower()
     if cmd == "discover":
         cmd_discover()
     elif cmd == "harvest":
@@ -70,6 +79,8 @@ def main() -> None:
         cmd_discover()
         cmd_harvest()
         cmd_update()
+    elif cmd == "poll-bot":
+        cmd_poll_bot()
     else:
         print(__doc__)
         sys.exit(1)

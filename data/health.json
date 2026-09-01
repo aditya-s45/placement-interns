@@ -569,6 +569,11 @@
     "last_attempt_at": "2026-08-30T12:19:59Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/mara/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "greenhouse:marqeta": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-01T12:10:13Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/marqeta/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
   "greenhouse:matx": {
     "consecutive_failures": 10,
     "last_attempt_at": "2026-08-31T00:53:07Z",
@@ -583,6 +588,11 @@
     "consecutive_failures": 16,
     "last_attempt_at": "2026-08-30T12:19:59Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/modernizingmedicineinc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
+  },
+  "greenhouse:mqreferrals": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-01T12:10:13Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/mqreferrals/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:ola": {
     "consecutive_failures": 16,
@@ -658,6 +668,11 @@
     "consecutive_failures": 15,
     "last_attempt_at": "2026-08-31T23:20:42Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/shyftsolutionsllc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "greenhouse:sixthstreet": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-01T12:10:13Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/sixthstreet/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:spotonproduct": {
     "consecutive_failures": 16,
@@ -1280,9 +1295,19 @@
     "last_error": "no connector for wellfound"
   },
   "workable:sei": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-31T23:20:42Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-09-01T12:10:13Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/sei/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
+  "workable:starling-bank": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-01T12:10:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/starling-bank/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "workable:swoon-editions": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-01T12:10:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/swoon-editions/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workable:sword-group": {
     "consecutive_failures": 4,

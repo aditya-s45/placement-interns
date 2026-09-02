@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 02, 2026 at 06:05 IST</em></p>
+  <p><em>Last updated: Sep 02, 2026 at 09:58 IST</em></p>
 </div>
 
 ---
@@ -55,8 +55,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Epifi | Ai Engg Intern | Summer 2027 | 2026-09-02 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-02 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-02 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
+| Epifi | Ai Engg Intern | Summer 2027 | 2026-09-02 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | State Street | Social Media Apprentice | Summer 2027 | 2026-09-01 |
@@ -73,8 +75,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-01 |
 | Pearson | Apprentice, Assessment Quality Assurance | Summer 2027 | 2026-08-31 |
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-31 |
-| Jones Lang LaSalle (JLL) | MTS - Apprentice | Summer 2027 | 2026-08-31 |
-| Motorola | Data Analyst Co-Op | Summer 2027 | 2026-08-31 |
 
 </details>
 

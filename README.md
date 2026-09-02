@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 02, 2026 at 09:58 IST</em></p>
+  <p><em>Last updated: Sep 02, 2026 at 14:49 IST</em></p>
 </div>
 
 ---
@@ -46,7 +46,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **NVIDIA** | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 <span title='New within 48h'>✨</span> | `Data & ML/AI` | India, Bengaluru | Posted Tod | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
+| **NVIDIA** | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 | `Data & ML/AI` | India, Bengaluru | Posted Tod | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (14 of 15)._
 
@@ -55,14 +55,16 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-02 |
+| Pearson | Apprentice, Customer Service | Summer 2027 | 2026-09-02 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-02 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-02 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-02 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Epifi | Ai Engg Intern | Summer 2027 | 2026-09-02 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | State Street | Social Media Apprentice | Summer 2027 | 2026-09-01 |
-| State Street | Apprentice | Summer 2027 | 2026-09-01 |
 | Wex | PhD Intern, AI/ML/NLP Engineer | Summer 2027 | 2026-09-01 |
 | SPREEAI | Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI) | Summer 2027 | 2026-09-01 |
 | SPREEAI | Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web) | Summer 2027 | 2026-09-01 |
@@ -73,8 +75,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Barry-Wehmiller | AI Intern | Summer 2027 | 2026-09-01 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-01 |
-| Pearson | Apprentice, Assessment Quality Assurance | Summer 2027 | 2026-08-31 |
-| Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-31 |
 
 </details>
 

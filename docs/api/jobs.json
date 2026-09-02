@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "company": "CACI",
+    "title": "Business/Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:abb:job/Nashik-Maharashtra-India/ITI-apprentice_JR00044647",
     "company": "ABB",
     "title": "ITI apprentice",
@@ -104,18 +116,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cisco:job/Hyderabad-India/Software-Engineer-Trainee-Technical-Graduate-Apprentice---India-UHR_2024514",
-    "company": "Cisco",
-    "title": "Software Engineer Trainee_Technical Graduate Apprentice - India UHR",
-    "location": "Hyderabad, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Hyderabad-India/Software-Engineer-Trainee-Technical-Graduate-Apprentice---India-UHR_2024514",
     "salary": null,
     "source": "workday"
   },
@@ -288,18 +288,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -408,6 +396,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -416,18 +416,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
@@ -564,18 +552,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -692,18 +668,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-01",
     "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25450",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:156865",
-    "company": "Honeywell",
-    "title": "Intern Masters Embedded Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-01",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156865",
     "salary": null,
     "source": "oracle"
   },

@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 02, 2026 at 14:49 IST</em></p>
+  <p><em>Last updated: Sep 02, 2026 at 20:25 IST</em></p>
 </div>
 
 ---
@@ -55,10 +55,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-02 |
+| Parexel | Trainee Clinical Data Analyst | Summer 2027 | 2026-09-02 |
+| Unisys | AI Engineering Intern | Summer 2027 | 2026-09-02 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Pearson | Apprentice, Customer Service | Summer 2027 | 2026-09-02 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-02 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-02 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-02 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Epifi | Ai Engg Intern | Summer 2027 | 2026-09-02 |
@@ -72,9 +75,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-01 |
 | Epifi | DS/ML Intern | Summer 2027 | 2026-09-01 |
-| Barry-Wehmiller | AI Intern | Summer 2027 | 2026-09-01 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-01 |
 
 </details>
 

@@ -24,6 +24,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:abb:job/Nashik-Maharashtra-India/ITI-apprentice_JR00044647",
+    "company": "ABB",
+    "title": "ITI apprentice",
+    "location": "Nashik, Maharashtra, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Nashik-Maharashtra-India/ITI-apprentice_JR00044647",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
+    "company": "Hitachi Energy",
+    "title": "Internship - Software Asset Management",
+    "location": "Remote - Lesser Poland, Poland",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-163418",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -32,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-163418",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
     "salary": null,
     "source": "workday"
   },
@@ -120,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:parexel:job/India-Hyderabad-Remote/Trainee-Clinical-Data-Analyst_R0000045248",
-    "company": "Parexel",
-    "title": "Trainee Clinical Data Analyst",
-    "location": "India-Hyderabad-Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://parexel.wd1.myworkdayjobs.com/en-US/Parexel_External_Careers/job/India-Hyderabad-Remote/Trainee-Clinical-Data-Analyst_R0000045248",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:pg:job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000158265",
     "company": "Procter & Gamble (P&G)",
     "title": "Information Technology Intern",
@@ -200,18 +200,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:unisys:job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
-    "company": "Unisys",
-    "title": "AI Engineering Intern",
-    "location": "Bangalore, KA, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bangalore-KA-India/AI-Engineering-Intern_REQ574280",
     "salary": null,
     "source": "workday"
   },
@@ -384,6 +372,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -404,18 +404,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
     "salary": null,
     "source": "workday"
   },
@@ -572,6 +560,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },

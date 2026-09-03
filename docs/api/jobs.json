@@ -204,18 +204,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:valeo:job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026072348",
-    "company": "Valeo",
-    "title": "R&D Trainee/Apprentice/VIE",
-    "location": "Chennai",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026072348",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5049276-1",
     "company": "Gevernova",
     "title": "Grid Automation & Software Intern",
@@ -284,18 +272,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -420,18 +396,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
-    "company": "Campbellsoup",
-    "title": "Agentic AI Engineer Co-Op",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -444,14 +408,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
+    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
+    "company": "Campbellsoup",
+    "title": "Agentic AI Engineer Co-Op",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "salary": null,
     "source": "workday"
   },

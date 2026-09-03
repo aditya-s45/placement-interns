@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-02T23:12:22Z</updated>
+  <updated>2026-09-03T04:29:29Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Lawrence Livermore National Laboratory (LLNL) — Protocol and Special Events Undergraduate AI and Digital Solutions Intern</title>
@@ -133,12 +133,6 @@
     <updated>2026-08-27T22:33:19Z</updated>
     <summary>Poland - Remote, PL (Remote) · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Valeo — R&amp;D Trainee/Apprentice/VIE</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026072348" rel="alternate"/>
-    <id>workday:valeo:job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026072348</id>
-    <updated>2026-08-27T09:17:14Z</updated>
-    <summary>Chennai · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Realm — Software Engineer - Intern</title>
     <link href="https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a" rel="alternate"/>
     <id>ashby:realmalliance:a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a</id>
@@ -253,12 +247,6 @@
     <updated>2026-08-12T11:20:19Z</updated>
     <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Baxter International — Apprentice, Trainee (Post Market Surveillance)</title>
-    <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747" rel="alternate"/>
-    <id>workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747</id>
-    <updated>2026-08-11T13:26:16Z</updated>
-    <summary>Gurgaon, Haryana · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Deutsche Bank — HR Apprentice</title>
     <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425" rel="alternate"/>
     <id>workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425</id>
@@ -306,5 +294,17 @@
     <id>workable:innovaccer-analytics:47C4AD89C2</id>
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Noida, Uttar Pradesh, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Astreya — AI Infrastructure DC Design Intern</title>
+    <link href="https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746" rel="alternate"/>
+    <id>workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Remote, CA · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Campbellsoup — Agentic AI Engineer Co-Op</title>
+    <link href="https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015" rel="alternate"/>
+    <id>workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>USA - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

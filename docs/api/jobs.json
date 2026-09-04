@@ -756,6 +756,18 @@
     "source": "workday"
   },
   {
+    "id": "oracle:hccz.fa.em3.oraclecloud.com:25530",
+    "company": "Pearson",
+    "title": "Content Producer, Apprentice",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-04",
+    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "oracle:hccz.fa.em3.oraclecloud.com:25878",
     "company": "Pearson",
     "title": "Associate, AI & Machine Learning Intern",

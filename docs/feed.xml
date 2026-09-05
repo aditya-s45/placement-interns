@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-05T04:33:13Z</updated>
+  <updated>2026-09-05T08:48:37Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Pearson — Content Producer, Apprentice</title>
@@ -18,12 +18,6 @@
     <id>oracle:hccz.fa.em3.oraclecloud.com:25878</id>
     <updated>2026-09-04T19:32:31Z</updated>
     <summary>Bangalore, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Airbus — Apprentice - Digital Cybersecurity</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159" rel="alternate"/>
-    <id>workday:ag:job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159</id>
-    <updated>2026-09-04T14:46:29Z</updated>
-    <summary>Bangalore Area · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Citi — Young Apprentice - C00 - MUMBAI</title>
     <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163" rel="alternate"/>
@@ -139,11 +133,11 @@
     <updated>2026-09-02T09:19:07Z</updated>
     <summary>Kolkata - India · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>AtkinsRéalis — Apprentice</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-163418" rel="alternate"/>
-    <id>workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-163418</id>
+    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692" rel="alternate"/>
+    <id>workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692</id>
     <updated>2026-09-02T09:19:07Z</updated>
-    <summary>AtkinsRéalis - Corporate Office Bangalore · Other · Summer 2027</summary>
+    <summary>Jaipur · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>TNS — RTR Apprentice Accountant</title>
     <link href="https://tnsi.wd1.myworkdayjobs.com/en-US/Search/job/IND---Noida/PTP-Telco-Apprentice_R2979" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1</id>
     <updated>2026-08-14T13:21:29Z</updated>
     <summary>USA - IL (Remote) · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>ConnectPrep — Data Analyst Internship</title>
+    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/" rel="alternate"/>
+    <id>workable:connectprep:D1C67258C0</id>
+    <updated>2026-08-13T04:31:51Z</updated>
+    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

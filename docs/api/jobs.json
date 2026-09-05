@@ -192,18 +192,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-163418",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -468,6 +456,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -524,18 +524,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -814,6 +802,18 @@
     "url": "https://jobs.lever.co/dnb/c5ad2eb1-2826-4845-9e9b-b171afc80c4b",
     "salary": null,
     "source": "lever"
+  },
+  {
+    "id": "workable:twgai:1206BF981C",
+    "company": "TWG Global",
+    "title": "AI Data Science Intern (UK)",
+    "location": "London, England, United Kingdom (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-01T00:00:00.000Z",
+    "url": "https://apply.workable.com/twgai/j/1206BF981C/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "smartrecruiters:Acumatica:744000146749696",

@@ -120,18 +120,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:spgi:job/Gurugram-Haryana/Apprentice_329593-1",
-    "company": "S&P Global",
-    "title": "Apprentice",
-    "location": "Gurugram, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice_329593-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice- Project & Development Services",
@@ -152,6 +140,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "company": "CACI",
+    "title": "Business/Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
     "salary": null,
     "source": "workday"
   },
@@ -432,18 +432,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:epicorsoftware:job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
-    "company": "Epicor",
-    "title": "Interns - Content Developer /Technical Writing/ Instructional Designer",
-    "location": "India, Bangalore",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -492,14 +480,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
@@ -958,18 +946,6 @@
     "url": "https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "oracle:egug.fa.us2.oraclecloud.com:26010893",
-    "company": "American Express",
-    "title": "Apprentice",
-    "location": "Gurugram, HR, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-30",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010893",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workable:innovaccer-analytics:47C4AD89C2",

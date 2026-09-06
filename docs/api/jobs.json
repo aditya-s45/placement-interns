@@ -12,18 +12,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -56,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
     "salary": null,
     "source": "workday"
   },
@@ -152,18 +152,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
-    "company": "CACI",
-    "title": "Business/Systems Analyst Intern - Summer 2027",
-    "location": "Remote (Any State)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
     "salary": null,
     "source": "workday"
   },
@@ -348,6 +336,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
+    "company": "Cox",
+    "title": "Inspector Apprentice (Manheim)",
+    "location": "Indianapolis IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -444,6 +444,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -480,14 +492,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -720,18 +732,6 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:rubrik:8166537",
-    "company": "Rubrik",
-    "title": "Software Engineer (CPD) - Winter Intern (Pune)",
-    "location": "Pune",
-    "category": "Software",
-    "season": "Term Unconfirmed",
-    "posted_at": "2026-09-06T08:47:22-04:00",
-    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "greenhouse:rubrik:8166523",
     "company": "Rubrik",
     "title": "Software Engineer - Winter Intern",
@@ -740,6 +740,18 @@
     "season": "Term Unconfirmed",
     "posted_at": "2026-09-06T08:42:59-04:00",
     "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:rubrik:8166537",
+    "company": "Rubrik",
+    "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+    "location": "Pune",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-09-06T08:47:22-04:00",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
     "salary": null,
     "source": "greenhouse"
   },

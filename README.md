@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 06, 2026 at 02:24 IST</em></p>
+  <p><em>Last updated: Sep 06, 2026 at 05:50 IST</em></p>
 </div>
 
 ---
@@ -54,11 +54,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-06 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-06 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-05 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-05 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-05 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-04 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-04 |
 | State Street | Apprentice | Summer 2027 | 2026-09-04 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-04 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-04 |

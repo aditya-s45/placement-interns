@@ -13,17 +13,16 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 07, 2026 at 15:14 IST</em></p>
+  <p><em>Last updated: Sep 07, 2026 at 21:54 IST</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>9 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
-| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987829) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
@@ -32,7 +31,7 @@
 | **Atlys** | AI Intern <sup>~</sup> | `Data & ML/AI` | Delhi HQ | 2026-08-12 | [Apply ↗](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) |
 | **Stripe** | Software Engineer, Intern <sup>~</sup> | `Software` | Bengaluru | 2026-07-10 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
 
-## Summer 2027 (Remote) <kbd>4 open</kbd>
+## Summer 2027 (Remote) <kbd>5 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -40,6 +39,7 @@
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 30+ | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) |
+| **Dropbox** | Software Engineering Intern (Summer 2027) <span title='New within 48h'>✨</span> | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
 
@@ -54,7 +54,7 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern (Pune) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Pune | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (15 of 16)._
+_~ = the title doesn't state a year; bucketed here from its posting date (14 of 16)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
@@ -63,16 +63,16 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 |---|---|---|---|
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-07 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-07 |
-| Hitachi Energy | Internship - Software Asset Management | Summer 2027 | 2026-09-07 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-07 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-07 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-07 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-07 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-07 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-07 |
 | American Express | Apprentice | Summer 2027 | 2026-09-06 |
 | Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | Summer 2027 | 2026-09-06 |
 | S&P Global | Apprentice | Summer 2027 | 2026-09-06 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-06 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-06 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-06 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-04 |
 | State Street | Apprentice | Summer 2027 | 2026-09-04 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-04 |

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T20:55:02Z",
-  "duration_seconds": 2426.9,
+  "generated_at": "2026-09-07T00:17:22Z",
+  "duration_seconds": 2247.0,
   "companies_total": 4956,
   "companies_by_source": {
     "greenhouse": 1090,
@@ -29,10 +29,11 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 302,
+  "quarantined": 301,
   "fetched_ok": 4644,
-  "fetch_errors": 10,
+  "fetch_errors": 11,
   "errors_by_source": {
+    "greenhouse": 1,
     "workable": 10
   },
   "fetch_success_rate": 0.998,

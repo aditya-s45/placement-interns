@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-07T16:24:20Z</updated>
+  <updated>2026-09-07T20:26:44Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Dropbox — Software Engineering Intern (Summer 2027)</title>
@@ -60,12 +60,6 @@
     <id>workday:ag:job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159</id>
     <updated>2026-09-04T14:46:29Z</updated>
     <summary>Bangalore Area · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
-    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
-    <updated>2026-09-04T14:46:29Z</updated>
-    <summary>Hyderabad, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Magna International — Maintenance Apprentice-2</title>
     <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165" rel="alternate"/>
@@ -259,12 +253,6 @@
     <updated>2026-08-26T05:26:54Z</updated>
     <summary>Remote · Other · Fall 2026</summary>
   </entry>  <entry>
-    <title>GSK — Apprentice, India Tier-1 Operations – People Services</title>
-    <link href="https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848" rel="alternate"/>
-    <id>workday:gsk:job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848</id>
-    <updated>2026-08-25T11:16:33Z</updated>
-    <summary>Bengaluru Luxor North Tower · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Gevernova — Field/Onsite Winder Apprentice-6</title>
     <link href="https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411" rel="alternate"/>
     <id>workday:gevernova:job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411</id>
@@ -306,5 +294,17 @@
     <id>workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803</id>
     <updated>2026-08-19T08:55:17Z</updated>
     <summary>Gurgaon, Haryana, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>LeoLabs — Skillbridge Administrative Operations Apprentice</title>
+    <link href="https://job-boards.greenhouse.io/leolabsinc/jobs/4367943009" rel="alternate"/>
+    <id>greenhouse:leolabsinc:4367943009</id>
+    <updated>2026-08-18T18:57:58Z</updated>
+    <summary>Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>AHEAD — MS - EUS Apprentice/Intern (6 months)</title>
+    <link href="https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f" rel="alternate"/>
+    <id>lever:thinkahead:7950d5ca-0cf8-4fa5-a2fc-6210c711411f</id>
+    <updated>2026-08-18T05:10:20Z</updated>
+    <summary>Gurugram, Haryana · Other · Summer 2027</summary>
   </entry>
 </feed>

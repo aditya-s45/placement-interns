@@ -24,26 +24,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:adobe:job/Bangalore/Apprentice-Tech_R171451",
-    "company": "Adobe",
-    "title": "Apprentice Tech",
-    "location": "Bangalore",
-    "category": "Other",
+    "id": "workday:allegion:job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1",
+    "company": "Allegion",
+    "title": "Summer Intern – Firmware Engineer (Advanced Development) – Indianapolis, IN",
+    "location": "Indianapolis, IN - Hague Rd",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171451",
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1",
     "salary": null,
     "source": "workday"
   },
   {
-    "id": "workday:cambiumlearning:job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
-    "company": "Cambium Learning Group",
-    "title": "Software Engineer Intern – AI Applications",
+    "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice (Chattanooga, TN)",
     "location": "Remote",
-    "category": "Data & ML/AI",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
     "salary": null,
     "source": "workday"
   },
@@ -528,6 +528,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -624,18 +648,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505",
     "company": "R1 RCM",
     "title": "Associate Analyst - Apprentice",
@@ -680,18 +692,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -792,16 +792,40 @@
     "source": "workday"
   },
   {
-    "id": "smartrecruiters:M3USA:744000148244649",
-    "company": "M3USA",
-    "title": "AI Engineering Intern (Remote)",
-    "location": "Fort Washington, PA, United States (Remote)",
+    "id": "smartrecruiters:LLNL:3743990015112846",
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "title": "Protocol and Special Events Undergraduate AI and Digital Solutions Intern",
+    "location": "Livermore, CA, United States (Remote)",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-09-08T13:47:05.082Z",
-    "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649",
+    "posted_at": "2026-09-08T16:21:35.576Z",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015112846",
     "salary": null,
     "source": "smartrecruiters"
+  },
+  {
+    "id": "smartrecruiters:LinkedIn3:744000148299359",
+    "company": "LinkedIn",
+    "title": "Software Engineering Intern",
+    "location": "Bengaluru, KA, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T16:44:01.909Z",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148299359",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "greenhouse:vercel:6181759004",
+    "company": "Vercel",
+    "title": "Software Engineering Intern - Summer '27",
+    "location": "Hybrid - San Francisco",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T11:31:06-04:00",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com:107430",
@@ -816,6 +840,18 @@
     "source": "oracle"
   },
   {
+    "id": "smartrecruiters:M3USA:744000148244649",
+    "company": "M3USA",
+    "title": "AI Engineering Intern (Remote)",
+    "location": "Fort Washington, PA, United States (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T13:47:05.082Z",
+    "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "oracle:emit.fa.ca3.oraclecloud.com:94773",
     "company": "WSP",
     "title": "Intern, Building Technology Systems",
@@ -826,42 +862,6 @@
     "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94773",
     "salary": null,
     "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157407",
-    "company": "Honeywell",
-    "title": "Intern Masters Embedded Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157407",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157433",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157433",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "smartrecruiters:LinkedIn3:744000148146490",
-    "company": "LinkedIn",
-    "title": "Artificial Intelligence / Machine Learning Engineering Intern",
-    "location": "Bengaluru, KA, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T06:49:55.691Z",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148146490",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "greenhouse:dropbox:8106224",
@@ -900,30 +900,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25530",
-    "company": "Pearson",
-    "title": "Content Producer, Apprentice",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-04",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25878",
-    "company": "Pearson",
-    "title": "Associate, AI & Machine Learning Intern",
-    "location": "Bangalore, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-04",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
     "id": "smartrecruiters:InfiniteQuant:744000147163879",
     "company": "InfiniteQuant",
     "title": "Quantitative Developer - Internship - Summer 2027",
@@ -932,18 +908,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-03T07:07:53.041Z",
     "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
-    "salary": null,
-    "source": "smartrecruiters"
-  },
-  {
-    "id": "smartrecruiters:LLNL:3743990015035697",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "title": "Protocol and Special Events Undergraduate AI and Digital Solutions Intern",
-    "location": "Livermore, CA, United States (Remote)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-02T22:26:31.063Z",
-    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015035697",
     "salary": null,
     "source": "smartrecruiters"
   },

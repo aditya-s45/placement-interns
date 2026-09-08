@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-17-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 08, 2026 at 04:52 IST</em></p>
+  <p><em>Last updated: Sep 08, 2026 at 10:09 IST</em></p>
 </div>
 
 ---
@@ -62,11 +62,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-08 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-08 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-07 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-07 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-07 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-07 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-07 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-07 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |

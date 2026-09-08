@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-18-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 09, 2026 at 01:36 IST</em></p>
+  <p><em>Last updated: Sep 09, 2026 at 04:38 IST</em></p>
 </div>
 
 ---
@@ -31,16 +31,21 @@
 | **Atlys** | AI Intern <sup>~</sup> | `Data & ML/AI` | Delhi HQ | 2026-08-12 | [Apply ↗](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) |
 | **Stripe** | Software Engineer, Intern <sup>~</sup> | `Software` | Bengaluru | 2026-07-10 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
 
-## Summer 2027 (Remote) <kbd>7 open</kbd>
+## Summer 2027 (Remote) <kbd>12 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
+| **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician_R4043134-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GoTo Group** | DevOps Intern (fixed term, 8 months) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote (Hungary) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 30+ | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) |
+| **Coinbase** | Analytics Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| **Coinbase** | Data Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
+| **Coinbase** | Data Science Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
+| **Coinbase** | Machine Learning Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
+| **Coinbase** | Software Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) <span title='New within 48h'>✨</span> | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
@@ -56,13 +61,15 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern (Pune) <sup>~</sup> | `Software` | Pune | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (16 of 18)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 23)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-08 |
+| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-08 |
 | Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
 | Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-08 |
@@ -70,13 +77,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-08 |
 | LinkedIn | Artificial Intelligence / Machine Learning Engineering Intern | Summer 2027 | 2026-09-08 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-08 |
-| Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-08 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-08 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-08 |
 | Sigmoid | Information Security Intern | Summer 2027 | 2026-09-08 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-08 |
 | Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-09-08 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-08 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-08 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-07 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |

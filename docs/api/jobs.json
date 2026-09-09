@@ -132,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -540,6 +528,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-025",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 4 Days Ago",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-025",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043420-2",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -548,18 +548,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
     "salary": null,
     "source": "workday"
   },
@@ -720,6 +708,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -816,14 +816,26 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:coinbase:8175471",
+    "id": "greenhouse:coinbase:8168315",
     "company": "Coinbase",
-    "title": "Analytics Engineer Intern",
+    "title": "Software Engineer Intern",
+    "location": "Hybrid - San Francisco, CA",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T18:12:20-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:coinbase:8175441",
+    "company": "Coinbase",
+    "title": "Machine Learning Engineer Intern",
     "location": "Hybrid - San Francisco, CA",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-09-08T18:20:56-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+    "posted_at": "2026-09-08T18:22:07-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
     "salary": null,
     "source": "greenhouse"
   },
@@ -852,26 +864,14 @@
     "source": "greenhouse"
   },
   {
-    "id": "greenhouse:coinbase:8175441",
+    "id": "greenhouse:coinbase:8175471",
     "company": "Coinbase",
-    "title": "Machine Learning Engineer Intern",
+    "title": "Analytics Engineer Intern",
     "location": "Hybrid - San Francisco, CA",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-09-08T18:22:07-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
-    "id": "greenhouse:coinbase:8168315",
-    "company": "Coinbase",
-    "title": "Software Engineer Intern",
-    "location": "Hybrid - San Francisco, CA",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T18:12:20-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "posted_at": "2026-09-08T18:20:56-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
     "salary": null,
     "source": "greenhouse"
   },
@@ -1198,18 +1198,6 @@
     "url": "https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f",
     "salary": null,
     "source": "lever"
-  },
-  {
-    "id": "greenhouse:stripe:8031833",
-    "company": "Stripe",
-    "title": "Software Engineer, Intern",
-    "location": "Bengaluru",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-10T01:33:52-04:00",
-    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:parsons:job/US---Remote-Any-Location/Software-Developer-Intern_R185565",

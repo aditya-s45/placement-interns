@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 09, 2026 at 17:10 IST</em></p>
+  <p><em>Last updated: Sep 09, 2026 at 22:30 IST</em></p>
 </div>
 
 ---
@@ -23,8 +23,8 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
+| **Adobe** | Apprentice Tech <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore | Posted Tod | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171245) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
-| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980969) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -35,7 +35,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician_R4043134-1) |
+| **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GoTo Group** | DevOps Intern (fixed term, 8 months) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote (Hungary) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
@@ -46,7 +46,7 @@
 | **Coinbase** | Data Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
 | **Coinbase** | Data Science Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
 | **Coinbase** | Analytics Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
-| **Dropbox** | Software Engineering Intern (Summer 2027) <span title='New within 48h'>✨</span> | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
+| **Dropbox** | Software Engineering Intern (Summer 2027) | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
 
@@ -68,16 +68,17 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-09 |
+| Corteva | R&D Intern – Computer & Data Science | Summer 2027 | 2026-09-09 |
+| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-09 |
+| State Street | Apprentice | Summer 2027 | 2026-09-09 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | WSP | Intern, Building Technology Systems | Summer 2027 | 2026-09-09 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-09 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-09 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-09 |
-| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-09 |
 | Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-09-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-09 |
-| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-08 |
 | Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
 | Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-08 |
@@ -87,7 +88,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-08 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-08 |
 | Sigmoid | Information Security Intern | Summer 2027 | 2026-09-08 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-08 |
 
 </details>
 

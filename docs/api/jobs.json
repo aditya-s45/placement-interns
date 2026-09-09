@@ -12,6 +12,42 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "company": "GE Healthcare",
+    "title": "Client Service Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:adobe:job/Bangalore/Apprentice-Tech_R171245",
+    "company": "Adobe",
+    "title": "Apprentice Tech",
+    "location": "Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171245",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:trustage:job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+    "company": "TruStage",
+    "title": "Enterprise Information & Technology Internship (Hybrid)",
+    "location": "Wisconsin - Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402",
     "company": "Deutsche Bank",
     "title": "Business Management & Automation Analyst - Apprentice, NCT",
@@ -44,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://acxiomllc.wd5.myworkdayjobs.com/en-US/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/Remote/Client-Service-Technician_R4043134-1",
-    "company": "GE Healthcare",
-    "title": "Client Service Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician_R4043134-1",
     "salary": null,
     "source": "workday"
   },
@@ -108,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797519",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:goto:job/Remote-Hungary/DevOps-Intern_R26-2270-1",
     "company": "GoTo Group",
     "title": "DevOps Intern (fixed term, 8 months)",
@@ -156,6 +168,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -180,18 +204,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
-    "company": "Corteva",
-    "title": "R&D Intern – Computer & Data Science",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
     "company": "Corteva",
     "title": "R&D Internship – Computer & Data Science",
@@ -212,6 +224,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice- Project & Development Services",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
     "salary": null,
     "source": "workday"
   },
@@ -408,18 +432,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980969",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - MUMBAI",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980969",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gevernova:job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411",
     "company": "Gevernova",
     "title": "Field/Onsite Winder Apprentice-6",
@@ -492,6 +504,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -552,14 +576,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-825-1",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-825-1",
     "salary": null,
     "source": "workday"
   },
@@ -802,6 +826,30 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
+    "company": "ONE Finance",
+    "title": "Software Engineer, Intern",
+    "location": "United States (Remote)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T16:55:09.616+00:00",
+    "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
+    "salary": "$32 per hour",
+    "source": "ashby"
+  },
+  {
+    "id": "ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a",
+    "company": "ONE Finance",
+    "title": "AI Research, Intern",
+    "location": "United States (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T16:52:09.425+00:00",
+    "url": "https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a",
+    "salary": "$32 per hour",
+    "source": "ashby"
   },
   {
     "id": "greenhouse:coinbase:8168315",

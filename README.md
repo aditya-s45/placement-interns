@@ -10,20 +10,21 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-22-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 09, 2026 at 10:11 IST</em></p>
+  <p><em>Last updated: Sep 09, 2026 at 17:10 IST</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
+| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980969) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -58,19 +59,24 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
-| **Rubrik** | Software Engineer (CPD) - Winter Intern (Pune) <sup>~</sup> | `Software` | Pune | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
+| **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 22)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 23)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| WSP | Intern, Building Technology Systems | Summer 2027 | 2026-09-09 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-09 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-09 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-09 |
+| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-09 |
+| Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-09-09 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-09 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-08 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-08 |
 | Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
 | Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
@@ -82,11 +88,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-08 |
 | Sigmoid | Information Security Intern | Summer 2027 | 2026-09-08 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-08 |
-| Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-09-08 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-08 |
-| GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-07 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
 
 </details>
 

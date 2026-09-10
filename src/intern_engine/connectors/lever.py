@@ -1,4 +1,9 @@
-"""Lever postings API: public, no auth."""
+"""Lever postings API: public, no auth. Returns a bare JSON list.
+
+The list payload already carries the full posting text (description + lists +
+additional) and a structured salary range, so sponsorship classification and
+pay info cost zero extra requests here.
+"""
 
 from __future__ import annotations
 
@@ -20,10 +25,8 @@ def _epoch_ms_to_iso(ms) -> str | None:
 
 
 def _description(posting: dict) -> str:
-    parts = [
-        posting.get("descriptionPlain") or "",
-        posting.get("additionalPlain") or "",
-    ]
+    """All the text an applicant would read, flattened for classification."""
+    parts = [posting.get("descriptionPlain") or "", posting.get("additionalPlain") or ""]
     for block in posting.get("lists") or []:
         if isinstance(block, dict):
             parts.append(f"{block.get('text') or ''} {block.get('content') or ''}")
@@ -33,7 +36,7 @@ def _description(posting: dict) -> str:
 def _salary(posting: dict) -> str | None:
     rng = posting.get("salaryRange")
     if isinstance(rng, dict) and rng.get("min") and rng.get("max"):
-        currency = rng.get("currency") or "INR"
+        currency = rng.get("currency") or "USD"
         interval = (rng.get("interval") or "").replace("-", " ").lower()
         text = f"{int(rng['min']):,}–{int(rng['max']):,} {currency}"
         return f"{text} / {interval}" if interval else text

@@ -33,6 +33,8 @@ async def fetch(company: dict, net: Net) -> list[Job]:
 
             employer = posting.get("employer") or {}
             c_name = employer.get("company_name") or "Unknown"
+
+            # create a slug for the company
             c_slug = c_name.lower().replace(" ", "")
 
             jobs.append(

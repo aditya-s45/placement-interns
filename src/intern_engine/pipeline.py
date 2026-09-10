@@ -20,9 +20,11 @@ from datetime import UTC, datetime, timedelta
 import httpx
 
 from . import config, filters, health, models, paths, quality, store
-from .connectors import (ashby, bloomberg, bytedance, google, greenhouse, 
-                         icims, instahyre, lever, oracle, rippling, 
-                         smartrecruiters, successfactors, uber, workable, 
+from .connectors import (amazon, ashby, bloomberg, breezy, bytedance, 
+                         custom_careers, eightfold, google, greenhouse, 
+                         icims, instahyre, internshala, lever, naukri, 
+                         oracle, recruitee, rippling, smartrecruiters, 
+                         successfactors, uber, unstop, wellfound, workable, 
                          workday, yc_waas, custom)
 from .net import HostLimiter, Net
 
@@ -44,6 +46,16 @@ CONNECTORS = {
     "bytedance": bytedance.fetch,
     "uber": uber.fetch,
     "custom": custom.fetch,
+    # New ones ported from friend's repo
+    "amazon": amazon.fetch,
+    "breezy": breezy.fetch,
+    "custom_careers": custom_careers.fetch,
+    "eightfold": eightfold.fetch,
+    "naukri": naukri.fetch,
+    "recruitee": recruitee.fetch,
+    "unstop": unstop.fetch,
+    "internshala": internshala.fetch,
+    "wellfound": wellfound.fetch,
 }
 
 GLOBAL_CONCURRENCY = 32

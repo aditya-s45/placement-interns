@@ -1,4 +1,10 @@
-"""SmartRecruiters postings API: public, no auth."""
+"""SmartRecruiters postings API: public, no auth.
+
+We pass ?q=intern so the server pre-filters to internship-ish roles, and read
+`releasedDate` for an accurate posting date. Company identifiers are
+case-sensitive, so the discovery layer preserves their case. Paginated by
+offset for the enterprise tenants that post 100+ intern reqs.
+"""
 
 from __future__ import annotations
 
@@ -6,6 +12,7 @@ from ..models import Job
 from ..net import Net
 
 URL = "https://api.smartrecruiters.com/v1/companies/{slug}/postings"
+
 _PAGE_SIZE = 100
 _MAX_JOBS = 300
 
@@ -23,9 +30,7 @@ _COUNTRY = {
 def _location(loc) -> str:
     if not isinstance(loc, dict):
         return "—"
-    country = _COUNTRY.get(
-        (loc.get("country") or "").lower(), (loc.get("country") or "").upper()
-    )
+    country = _COUNTRY.get((loc.get("country") or "").lower(), (loc.get("country") or "").upper())
     text = ", ".join(p for p in (loc.get("city"), loc.get("region"), country) if p)
     if loc.get("remote"):
         text = f"{text} (Remote)" if text else "Remote"

@@ -1,4 +1,9 @@
-"""Greenhouse board API: public, no auth."""
+"""Greenhouse board API: public, no auth.
+
+The list endpoint now exposes `first_published` (a true publish date), so the
+biggest source on the list gets real Posted dates. Descriptions are NOT in the
+list payload — the enrichment stage fetches those per matched role.
+"""
 
 from __future__ import annotations
 

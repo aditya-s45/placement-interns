@@ -1,134 +1,97 @@
-"""Workday CXS career site API connector.
+"""Workday (enterprise tier) — the biggest ATS in intern hiring.
 
-Workday's public career pages expose a JSON POST endpoint at:
-    https://{tenant}.wd{N}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs
+Per-tenant POST API behind bot management. Two public URL shapes exist and we
+support both:
+  subdomain:  https://{tenant}.{wd}.myworkdayjobs.com/{site}
+  path-style: https://{wd}.myworkdaysite.com/recruiting/{tenant}/{site}
+The CXS JSON API lives under /wday/cxs/{tenant}/{site} on either host.
 
-This connector handles:
-- Multiple Workday data center variants (wd5, wd1, wd3)
-- Pagination via offset
-- Normalization to the shared Job model
+The API caps each page at 20 postings, so we paginate — big tech tenants list
+far more than 20 intern roles at peak season. Dates are relative text
+("Posted 6 Days Ago"); we resolve precise ones here and the enrichment stage
+backfills exact dates from the job detail endpoint.
+
+Cloud IPs are blocked more than home IPs, so the pipeline routes this connector
+through an optional proxy (WORKDAY_PROXY) when one is configured.
 """
 
 from __future__ import annotations
 
+import re
+from datetime import UTC, datetime, timedelta
+
 from ..models import Job
 from ..net import Net
 
-# Data centers to try, in order of frequency.
-_DCS = ("wd5", "wd1", "wd3", "wd2", "wd4")
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+    "Accept": "application/json",
+}
 
-_URL_TEMPLATE = "https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
-_APPLY_TEMPLATE = "https://{tenant}.{dc}.myworkdayjobs.com/en-US/{site}{path}"
+_DAYS_AGO = re.compile(r"(\d+)\s*\+?\s*days?\s+ago", re.IGNORECASE)
 
-_PAGE_SIZE = 20
-_MAX_PAGES = 3
-
-
-def _build_body(offset: int = 0) -> dict:
-    return {
-        "appliedFacets": {},
-        "limit": _PAGE_SIZE,
-        "offset": offset,
-        "searchText": "",
-    }
+_PAGE_SIZE = 20  # hard server-side cap per request
+_MAX_JOBS = 100  # intern-search results beyond this are noise
 
 
-def _location(posting: dict) -> str:
-    """Extract a human-readable location string."""
-    locs = posting.get("locationsText") or posting.get("bulletFields", [""])[0]
-    if isinstance(locs, list):
-        return ", ".join(locs) or "—"
-    return str(locs).strip() or "—"
+def _resolve_posted(text: str | None) -> str | None:
+    if not text:
+        return None
+    lowered = text.lower()
+    if "today" in lowered:
+        days = 0
+    elif "yesterday" in lowered:
+        days = 1
+    elif "30+" in lowered:
+        return None  # too vague to be a real date
+    else:
+        match = _DAYS_AGO.search(lowered)
+        if not match or int(match.group(1)) >= 30:
+            return None
+        days = int(match.group(1))
+    return (datetime.now(UTC) - timedelta(days=days)).strftime("%Y-%m-%dT00:00:00Z")
 
 
-def _posted_at(posting: dict) -> str | None:
-    """Extract posted date if available."""
-    date_str = posting.get("postedOn")
-    if date_str:
-        return str(date_str).strip()
-    return None
+def _urls(company: dict) -> tuple[str, str]:
+    """(cxs jobs endpoint, public base URL) for either Workday host shape."""
+    tenant, site = company["slug"], company["site"]
+    host = company.get("host")  # set for path-style tenants by discovery
+    if host:
+        return (
+            f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
+            f"https://{host}/recruiting/{tenant}/{site}",
+        )
+    sub_host = f"{tenant}.{company['wd']}.myworkdayjobs.com"
+    return (
+        f"https://{sub_host}/wday/cxs/{tenant}/{site}/jobs",
+        f"https://{sub_host}/{site}",
+    )
 
 
 async def fetch(company: dict, net: Net) -> list[Job]:
-    """Fetch jobs from a Workday career site.
+    tenant = company["slug"]
+    api_url, base = _urls(company)
 
-    Requires ``company["tenant"]`` and ``company["site"]`` to be set.
-    Optionally ``company["dc"]`` to skip data center discovery.
-    """
-    tenant = company.get("tenant") or company.get("slug")
-    site = company.get("site")
-    if not tenant or not site:
-        raise ValueError(
-            f"Workday connector requires 'tenant' and 'site' — got {company}"
-        )
-
-    # Determine data center
-    dc = company.get("dc")
-    dcs_to_try = [dc] if dc else list(_DCS)
-
-    working_dc = None
-    first_page = None
-
-    for try_dc in dcs_to_try:
-        url = _URL_TEMPLATE.format(tenant=tenant, dc=try_dc, site=site)
-        try:
-            data = await net.post_json(url, json=_build_body(0))
-            if isinstance(data, dict) and "jobPostings" in data:
-                working_dc = try_dc
-                first_page = data
-                break
-        except Exception:
-            continue
-
-    if working_dc is None or first_page is None:
-        return []  # No working DC found; company may have moved or config is wrong.
-
-    # Parse first page + paginate
     jobs: list[Job] = []
-    total = first_page.get("total", 0)
-
-    def _parse_page(data: dict) -> None:
-        for posting in data.get("jobPostings", []):
-            ext_path = posting.get("externalPath") or ""
-            title = posting.get("title") or ""
+    for offset in range(0, _MAX_JOBS, _PAGE_SIZE):
+        body = {"appliedFacets": {}, "limit": _PAGE_SIZE, "offset": offset, "searchText": "intern"}
+        data = await net.post_json(api_url, json=body, headers=HEADERS)
+        postings = data.get("jobPostings", [])
+        for posting in postings:
+            path = posting.get("externalPath") or ""
             jobs.append(
                 Job(
-                    id=f"workday:{tenant}:{ext_path.lstrip('/')}",
+                    id=f"workday:{tenant}:{path or posting.get('title')}",
                     source="workday",
                     company=company["name"],
-                    company_slug=company.get("slug", tenant),
-                    title=title.strip(),
-                    location=_location(posting),
-                    url=_APPLY_TEMPLATE.format(
-                        tenant=tenant,
-                        dc=working_dc,
-                        site=site,
-                        path=ext_path,
-                    ),
-                    posted_at=_posted_at(posting),
+                    company_slug=tenant,
+                    title=(posting.get("title") or "").strip(),
+                    location=(posting.get("locationsText") or "—").strip() or "—",
+                    url=(base + path) if path else base,
+                    posted_at=_resolve_posted(posting.get("postedOn")),
                 )
             )
-
-    _parse_page(first_page)
-
-    import asyncio
-
-    # Fetch remaining pages concurrently
-    pages_to_fetch = min((total + _PAGE_SIZE - 1) // _PAGE_SIZE, 200)  # Max 4000 jobs
-    
-    async def fetch_page(page_num: int):
-        offset = page_num * _PAGE_SIZE
-        if offset >= total:
-            return
-        url = _URL_TEMPLATE.format(tenant=tenant, dc=working_dc, site=site)
-        try:
-            data = await net.post_json(url, json=_build_body(offset))
-            _parse_page(data)
-        except Exception as e:
-            pass
-
-    tasks = [fetch_page(p) for p in range(1, pages_to_fetch)]
-    if tasks:
-        await asyncio.gather(*tasks)
-
+        if len(postings) < _PAGE_SIZE:
+            break
     return jobs

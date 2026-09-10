@@ -1,4 +1,9 @@
-"""Workable jobs API: public, no auth. POST v3 endpoint with pagination."""
+"""Workable jobs API (apply.workable.com): public, no auth.
+
+POST v3 endpoint with a JSON body; paginated via a `nextPage` token. We search
+"intern" server-side so big accounts stay cheap. Descriptions live behind the
+v2 detail endpoint — the enrichment stage fetches those per matched role.
+"""
 
 from __future__ import annotations
 
@@ -6,6 +11,7 @@ from ..models import Job
 from ..net import Net
 
 URL = "https://apply.workable.com/api/v3/accounts/{slug}/jobs"
+
 _MAX_PAGES = 3
 
 
@@ -13,9 +19,7 @@ def _location(job: dict) -> str:
     loc = job.get("location") or {}
     if not isinstance(loc, dict):
         loc = {}
-    text = ", ".join(
-        p for p in (loc.get("city"), loc.get("region"), loc.get("country")) if p
-    )
+    text = ", ".join(p for p in (loc.get("city"), loc.get("region"), loc.get("country")) if p)
     if job.get("remote") or job.get("workplace") == "remote":
         text = f"{text} (Remote)" if text else "Remote"
     return text or "—"

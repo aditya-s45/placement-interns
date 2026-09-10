@@ -99,7 +99,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-09",
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -171,7 +171,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-10",
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -189,7 +189,16 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-17",
-     "count": 26
+     "count": 27
+    }
+   }
+  },
+  "deutschebank": {
+   "name": "Deutsche Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "count": 1
     }
    }
   },
@@ -207,6 +216,15 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-07",
+     "count": 2
+    }
+   }
+  },
+  "elanco": {
+   "name": "Elanco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
      "count": 1
     }
    }
@@ -261,7 +279,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-25",
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -319,6 +337,15 @@
     }
    }
   },
+  "igsenergy": {
+   "name": "IGS Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "count": 1
+    }
+   }
+  },
   "imc trading": {
    "name": "IMC Trading",
    "cycles": {
@@ -333,7 +360,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-01",
-     "count": 2273
+     "count": 2274
     }
    }
   },
@@ -342,7 +369,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-13",
-     "count": 6
+     "count": 12
     }
    }
   },
@@ -432,7 +459,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-04-24",
-     "count": 5025
+     "count": 5026
     }
    }
   },
@@ -486,7 +513,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-24",
-     "count": 353
+     "count": 355
     }
    }
   },
@@ -568,6 +595,24 @@
     "Fall 2026": {
      "first_posted": "2026-07-08",
      "count": 25
+    }
+   }
+  },
+  "stryker": {
+   "name": "Stryker",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "count": 2
+    }
+   }
+  },
+  "tanium": {
+   "name": "Tanium",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "count": 1
     }
    }
   },
@@ -657,7 +702,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-08",
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -725,5 +770,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T20:40:58Z"
+ "updated_at": "2026-09-10T23:53:12Z"
 }

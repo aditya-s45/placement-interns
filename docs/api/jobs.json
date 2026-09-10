@@ -36,6 +36,42 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "company": "GE Healthcare",
+    "title": "Client Service Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10T00:00:00Z",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "greenhouse:tanium:8181017",
+    "company": "Tanium",
+    "title": "Software Engineering Intern – Summer 2027",
+    "location": "Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10T14:19:05-04:00",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
+    "company": "Honeywell",
+    "title": "Intern Masters Data Science",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "workday:aksteel:/job/Indiana-Harbor/Information-Technology-Intern_R13501",
     "company": "Cleveland-Cliffs",
     "title": "Information Technology Intern",
@@ -44,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-10T00:00:00Z",
     "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Indiana-Harbor/Information-Technology-Intern_R13501",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B4-B5",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
     "salary": null,
     "source": "workday"
   },
@@ -72,6 +96,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B4-B5",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10T00:00:00Z",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:ffive:/job/Hyderabad/Software-Engineer-Apprentice_RP1038677",
     "company": "F5",
     "title": "Software Engineer Apprentice",
@@ -82,18 +118,6 @@
     "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1038677",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
-    "company": "Honeywell",
-    "title": "Intern Masters Data Science",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414761",
@@ -130,18 +154,6 @@
     "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797644",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:tanium:8181017",
-    "company": "Tanium",
-    "title": "Software Engineering Intern – Summer 2027",
-    "location": "Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T14:19:05-04:00",
-    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:valeo:/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026080195",
@@ -600,18 +612,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:igsenergy:/job/Ohio-Remote/Software-Engineer-Intern_R6263",
-    "company": "IGS Energy",
-    "title": "Software Engineer Intern",
-    "location": "Ohio Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-31T00:00:00Z",
-    "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:igsenergy:/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
     "company": "IGS Energy",
     "title": "Business Analyst Intern (Summer 2027)",
@@ -620,6 +620,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-08-31T00:00:00Z",
     "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:igsenergy:/job/Ohio-Remote/Software-Engineer-Intern_R6263",
+    "company": "IGS Energy",
+    "title": "Software Engineer Intern",
+    "location": "Ohio Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-31T00:00:00Z",
+    "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
     "salary": null,
     "source": "workday"
   },
@@ -888,18 +900,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cisive:/job/Remote---Maryland/Software-Development-Intern_JR100290",
-    "company": "Cisive",
-    "title": "Software Development Intern",
-    "location": "Remote - Maryland",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cisive:/job/Remote---Maryland/Intern--Software-Developer_JR100211",
     "company": "Cisive",
     "title": "Intern- Software Developer",
@@ -908,6 +908,18 @@
     "season": "Summer 2027",
     "posted_at": null,
     "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100211",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cisive:/job/Remote---Maryland/Software-Development-Intern_JR100290",
+    "company": "Cisive",
+    "title": "Software Development Intern",
+    "location": "Remote - Maryland",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
     "salary": null,
     "source": "workday"
   },
@@ -960,30 +972,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:talentmanagementsolution:/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
-    "company": "Member Solutions",
-    "title": "Cybersecurity GRC Intern",
-    "location": "India (Jonas Collections and Recovery Inc)",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:talentmanagementsolution:/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
-    "company": "Member Solutions",
-    "title": "Security Operations Intern",
-    "location": "India (Jonas Collections and Recovery Inc)",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:motorolasolutions:/job/Bangalore-India/HR-Apprentice-Trainee_R63161",
     "company": "Motorola",
     "title": "HR Apprentice Trainee",
@@ -1016,6 +1004,30 @@
     "season": "Summer 2027",
     "posted_at": null,
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:talentmanagementsolution:/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
+    "company": "Member Solutions",
+    "title": "Cybersecurity GRC Intern",
+    "location": "India (Jonas Collections and Recovery Inc)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:talentmanagementsolution:/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
+    "company": "Member Solutions",
+    "title": "Security Operations Intern",
+    "location": "India (Jonas Collections and Recovery Inc)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
     "salary": null,
     "source": "workday"
   },

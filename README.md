@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 10, 2026 at 06:13 IST</em></p>
+  <p><em>Last updated: Sep 10, 2026 at 10:31 IST</em></p>
 </div>
 
 ---
@@ -68,12 +68,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-10 |
 | ONE Finance | AI Research, Intern | Summer 2027 | 2026-09-10 |
 | ONE Finance | Software Engineer, Intern | Summer 2027 | 2026-09-10 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-10 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-09 |
-| Merck | Information Technology Intern | Summer 2027 | 2026-09-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-09 |
 | Corteva | R&D Intern – Computer & Data Science | Summer 2027 | 2026-09-09 |
@@ -88,6 +87,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-08 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-09-08 |
+| Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-08 |
 
 </details>
 

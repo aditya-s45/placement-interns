@@ -170,8 +170,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/lynk?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "ashby:mach": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-10T11:41:43Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/mach?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "ashby:marathon": {
@@ -1348,6 +1348,51 @@
     "consecutive_failures": 19,
     "last_attempt_at": "2026-09-08T20:06:10Z",
     "last_error": "no connector for wellfound"
+  },
+  "workable:qodeworld": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/qodeworld/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "workable:raveaerospace": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/raveaerospace/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
+  "workable:rebellion": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rebellion/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "workable:red-rabbit-robotics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/red-rabbit-robotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "workable:responsiveads-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/responsiveads-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
+  },
+  "workable:ripjar": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ripjar/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
+  },
+  "workable:rmf-engineering-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rmf-engineering-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
+  },
+  "workable:rokt": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rokt/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
+  },
+  "workable:rovex-technologies-corporation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-10T16:47:49Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rovex-technologies-corporation/jobs'\nFor more information check: https://developer.mozilla.org"
   },
   "workable:rystad-energy": {
     "consecutive_failures": 5,

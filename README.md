@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 39 new this week · 4,989 companies tracked · updated Sep 10, 2026 at 19:55 UTC**
+**0 open roles · 69 new this week · 4,989 companies tracked · updated Sep 10, 2026 at 20:48 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -88,53 +88,53 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Jump Trading | rolling | year-round | ⏳ waiting |
 | Microsoft | rolling | year-round | ⏳ waiting |
 
-_68 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **33** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_68 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **34** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| American Express | Apprentice | Summer 2027 | 2026-09-10 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-10 |
+| Acumatica | AI & Automation Intern, Office of the CFO | Summer 2027 | 2026-09-10 |
+| LinkedIn | Software Engineering Intern | Summer 2027 | 2026-09-10 |
+| ABB | ITI apprentice | Summer 2027 | 2026-09-10 |
+| Acxiom | Intern - Data Scientist | Summer 2027 | 2026-09-10 |
+| Cleveland-Cliffs | Information Technology Intern | Summer 2027 | 2026-09-10 |
+| Allegion | Summer Intern – Firmware Engineer (Advanced Development) – Indianapolis, IN | Summer 2027 | 2026-09-10 |
+| Allegion | Summer Intern - Firmware Engineer | Summer 2027 | 2026-09-10 |
+| Allstate Insurance Company | Pricing Actuarial Analyst Intern | Summer 2027 | 2026-09-10 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-10 |
+| CACI | Business/Systems Analyst Intern - Summer 2027 | Summer 2027 | 2026-09-10 |
+| Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-10 |
+| Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-09-10 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-10 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-10 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
-| Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-10 |
+| Cengage Group | Finance Apprentice | Summer 2027 | 2026-09-10 |
+| Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-09-10 |
+| Corteva | Business Analyst Intern | Summer 2027 | 2026-09-10 |
+| Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-09-10 |
+| Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-10 |
-| Deutsche Bank | Business Management & Automation Analyst - Apprentice, NCT | Summer 2027 | 2026-09-10 |
-| Merck | Information Technology Intern | Summer 2027 | 2026-09-10 |
-| ONE Finance | AI Research, Intern | Summer 2027 | 2026-09-10 |
-| ONE Finance | Software Engineer, Intern | Summer 2027 | 2026-09-10 |
-| Adobe | Apprentice Tech | Summer 2027 | 2026-09-09 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-09 |
-| Corteva | R&D Intern – Computer & Data Science | Summer 2027 | 2026-09-09 |
-| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-09 |
-| State Street | Apprentice | Summer 2027 | 2026-09-09 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
-| WSP | Intern, Building Technology Systems | Summer 2027 | 2026-09-09 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-09 |
-| Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-09-09 |
-| Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
-| Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
-| Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
-| Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-08 |
-| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-09-08 |
-| Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-08 |
-| LinkedIn | Artificial Intelligence / Machine Learning Engineering Intern | Summer 2027 | 2026-09-08 |
-| Adobe | Apprentice Tech | Summer 2027 | 2026-09-08 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-08 |
-| Sigmoid | Information Security Intern | Summer 2027 | 2026-09-08 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-08 |
-| Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-09-08 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-08 |
-| GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-07 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-07 |
-| Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | Summer 2027 | 2026-09-06 |
+| Deutsche Bank | Apprentice Role for Non-Technology hiring, NCT | Summer 2027 | 2026-09-10 |
+| Elanco | Junior IT Engineer – Information Technology Intern (Summer 2027) | Summer 2027 | 2026-09-10 |
+| Ensemble Health Partners | Data Scientist Intern | Summer 2027 | 2026-09-10 |
+| Equifax | Trainee -Data Operations Analyst | Summer 2027 | 2026-09-10 |
+| F5 | Software Engineer Apprentice | Summer 2027 | 2026-09-10 |
+| GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-10 |
+| GE Healthcare | Research Intern - AI | Summer 2027 | 2026-09-10 |
+| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-10 |
+| GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-09-10 |
+| GE Healthcare | Information Technology Development Program - Internship | Summer 2027 | 2026-09-10 |
+| GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-09-10 |
+| GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-09-10 |
+| Gevernova | Field/Onsite Winder Apprentice-6 | Summer 2027 | 2026-09-10 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-10 |
+| GoTo Group | DevOps Intern (fixed term, 8 months) | Summer 2027 | 2026-09-10 |
+| Hitachi Energy | Internship - Software Asset Management | Summer 2027 | 2026-09-10 |
+| IGS Energy | Business Analyst Intern (Summer 2027) | Summer 2027 | 2026-09-10 |
+| IGS Energy | Software Engineer Intern | Summer 2027 | 2026-09-10 |
+| Intel | AI and Compiler Engineering Graduate Intern | Summer 2027 | 2026-09-10 |
+| Liberty University | ADS Apprentice | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,990 companies across 25 ATS platforms · 99% fetch success · completed in 2298.5s._
+_Engine (last run): 4,990 companies across 25 ATS platforms · 97% fetch success · completed in 456.0s._
 
 ## Platforms Scraped
 

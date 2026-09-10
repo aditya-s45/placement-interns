@@ -1,199 +1,509 @@
-"""Renders README.md + data/internships.csv from the job store."""
+"""Render the public-facing README.md (the product) + a CSV tracker.
+
+Plain, professional, human voice. No decorative emojis. Sections are exactly the
+configured cycles, in order. Roles are sorted by their PUBLISHED date (newest on
+top), and that date is frozen per role so the page behaves like a ladder.
+"""
 
 from __future__ import annotations
 
 import csv
-import io
 import json
-import os
-from datetime import UTC, datetime
-from html import escape
+from datetime import UTC, datetime, timedelta
+from urllib.parse import quote
 
-from . import config, filters, paths
+from . import config, filters, paths, priority, radar
 
 
-def _flag(job: dict) -> str:
-    first_seen = job.get("first_seen_at") or ""
+def _engine_metrics() -> str:
+    """One-line observability summary from the last run, if available."""
     try:
-        dt = datetime.fromisoformat(first_seen.replace("Z", "+00:00"))
-        if (datetime.now(UTC) - dt).total_seconds() < 48 * 3600:
-            return " 🆕"
-    except (ValueError, TypeError):
-        pass
-    return ""
+        with open(paths.STATS_PATH, encoding="utf-8") as f:
+            stats = json.load(f)
+    except (OSError, ValueError):
+        return ""
+    sources = len(stats.get("companies_by_source", {}))
+    line = (
+        f"_Engine (last run): {stats.get('companies_total', 0):,} companies across "
+        f"{sources} ATS platforms · {int(stats.get('fetch_success_rate', 0) * 100)}% "
+        f"fetch success · completed in {stats.get('duration_seconds', 0)}s"
+    )
+    latency = stats.get("detection_latency") or {}
+    if latency.get("median_minutes") is not None and latency.get("sample_size", 0) >= 5:
+        line += f" · median detection latency {latency['median_minutes']:.0f} min"
+    coverage = stats.get("posted_date_coverage")
+    if coverage:
+        line += f" · real posted dates on {int(coverage * 100)}% of open roles"
+    return line + "._"
+
+
+def _now_str() -> str:
+    return datetime.now(UTC).strftime("%b %d, %Y at %H:%M UTC")
+
+
+def _md_cell(text: str) -> str:
+    return (text or "—").replace("|", "/").replace("\n", " ").strip() or "—"
+
+
+def _short_location(loc: str, limit: int = 40) -> str:
+    loc = _md_cell(loc)
+    if len(loc) <= limit:
+        return loc
+    parts = [p.strip() for p in loc.replace(";", ",").split(",") if p.strip()]
+    if len(parts) > 1:
+        return f"{parts[0]} +{len(parts) - 1} more"
+    return loc[: limit - 1].rstrip() + "…"
+
+
+def _date_str(record: dict) -> str:
+    """The published date string we sort/display by (frozen per role)."""
+    # Display only a REAL published date (no first_seen fallback) — undated -> dash.
+    return record.get("posted_at") or ""
+
+
+def _sort_key(record: dict):
+    # Dated roles first (newest), undated sink to the bottom; first_seen breaks
+    # ties so undated roles still have a stable, newest-first order.
+    return ((record.get("posted_at") or "")[:10], (record.get("first_seen_at") or "")[:19])
+
+
+def _pretty_date(record: dict) -> str:
+    iso = _date_str(record)
+    if not iso:
+        return "—"
+    try:
+        return datetime.strptime(iso[:10], "%Y-%m-%d").strftime("%b %d, %Y")
+    except ValueError:
+        return iso[:10]
+
+
+def _is_new(record: dict, hours: int = 48) -> bool:
+    seen = (record.get("first_seen_at") or "")[:19]
+    if not seen:
+        return False
+    try:
+        seen_dt = datetime.strptime(seen, "%Y-%m-%dT%H:%M:%S").replace(tzinfo=UTC)
+    except ValueError:
+        return False
+    return datetime.now(UTC) - seen_dt <= timedelta(hours=hours)
+
+
+def _row(record: dict) -> str:
+    company = _md_cell(record.get("company"))
+    title = _md_cell(record.get("title"))
+    if record.get("season_inferred"):
+        title += " ~"
+    if _is_new(record):
+        title = f"{title} 🆕"
+    location = _short_location(record.get("location"))
+    category = _md_cell(record.get("category"))
+
+    specs = []
+    if record.get("stipend"):
+        specs.append(record.get("stipend"))
+    elif record.get("salary"):
+        specs.append(record.get("salary"))
+    if record.get("experience"):
+        specs.append(record.get("experience"))
+    if record.get("degree"):
+        specs.append(record.get("degree"))
+    if record.get("batch"):
+        specs.append(record.get("batch"))
+    specs_str = "<br>".join(specs) if specs else "—"
+
+    posted = _pretty_date(record)
+    url = record.get("url") or ""
+    apply = f"[Apply]({url})" if url else "—"
+    return f"| {company} | {title} | {category} | {specs_str} | {location} | {posted} | {apply} |"
+
+
+def _region_label(cfg: dict) -> str:
+    return "India"
+
+
+def _company_count() -> int:
+    try:
+        with open(paths.COMPANIES_PATH, encoding="utf-8") as f:
+            return len(json.load(f))
+    except (OSError, ValueError):
+        return 0
+
+
+def _raw_feed_url() -> str:
+    """The feed served straight from the repo (no Pages dependency)."""
+    return f"https://raw.githubusercontent.com/{config.repo_slug()}/main/docs/feed.xml"
+
+
+def _email_subscribe_url() -> str:
+    """One-click feed-to-email signup, prefilled with our feed."""
+    return f"https://feedrabbit.com/subscriptions/new?url={quote(_raw_feed_url(), safe='')}"
+
+
+def _header(cfg: dict, total_open: int, companies: int, new_week: int) -> list[str]:
+    _region_label(cfg)
+    cycles = config.cycles(cfg)
+    " and ".join(cycles)
+    pages = config.pages_base()
+
+    repo = config.repo_slug()
+    stats_url = quote(f"{pages}/api/stats.json", safe="")
+    return [
+        "# Indian Tech Internships",
+        "",
+        f"[![CI](https://github.com/{repo}/actions/workflows/ci.yml/badge.svg)]"
+        f"(https://github.com/{repo}/actions/workflows/ci.yml) "
+        f"![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles"
+        f"&query=open_total&url={stats_url}&color=2f81f7) "
+        "![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) "
+        f"[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)]({pages}/feed.xml)",
+        "",
+        "A self-updating engine that tracks tech internships so you don't have to. "
+        "Instead of refreshing a dozen career pages by hand, it reads company hiring "
+        "feeds directly and keeps one live list, newest roles on top, refreshed "
+        "automatically throughout the day.",
+        "",
+        f"**{total_open} open roles · {new_week} new this week · {companies:,} companies "
+        f"tracked · updated {_now_str()}**",
+        "",
+        "**⭐Star this repo⭐** to save it and get updates when new roles are added.",
+        "",
+        f"**Live:** [dashboard]({pages}/) · [RSS feed]({pages}/feed.xml) "
+        f"(instant alerts in any RSS app) · [JSON API]({pages}/api/jobs.json)",
+        "",
+        # Native signup posts into our own Supabase list (RLS: insert-only).
+        # The Feedrabbit link is the zero-account fallback via the raw feed URL,
+        # which works even when GitHub Pages is off.
+        f"**🔔 New roles in your inbox:** [subscribe by email]({pages}/#subscribe) "
+        "- one email a day, only when new internships actually appeared, "
+        f"one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too]"
+        f"({_email_subscribe_url()}).)",
+        "---",
+        "",
+    ]
+
+
+def _about_section(cfg: dict) -> list[str]:
+    region = _region_label(cfg)
+    cycles = config.cycles(cfg)
+    cycles_phrase = " and ".join(cycles)
+    pages = config.pages_base()
+
+    return [
+        "## What this is",
+        "",
+        "This is an engine, not a hand-kept list. It polls company career feeds several "
+        "times a day, finds the internships, removes duplicates, and rebuilds this page "
+        "on its own. Every link comes straight from the source, so it's real and "
+        "current, not a stale list someone forgot to update (speed matters).",
+        "",
+        "## What makes this different",
+        "",
+        "- **📅 [Drop Radar](#drop-radar)** - "
+        "the only list that shows **what's coming**: each marquee company's typical "
+        "opening window, then confirmed with the real drop date the moment the "
+        "engine catches it live.",
+        "- **Real posted dates on every role** - pulled from each job portal itself, "
+        "so newest-first actually means newest.",
+        "- **Skill tags + pay, extracted** - every posting's text is scanned for the "
+        "stack it wants (Python, C++, PyTorch, ...) and the pay it states - "
+        f"searchable on the [dashboard]({pages}/), included in the CSV and API.",
+        f"- **Alerts your way** - [email digests]({pages}/#subscribe), "
+        f"[RSS]({pages}/feed.xml), or Discord - plus a [live dashboard]({pages}/) "
+        "with search and custom filters.",
+        "- **An engine, not a spreadsheet** - polled every "
+        "hour across multiple ATS platforms with full source in this repo.",
+        "",
+        "## Scope",
+        "",
+        "- **Roles:** Software Engineering, Data Science & Machine Learning "
+        "(and closely related technical internships)",
+        f"- **Region:** India",
+        f"- **Cycles:** {cycles_phrase}",
+        "",
+        "## About",
+        "",
+        "I built this engine to automate tracking for top-tier tech internships across "
+        "India and globally remote roles. Use it to spot roles early and apply before "
+        "they fill up - being first genuinely helps.",
+        "",
+        "## How to use",
+        "",
+        "- Roles are grouped by cycle - **newest posting on top, oldest at the bottom.**",
+        "- The **Posted** column is the date the company published the role.",
+        "- **Flags:** 🆕 = spotted in the last 48 hours.",
+        "- Track your applications with [`data/internships.csv`](data/internships.csv) "
+        "(opens in Excel / Google Sheets).",
+        "- Missing a company? Adding one takes a single line, see "
+        "[CONTRIBUTING.md](CONTRIBUTING.md).",
+        "",
+        "---",
+        "",
+    ]
+
+
+def _footer() -> list[str]:
+    return [
+        "---",
+        "",
+        "## Hiring timeline",
+        "",
+        "Internships posted per week, from each role's real published date - "
+        "redrawn automatically on every run. When this line takes off, "
+        "recruiting season is open:",
+        "",
+        "<picture>",
+        '  <source media="(prefers-color-scheme: dark)" srcset="docs/trends-dark.svg">',
+        '  <img alt="Internships posted per week, drawn from real published dates" '
+        'src="docs/trends-light.svg">',
+        "</picture>",
+        "",
+        "## How it stays current",
+        "",
+        "A small Python engine reads public company hiring feeds directly, keeps the "
+        "roles that match the scope above, de-duplicates across sources, records each "
+        "role's published date once (so it never shifts), and regenerates this page "
+        "through GitHub Actions. It polls every company concurrently (async) with "
+        "retry/backoff and per-host rate limits. The full source is in this repo.",
+        "",
+        _engine_metrics(),
+        "",
+        "## Platforms Scraped",
+        "",
+        "The engine currently extracts live data from the following platforms:",
+        "- **Direct ATS (Applicant Tracking Systems):** Greenhouse, Lever, Ashby, SmartRecruiters, Workable",
+        "- **Aggregators:** Instahyre",
+        "",
+        "## Contributing",
+        "",
+        "Adding a company takes one line, see [CONTRIBUTING.md](CONTRIBUTING.md). "
+        "Suggestions and pull requests are welcome.",
+        "",
+        "## Note on dates",
+        "",
+        "The **Posted** column shows when a role was published, with the newest at the "
+        "top. I pull the posting date straight from each job portal, but a lot of them "
+        "don't expose one publicly, so those rows show a dash (—) for now instead of a "
+        "guessed date. The ones that do publish a date are dated. Know the real date for "
+        "a dashed role? Open a PR and I'll merge it.",
+        "",
+        "Roles can close at any time, so always confirm on the company's own site before applying.",
+        "",
+    ]
+
+
+def _select(rows: list[dict], limit, per_company) -> list[dict]:
+    """Pick which rows to show, then order them newest-first for display.
+
+    1) cap each company to `per_company` (variety, newest kept),
+    2) if still over `limit`, keep the most sought-after companies first,
+    3) display newest on top.
+    """
+    rows = sorted(rows, key=_sort_key, reverse=True)
+    if per_company:
+        seen: dict[str, int] = {}
+        capped = []
+        for r in rows:
+            c = (r.get("company") or "").strip().lower()
+            if seen.get(c, 0) >= per_company:
+                continue
+            seen[c] = seen.get(c, 0) + 1
+            capped.append(r)
+        rows = capped
+    if limit and len(rows) > limit:
+        rows = sorted(rows, key=lambda r: priority.rank(r.get("company")))[:limit]
+    return sorted(rows, key=lambda r: _date_str(r)[:10], reverse=True)
+
+
+def _region_of(record: dict) -> str:
+    return "India"
+
+
+def _new_this_week(open_jobs: list[dict]) -> int:
+    cutoff = (datetime.now(UTC) - timedelta(days=7)).strftime("%Y-%m-%dT%H:%M:%S")
+    return sum(1 for r in open_jobs if (r.get("first_seen_at") or "") >= cutoff)
+
+
+def _radar_section(store_data: dict, cycle: str, cap: int = 30) -> list[str]:
+    """The Drop Radar: which companies haven't posted yet, and when to expect
+    them — from the engine's own observed dates + hand-verified opening windows.
+
+    The README teaser leads with the FORECAST (waiting, soonest first) — that's
+    the radar's unique value; "open now" rows just echo the list above — then
+    shows a few recent drops as proof the forecast is real. The dashboard keeps
+    the full, searchable list."""
+    rows = radar.rows(store_data, cycle)
+    if not rows:
+        return []
+    waiting = [r for r in rows if r["status"] == "waiting"]
+    opened = [r for r in rows if r["status"] == "open"]
+    dropped = [r for r in rows if r["status"] == "dropped"]
+    # Forecast first (what to watch for), then a handful of recent drops as proof.
+    ordered = waiting + opened[:8] + dropped[:4]
+
+    pages = config.pages_base()
+    verified = sum(1 for r in rows if r.get("source") == "engine")
+    lines = [
+        '<a id="drop-radar"></a>',
+        "",
+        f"## 📅 Drop Radar — when companies usually post for {cycle}",
+        "",
+        "Stop refreshing career pages. Every date here is **real or verified** — "
+        "no third-party list. 🎯 = the engine **saw the drop itself** from the "
+        "company's own careers API; the rest are hand-checked typical opening "
+        "windows for marquee names. ✅ = already live in the list above.",
+        "",
+        '> **Heads up:** companies trend *earlier* every cycle, and "~Aug" is a '
+        'month, not a day. Treat "expected" as when to **start watching**, and '
+        '"rolling" companies as worth checking year-round.',
+        "",
+        "| Company | Typical opening | Expected this cycle | Status |",
+        "|---|---|---|---|",
+    ]
+    for r in ordered[:cap]:
+        if r["status"] == "open":
+            status = f"✅ [open now]({r['url']})" if r["url"] else "✅ open now"
+        elif r["status"] == "dropped":
+            status = "🗓️ dropped"
+        else:
+            status = "⏳ waiting"
+        mark = "🎯 " if r.get("source") == "engine" else ""
+        lines.append(
+            f"| {mark}{_md_cell(r['company'])} | {radar.pretty_last(r)} | "
+            f"{radar.pretty_expected(r)} | {status} |"
+        )
+    verified_note = (
+        f"**{verified}** dated from our own live observations 🎯 (this grows every cycle). "
+        if verified
+        else ""
+    )
+    lines.extend(
+        [
+            "",
+            f"_{len(rows)} companies on the [full radar]({pages}/#radar). {verified_note}"
+            '"~Aug" = hand-verified typical month, not a promise of the day; '
+            '"rolling" = posts year-round; "waiting" = not seen in our tracked '
+            "feeds yet, not a guarantee it isn't out somewhere else._",
+            "",
+        ]
+    )
+    return lines
+
+
+def _closed_section(
+    store_data: dict, cycles: list[str], days: int = 14, cap: int = 40
+) -> list[str]:
+    """Roles that recently closed, kept visible (collapsed) so nobody wastes an
+    application on a listing that just died. Only tracked cycles appear here —
+    an off-cycle tombstone (text-verified "Summer 2026") was never on the list,
+    so it has no business in its obituary either."""
+    cutoff = (datetime.now(UTC) - timedelta(days=days)).strftime("%Y-%m-%dT%H:%M:%S")
+    closed = [
+        r
+        for r in store_data.values()
+        if not r.get("is_open")
+        and (r.get("closed_at") or "") >= cutoff
+        and r.get("season") in cycles
+    ]
+    if not closed:
+        return []
+    closed.sort(key=lambda r: r.get("closed_at") or "", reverse=True)
+    closed = closed[:cap]
+    lines = [
+        "<details>",
+        f"<summary><strong>Recently closed</strong> — {len(closed)} roles taken down "
+        f"in the last {days} days</summary>",
+        "",
+        "| Company | Role | Cycle | Closed |",
+        "|---|---|---|---|",
+    ]
+    for r in closed:
+        closed_on = (r.get("closed_at") or "")[:10]
+        lines.append(
+            f"| {_md_cell(r.get('company'))} | {_md_cell(r.get('title'))} "
+            f"| {_md_cell(r.get('season'))} | {closed_on} |"
+        )
+    lines.extend(["", "</details>", ""])
+    return lines
 
 
 def generate(store_data: dict) -> dict:
     cfg = config.load_config()
-    cycle_list = config.cycles(cfg)
-    repo = config.repo_slug()
+    cycles = config.cycles(cfg)
+    per_company = config.max_per_company(cfg)
 
     open_jobs = [r for r in store_data.values() if r.get("is_open")]
-    open_jobs.sort(
-        key=lambda r: ((r.get("posted_at") or "")[:10], (r.get("first_seen_at") or "")),
-        reverse=True,
-    )
+    groups: dict[tuple[str, str], list[dict]] = {}
+    for r in open_jobs:
+        groups.setdefault((_region_of(r), r.get("season", "")), []).append(r)
 
-    # Load valid company slugs
-    try:
-        with open(paths.COMPANIES_TXT_PATH, encoding="utf-8") as f:
-            valid_companies = {line.strip().lower() for line in f if line.strip()}
-    except OSError:
-        valid_companies = set()
-
-    # Filter by valid companies and group by cycle + region
-    sections: dict[str, list[dict]] = {}
-
-    # Initialize sections for known cycles
-    for c in cycle_list:
-        sections[f"{c} (India)"] = []
-        sections[f"{c} (Remote)"] = []
-
-    filtered_jobs = []
-    for job in open_jobs:
-        source = job.get("source")
-        slug = job.get("company_slug")
-
-        # Keep only YC WaaS jobs OR jobs from companies in companies.txt
-        if source != "yc_waas" and slug not in valid_companies:
-            continue
-
-        filtered_jobs.append(job)
-
-        s = job.get("season", "Unspecified")
-        loc = job.get("location", "")
-
-        if filters.is_remote_or_hybrid(loc):
-            group_key = f"{s} (Remote)"
-        else:
-            group_key = f"{s} (India)"
-
-        if group_key not in sections:
-            sections[group_key] = []
-        sections[group_key].append(job)
-
-    open_jobs = filtered_jobs
-
-    lines = [
-        '<div align="center">',
-        '  <h1>🇮🇳 India Tech Internships</h1>',
-        '  <p><strong>A self-updating engine tracking top tech internships in India so you don\'t have to.</strong></p>',
-        '  <p>',
-        f'    <a href="https://{repo.split("/")[0].lower()}.github.io/{repo.split("/")[1]}/">',
-        '      <img src="https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=github&logoColor=white" alt="Live Dashboard" />',
-        '    </a>',
-        f'    <a href="https://{repo.split("/")[0].lower()}.github.io/{repo.split("/")[1]}/api/jobs.json">',
-        '      <img src="https://img.shields.io/badge/JSON_API-007ACC?style=for-the-badge&logo=json&logoColor=white" alt="JSON API" />',
-        '    </a>',
-        '  </p>',
-        '  <p>',
-        f'    <img src="https://img.shields.io/badge/Open%20Roles-{len(open_jobs)}-6366f1?style=for-the-badge" alt="Open Roles" />',
-        '    <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />',
-        '  </p>',
-        f'  <p><em>Last updated: {(datetime.now(UTC) + __import__("datetime").timedelta(hours=5, minutes=30)).strftime("%b %d, %Y at %H:%M IST")}</em></p>',
-        '</div>',
-        '',
-        '---',
-        '',
-    ]
-
-    inferred_count = 0
-    for label, jobs in sections.items():
-        if not jobs:
-            continue
-        lines.append(f"## {label} <kbd>{len(jobs)} open</kbd>")
-        lines.append("")
-        lines.append("| 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |")
-        lines.append("|---|---|---|---|---|:---:|")
-        for job in jobs:
-            posted = (job.get("posted_at") or "")[:10] or "—"
-            url = job.get("url") or ""
-            apply_link = f"[Apply ↗]({url})" if url else "—"
-            tilde = " <sup>~</sup>" if job.get("season_inferred") else ""
-            flag = " <span title='New within 48h'>✨</span>" if _flag(job) else ""
-            if job.get("season_inferred"):
-                inferred_count += 1
-            lines.append(
-                f"| **{job.get('company', '')}** | {job.get('title', '')}{tilde}{flag} "
-                f"| `{job.get('category', '')}` "
-                f"| {(job.get('location') or '')[:40]} | {posted} | {apply_link} |"
+    sections: list[tuple[str, list[dict]]] = []
+    displayed: list[dict] = []
+    for region in ("US", "International"):
+        for cycle in cycles:
+            rows = _select(
+                groups.get((region, cycle)) or [],
+                config.section_limit(cfg, cycle),
+                per_company,
             )
-        lines.append("")
+            if rows:
+                heading = cycle if region == "US" else f"{cycle} (International)"
+                sections.append((heading, rows))
+                displayed.extend(rows)
 
-    if inferred_count:
+    lines = _header(cfg, len(displayed), _company_count(), _new_this_week(open_jobs))
+    for heading, rows in sections:
+        lines.append(f"## {heading}  ({len(rows)} open)")
+        lines.append("")
+        lines.append("| Company | Role | Category | Pay & Specs | Location | Posted | Apply |")
+        lines.append("|---|---|---|---|---|---|---|")
+        lines.extend(_row(r) for r in rows)
+        lines.append("")
+        n_inferred = sum(1 for r in rows if r.get("season_inferred"))
+        if n_inferred:
+            lines.append(
+                f"_~ = the title doesn't state a year; bucketed here from its "
+                f"posting date ({n_inferred} of {len(rows)})._"
+            )
+            lines.append("")
+
+    if not displayed:
         lines.append(
-            f"_~ = the title doesn't state a year; bucketed here from its posting date "
-            f"({inferred_count} of {len(open_jobs)})._"
+            "_No matching roles right now, the list fills as companies post. "
+            "Star it and check back._"
         )
         lines.append("")
 
-    # Recently closed
-    closed = [
-        r for r in store_data.values() if not r.get("is_open") and r.get("closed_at")
-    ]
-    closed.sort(key=lambda r: r.get("closed_at", ""), reverse=True)
-    recent_closed = closed[:20]
-    if recent_closed:
-        lines.append("<details>")
-        lines.append(
-            f"<summary><strong>Recently closed</strong> — {len(recent_closed)} roles taken down</summary>"
-        )
-        lines.append("")
-        lines.append("| Company | Role | Cycle | Closed |")
-        lines.append("|---|---|---|---|")
-        for r in recent_closed:
-            lines.append(
-                f"| {r.get('company', '')} | {r.get('title', '')} | {r.get('season', '')} "
-                f"| {(r.get('closed_at') or '')[:10]} |"
-            )
-        lines.append("")
-        lines.append("</details>")
-        lines.append("")
-
-    lines.extend(
-        [
-            "---",
-            "",
-            "## How it works",
-            "",
-            "A Python engine reads public company hiring feeds directly, keeps the internships "
-            "that match the scope (India-based tech roles), de-duplicates across sources, and "
-            "regenerates this page through GitHub Actions. The full source is in this repo.",
-            "",
-            "## Contributing",
-            "",
-            "Add a company to `companies.txt` and run `python run.py discover`.",
-            "",
-        ]
-    )
+    lines.extend(_about_section(cfg))
+    lines.extend(_radar_section(store_data, cycles[0]))
+    lines.extend(_closed_section(store_data, cycles))
+    lines.extend(_footer())
 
     with open(paths.README_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    # CSV
-    _write_csv(open_jobs)
+    _write_csv(displayed)
 
-    return {"open": len(open_jobs)}
+    return {"open": len(displayed), "companies": _company_count()}
 
 
-def _write_csv(jobs: list[dict]) -> None:
-    buf = io.StringIO()
-    writer = csv.writer(buf)
-    writer.writerow(
-        ["Company", "Title", "Category", "Location", "Season", "Posted", "URL"]
-    )
-    for job in jobs:
-        writer.writerow(
-            [
-                job.get("company", ""),
-                job.get("title", ""),
-                job.get("category", ""),
-                job.get("location", ""),
-                job.get("season", ""),
-                (job.get("posted_at") or "")[:10],
-                job.get("url", ""),
-            ]
-        )
-    os.makedirs(os.path.dirname(paths.CSV_PATH), exist_ok=True)
-    with open(paths.CSV_PATH, "w", encoding="utf-8", newline="") as f:
-        f.write(buf.getvalue())
+def _write_csv(open_jobs: list[dict]) -> None:
+    fields = [
+        "company",
+        "title",
+        "season",
+        "season_inferred",
+        "category",
+        "location",
+        "salary",
+        "skills",
+        "posted_at",
+        "first_seen_at",
+        "url",
+    ]
+    with open(paths.CSV_PATH, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        writer.writeheader()
+        for r in open_jobs:
+            row = {k: r.get(k, "") for k in fields}
+            row["skills"] = "; ".join(r.get("skills") or [])
+            writer.writerow(row)

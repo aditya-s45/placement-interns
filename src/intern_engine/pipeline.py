@@ -19,7 +19,7 @@ from datetime import UTC, datetime, timedelta
 
 import httpx
 
-from . import config, filters, health, models, paths, quality, store
+from . import config, filters, health, models, observe, paths, quality, store
 from .connectors import (amazon, ashby, bloomberg, breezy, bytedance, 
                          custom_careers, eightfold, google, greenhouse, 
                          icims, instahyre, internshala, lever, naukri, 
@@ -189,6 +189,7 @@ def run_update() -> tuple[dict, dict, list[str]]:
     blocklist = quality.load_blocklist()
     companies = _load_companies()
     existing = store.load(paths.JOBS_PATH)
+    observe.record_run(existing)
 
     health_data = health.load()
 

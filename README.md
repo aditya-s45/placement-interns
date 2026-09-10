@@ -1,71 +1,97 @@
-<div align="center">
-  <h1>🇮🇳 India Tech Internships</h1>
-  <p><strong>A self-updating engine tracking top tech internships in India so you don't have to.</strong></p>
-  <p>
-    <a href="https://aditya-s45.github.io/placement-interns/">
-      <img src="https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=github&logoColor=white" alt="Live Dashboard" />
-    </a>
-    <a href="https://aditya-s45.github.io/placement-interns/api/jobs.json">
-      <img src="https://img.shields.io/badge/JSON_API-007ACC?style=for-the-badge&logo=json&logoColor=white" alt="JSON API" />
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
-    <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
-  </p>
-  <p><em>Last updated: Sep 10, 2026 at 22:17 IST</em></p>
-</div>
+# Indian Tech Internships
+
+[![CI](https://github.com/aditya-s45/placement-interns/actions/workflows/ci.yml/badge.svg)](https://github.com/aditya-s45/placement-interns/actions/workflows/ci.yml) ![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Faditya-s45.github.io%2Fplacement-interns%2Fapi%2Fstats.json&color=2f81f7) ![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950) [![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22)](https://aditya-s45.github.io/placement-interns/feed.xml)
+
+A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
+
+**0 open roles · 39 new this week · 4,989 companies tracked · updated Sep 10, 2026 at 19:55 UTC**
+
+**⭐Star this repo⭐** to save it and get updates when new roles are added.
+
+**Live:** [dashboard](https://aditya-s45.github.io/placement-interns/) · [RSS feed](https://aditya-s45.github.io/placement-interns/feed.xml) (instant alerts in any RSS app) · [JSON API](https://aditya-s45.github.io/placement-interns/api/jobs.json)
+
+**🔔 New roles in your inbox:** [subscribe by email](https://aditya-s45.github.io/placement-interns/#subscribe) - one email a day, only when new internships actually appeared, one-click unsubscribe. (Prefer RSS-to-email? [Feedrabbit works too](https://feedrabbit.com/subscriptions/new?url=https%3A%2F%2Fraw.githubusercontent.com%2Faditya-s45%2Fplacement-interns%2Fmain%2Fdocs%2Ffeed.xml).)
+---
+
+_No matching roles right now, the list fills as companies post. Star it and check back._
+
+## What this is
+
+This is an engine, not a hand-kept list. It polls company career feeds several times a day, finds the internships, removes duplicates, and rebuilds this page on its own. Every link comes straight from the source, so it's real and current, not a stale list someone forgot to update (speed matters).
+
+## What makes this different
+
+- **📅 [Drop Radar](#drop-radar)** - the only list that shows **what's coming**: each marquee company's typical opening window, then confirmed with the real drop date the moment the engine catches it live.
+- **Real posted dates on every role** - pulled from each job portal itself, so newest-first actually means newest.
+- **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://aditya-s45.github.io/placement-interns/), included in the CSV and API.
+- **Alerts your way** - [email digests](https://aditya-s45.github.io/placement-interns/#subscribe), [RSS](https://aditya-s45.github.io/placement-interns/feed.xml), or Discord - plus a [live dashboard](https://aditya-s45.github.io/placement-interns/) with search and custom filters.
+- **An engine, not a spreadsheet** - polled every hour across multiple ATS platforms with full source in this repo.
+
+## Scope
+
+- **Roles:** Software Engineering, Data Science & Machine Learning (and closely related technical internships)
+- **Region:** India
+- **Cycles:** Summer 2027 and Fall 2026
+
+## About
+
+I built this engine to automate tracking for top-tier tech internships across India and globally remote roles. Use it to spot roles early and apply before they fill up - being first genuinely helps.
+
+## How to use
+
+- Roles are grouped by cycle - **newest posting on top, oldest at the bottom.**
+- The **Posted** column is the date the company published the role.
+- **Flags:** 🆕 = spotted in the last 48 hours.
+- Track your applications with [`data/internships.csv`](data/internships.csv) (opens in Excel / Google Sheets).
+- Missing a company? Adding one takes a single line, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-## Summer 2027 (India) <kbd>8 open</kbd>
+<a id="drop-radar"></a>
 
-| 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
-|---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
-| **Valeo** | R&D Trainee/Apprentice/VIE <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Chennai | Posted Tod | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026080195) |
-| **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
-| **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
-| **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
-| **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
-| **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
-| **Atlys** | AI Intern <sup>~</sup> | `Data & ML/AI` | Delhi HQ | 2026-08-12 | [Apply ↗](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) |
+## 📅 Drop Radar — when companies usually post for Summer 2027
 
-## Summer 2027 (Remote) <kbd>13 open</kbd>
+Stop refreshing career pages. Every date here is **real or verified** — no third-party list. 🎯 = the engine **saw the drop itself** from the company's own careers API; the rest are hand-checked typical opening windows for marquee names. ✅ = already live in the list above.
 
-| 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
-|---|---|---|---|---|:---:|
-| **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
-| **Intel** | AI and Compiler Engineering Graduate Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
-| **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
-| **GoTo Group** | DevOps Intern (fixed term, 8 months) <sup>~</sup> | `Software` | Remote (Hungary) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1) |
-| **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
-| **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
-| **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 30+ | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) |
-| **Coinbase** | Software Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
-| **Coinbase** | Machine Learning Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
-| **Coinbase** | Data Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
-| **Coinbase** | Data Science Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
-| **Coinbase** | Analytics Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
-| **Dropbox** | Software Engineering Intern (Summer 2027) | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
+> **Heads up:** companies trend *earlier* every cycle, and "~Aug" is a month, not a day. Treat "expected" as when to **start watching**, and "rolling" companies as worth checking year-round.
 
-## Fall 2026 (India) <kbd>1 open</kbd>
+| Company | Typical opening | Expected this cycle | Status |
+|---|---|---|---|
+| Citadel | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Citadel Securities | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Databricks | ~Aug | ~Aug · any day now | ⏳ waiting |
+| DoorDash | ~Aug | ~Aug · any day now | ⏳ waiting |
+| DRW | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Google | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Jane Street | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Meta | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Optiver | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Pinterest | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Salesforce | ~Aug | ~Aug · any day now | ⏳ waiting |
+| SIG | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Snowflake | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Uber | ~Aug | ~Aug · any day now | ⏳ waiting |
+| Adobe | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Airbnb | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Bloomberg | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Plaid | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Point72 | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
+| Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~21d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec | ⏳ waiting |
+| Ramp | ~Dec | ~Dec | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec | ⏳ waiting |
+| Apple | rolling | year-round | ⏳ waiting |
+| Datadog | rolling | year-round | ⏳ waiting |
+| Jump Trading | rolling | year-round | ⏳ waiting |
+| Microsoft | rolling | year-round | ⏳ waiting |
 
-| 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
-|---|---|---|---|---|:---:|
-| **NVIDIA** | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 | `Data & ML/AI` | India, Bengaluru | Posted Tod | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
-
-## Term Unconfirmed (India) <kbd>2 open</kbd>
-
-| 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
-|---|---|---|---|---|:---:|
-| **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
-| **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
-
-_~ = the title doesn't state a year; bucketed here from its posting date (22 of 24)._
+_68 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **33** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
-<summary><strong>Recently closed</strong> — 20 roles taken down</summary>
+<summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
@@ -89,15 +115,58 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | State Street | Apprentice | Summer 2027 | 2026-09-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | WSP | Intern, Building Technology Systems | Summer 2027 | 2026-09-09 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-09 |
+| Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-09-09 |
+| Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
+| Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
+| Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
+| Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-08 |
+| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-09-08 |
+| Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-08 |
+| LinkedIn | Artificial Intelligence / Machine Learning Engineering Intern | Summer 2027 | 2026-09-08 |
+| Adobe | Apprentice Tech | Summer 2027 | 2026-09-08 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-08 |
+| Sigmoid | Information Security Intern | Summer 2027 | 2026-09-08 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-08 |
+| Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-09-08 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-08 |
+| GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-07 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-07 |
+| Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | Summer 2027 | 2026-09-06 |
 
 </details>
 
 ---
 
-## How it works
+## Hiring timeline
 
-A Python engine reads public company hiring feeds directly, keeps the internships that match the scope (India-based tech roles), de-duplicates across sources, and regenerates this page through GitHub Actions. The full source is in this repo.
+Internships posted per week, from each role's real published date - redrawn automatically on every run. When this line takes off, recruiting season is open:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/trends-dark.svg">
+  <img alt="Internships posted per week, drawn from real published dates" src="docs/trends-light.svg">
+</picture>
+
+## How it stays current
+
+A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
+
+_Engine (last run): 4,990 companies across 25 ATS platforms · 99% fetch success · completed in 2298.5s._
+
+## Platforms Scraped
+
+The engine currently extracts live data from the following platforms:
+- **Direct ATS (Applicant Tracking Systems):** Greenhouse, Lever, Ashby, SmartRecruiters, Workable
+- **Aggregators:** Instahyre
 
 ## Contributing
 
-Add a company to `companies.txt` and run `python run.py discover`.
+Adding a company takes one line, see [CONTRIBUTING.md](CONTRIBUTING.md). Suggestions and pull requests are welcome.
+
+## Note on dates
+
+The **Posted** column shows when a role was published, with the newest at the top. I pull the posting date straight from each job portal, but a lot of them don't expose one publicly, so those rows show a dash (—) for now instead of a guessed date. The ones that do publish a date are dated. Know the real date for a dashed role? Open a PR and I'll merge it.
+
+Roles can close at any time, so always confirm on the company's own site before applying.

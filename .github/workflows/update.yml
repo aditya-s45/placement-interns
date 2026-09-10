@@ -45,9 +45,9 @@ jobs:
           git config user.name  "aditya-s45"
           git config user.email "adityashingare2006@gmail.com"
           git add README.md data/jobs.json data/internships.csv data/stats.json \
-                  data/health.json data/history.jsonl \
+                  data/health.json data/history.jsonl data/observed.json \
                   docs/index.html docs/feed.xml \
-                  docs/api/jobs.json docs/api/stats.json
+                  docs/api/jobs.json docs/api/stats.json docs/trends-dark.svg docs/trends-light.svg
           if git diff --staged --quiet; then
             echo "No changes."
           else

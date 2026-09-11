@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 70 new this week · 4,989 companies tracked · updated Sep 10, 2026 at 23:57 UTC**
+**0 open roles · 72 new this week · 4,989 companies tracked · updated Sep 11, 2026 at 04:02 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,7 +79,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~21d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~20d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -95,6 +95,9 @@ _68 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-11 |
+| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-11 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
 | Acumatica | AI & Automation Intern, Office of the CFO | Summer 2027 | 2026-09-10 |
 | LinkedIn | Software Engineering Intern | Summer 2027 | 2026-09-10 |
 | ABB | ITI apprentice | Summer 2027 | 2026-09-10 |
@@ -132,9 +135,6 @@ _68 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | GoTo Group | DevOps Intern (fixed term, 8 months) | Summer 2027 | 2026-09-10 |
 | Hitachi Energy | Internship - Software Asset Management | Summer 2027 | 2026-09-10 |
 | IGS Energy | Business Analyst Intern (Summer 2027) | Summer 2027 | 2026-09-10 |
-| IGS Energy | Software Engineer Intern | Summer 2027 | 2026-09-10 |
-| Intel | AI and Compiler Engineering Graduate Intern | Summer 2027 | 2026-09-10 |
-| Liberty University | ADS Apprentice | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,990 companies across 25 ATS platforms · 97% fetch success · completed in 279.3s._
+_Engine (last run): 4,990 companies across 25 ATS platforms · 98% fetch success · completed in 223.4s._
 
 ## Platforms Scraped
 

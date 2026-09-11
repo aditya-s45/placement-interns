@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 74 new this week · 4,989 companies tracked · updated Sep 11, 2026 at 08:59 UTC**
+**0 open roles · 75 new this week · 4,997 companies tracked · updated Sep 11, 2026 at 14:16 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -88,13 +88,15 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Jump Trading | rolling | year-round | ⏳ waiting |
 | Microsoft | rolling | year-round | ⏳ waiting |
 
-_68 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **34** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_69 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **35** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-09-11 |
+| State Street | Apprentice | Summer 2027 | 2026-09-11 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-11 |
@@ -133,8 +135,6 @@ _68 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-09-10 |
 | Gevernova | Field/Onsite Winder Apprentice-6 | Summer 2027 | 2026-09-10 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-10 |
-| GoTo Group | DevOps Intern (fixed term, 8 months) | Summer 2027 | 2026-09-10 |
-| Hitachi Energy | Internship - Software Asset Management | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,990 companies across 25 ATS platforms · 97% fetch success · completed in 442.6s._
+_Engine (last run): 4,998 companies across 25 ATS platforms · 97% fetch success · completed in 395.3s._
 
 ## Platforms Scraped
 

@@ -1,13 +1,25 @@
 [
   {
-    "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
-    "company": "GE Healthcare",
-    "title": "Intern Firmware",
-    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
-    "category": "Software",
+    "id": "workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "company": "Citi",
+    "title": "Services – Summer Analyst, India, 2027",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },
@@ -22,6 +34,30 @@
     "url": "https://jobs.smartrecruiters.com/ixigo/744000148960832",
     "salary": null,
     "source": "smartrecruiters"
+  },
+  {
+    "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+    "company": "GE Healthcare",
+    "title": "Intern Firmware",
+    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6",
+    "company": "Swarm Aero",
+    "title": "Software Engineer Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10T18:52:20.927+00:00",
+    "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6",
+    "salary": "$35 per hour",
+    "source": "ashby"
   },
   {
     "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
@@ -128,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-10T00:00:00Z",
     "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-797644",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797644",
     "salary": null,
     "source": "workday"
   },
@@ -296,18 +320,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-08T00:00:00Z",
     "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
-    "company": "GE Healthcare",
-    "title": "Surgery Field Engineer Apprentice (Chattanooga, TN)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T00:00:00Z",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
     "salary": null,
     "source": "workday"
   },

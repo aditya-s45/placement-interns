@@ -58,6 +58,15 @@
     }
    }
   },
+  "amgen": {
+   "name": "Amgen",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "count": 8
+    }
+   }
+  },
   "anduril": {
    "name": "Anduril",
    "cycles": {
@@ -99,7 +108,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-09",
-     "count": 20
+     "count": 23
     }
    }
   },
@@ -162,7 +171,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -180,7 +189,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-10",
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -198,7 +207,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-17",
-     "count": 31
+     "count": 32
     }
    }
   },
@@ -207,7 +216,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -225,7 +234,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-07",
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -234,7 +243,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -288,7 +297,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-25",
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -351,7 +360,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -369,7 +378,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-01",
-     "count": 2278
+     "count": 2279
     }
    }
   },
@@ -378,7 +387,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-13",
-     "count": 36
+     "count": 42
     }
    }
   },
@@ -468,7 +477,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-04-24",
-     "count": 5030
+     "count": 5031
     }
    }
   },
@@ -522,7 +531,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-24",
-     "count": 363
+     "count": 365
     }
    }
   },
@@ -612,7 +621,16 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 10
+     "count": 12
+    }
+   }
+  },
+  "swarmaero": {
+   "name": "Swarm Aero",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "count": 1
     }
    }
   },
@@ -621,7 +639,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -711,7 +729,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-08",
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -751,6 +769,15 @@
     }
    }
   },
+  "voyafinancial": {
+   "name": "Voya Financial",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "count": 1
+    }
+   }
+  },
   "walleye capital": {
    "name": "Walleye Capital",
    "cycles": {
@@ -779,5 +806,5 @@
    }
   }
  },
- "updated_at": "2026-09-11T19:04:33Z"
+ "updated_at": "2026-09-11T22:22:42Z"
 }

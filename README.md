@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 80 new this week · 4,997 companies tracked · updated Sep 11, 2026 at 19:11 UTC**
+**0 open roles · 87 new this week · 4,997 companies tracked · updated Sep 11, 2026 at 22:28 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,8 @@ _72 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Arista Networks | Intern Software Engineers - C/C++ | Summer 2027 | 2026-09-11 |
+| GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-09-11 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-09-11 |
 | GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-11 |
 | Liberty University | Quality Analyst Engineer Apprentice | Summer 2027 | 2026-09-11 |
@@ -133,8 +135,6 @@ _72 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-10 |
 | GE Healthcare | Research Intern - AI | Summer 2027 | 2026-09-10 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-10 |
-| GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-09-10 |
-| GE Healthcare | Information Technology Development Program - Internship | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,998 companies across 25 ATS platforms · 99% fetch success · completed in 427.3s._
+_Engine (last run): 4,998 companies across 25 ATS platforms · 95% fetch success · completed in 324.2s._
 
 ## Platforms Scraped
 

@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+    "company": "GE Healthcare",
+    "title": "Intern Firmware",
+    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "smartrecruiters:ixigo:744000148960832",
+    "company": "Ixigo",
+    "title": "Full-Stack Intern - B2B",
+    "location": "Gurugram, HR, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T08:51:07.416Z",
+    "url": "https://jobs.smartrecruiters.com/ixigo/744000148960832",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10T00:00:00Z",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -56,18 +92,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-10T00:00:00Z",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B4-B5",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
     "salary": null,
     "source": "workday"
   },

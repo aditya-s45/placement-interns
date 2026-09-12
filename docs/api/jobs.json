@@ -1,15 +1,15 @@
 [
   {
-    "id": "workday:amgen:/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
-    "company": "Amgen",
-    "title": "Grad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
+    "id": "smartrecruiters:AristaNetworks:744000149101159",
+    "company": "Arista Networks",
+    "title": "Intern Software Engineer - C/C++",
+    "location": "Poland - Remote, PL (Remote)",
+    "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
+    "posted_at": "2026-09-11T20:06:57.121Z",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159",
     "salary": null,
-    "source": "workday"
+    "source": "smartrecruiters"
   },
   {
     "id": "workday:amgen:/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
@@ -24,26 +24,14 @@
     "source": "workday"
   },
   {
-    "id": "smartrecruiters:AristaNetworks:744000149101159",
-    "company": "Arista Networks",
-    "title": "Intern Software Engineer - C/C++",
-    "location": "Poland - Remote, PL (Remote)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T20:06:57.121Z",
-    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159",
-    "salary": null,
-    "source": "smartrecruiters"
-  },
-  {
-    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
-    "company": "Corteva",
-    "title": "Data Science Summer Intern",
-    "location": "Indianapolis, Indiana, United States",
+    "id": "workday:amgen:/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
+    "company": "Amgen",
+    "title": "Grad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+    "location": "United States - Remote",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
     "salary": null,
     "source": "workday"
   },
@@ -56,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
+    "company": "Corteva",
+    "title": "Data Science Summer Intern",
+    "location": "Indianapolis, Indiana, United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
     "salary": null,
     "source": "workday"
   },
@@ -250,18 +250,6 @@
     "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
-    "company": "Honeywell",
-    "title": "Intern Masters Data Science",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:aksteel:/job/Indiana-Harbor/Information-Technology-Intern_R13501",

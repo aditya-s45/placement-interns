@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 84 new this week · 5,003 companies tracked · updated Sep 12, 2026 at 22:08 UTC**
+**0 open roles · 83 new this week · 5,003 companies tracked · updated Sep 13, 2026 at 05:27 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,7 +79,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~19d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~18d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -95,6 +95,7 @@ _72 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Weatherford | Intern -Supplier Quality Analyst & Digital Transformation | Summer 2027 | 2026-09-13 |
 | Merck | Information Technology Intern | Summer 2027 | 2026-09-12 |
 | Honeywell | Intern Masters Data Science | Summer 2027 | 2026-09-12 |
 | Arista Networks | Intern Software Engineers - C/C++ | Summer 2027 | 2026-09-11 |
@@ -134,7 +135,6 @@ _72 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Ensemble Health Partners | Data Scientist Intern | Summer 2027 | 2026-09-10 |
 | Equifax | Trainee -Data Operations Analyst | Summer 2027 | 2026-09-10 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-09-10 |
-| GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,004 companies across 25 ATS platforms · 99% fetch success · completed in 217.3s._
+_Engine (last run): 5,004 companies across 25 ATS platforms · 98% fetch success · completed in 327.9s._
 
 ## Platforms Scraped
 

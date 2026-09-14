@@ -4,9 +4,27 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-14T04:24:37Z</updated>
+  <updated>2026-09-14T12:27:37Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Amazon — Financial Analyst Intern, Ops FP&amp;A</title>
+    <link href="https://www.amazon.jobs/en/jobs/10515290/financial-analyst-intern-ops-fp-a" rel="alternate"/>
+    <id>amazon:amazon:10515290</id>
+    <updated>2026-09-14T12:27:37Z</updated>
+    <summary>Bengaluru, Karnataka, IND · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>American Express — Apprentice</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013720" rel="alternate"/>
+    <id>oracle:egug.fa.us2.oraclecloud.com:26013720</id>
+    <updated>2026-09-14T12:27:37Z</updated>
+    <summary>Gurugram, HR, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — Apprentice</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Apprentice_R323129" rel="alternate"/>
+    <id>workday:cw:/job/Bengaluru-India/Apprentice_R323129</id>
+    <updated>2026-09-14T12:27:37Z</updated>
+    <summary>Bengaluru, India · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Amazon — Financial Analyst Intern</title>
     <link href="https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern" rel="alternate"/>
     <id>amazon:amazon:10498382</id>
@@ -288,23 +306,5 @@
     <id>workday:equifax:/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586</id>
     <updated>2026-09-10T20:48:34Z</updated>
     <summary>IND-Bangalore-Equifax Credit Information Services · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>GoTo Group — DevOps Intern (fixed term, 8 months)</title>
-    <link href="https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1" rel="alternate"/>
-    <id>workday:goto:/job/Remote-Hungary/DevOps-Intern_R26-2270-1</id>
-    <updated>2026-09-10T20:48:34Z</updated>
-    <summary>Remote (Hungary) · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>IGS Energy — Business Analyst Intern (Summer 2027)</title>
-    <link href="https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298" rel="alternate"/>
-    <id>workday:igsenergy:/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298</id>
-    <updated>2026-09-10T20:48:34Z</updated>
-    <summary>Ohio Remote · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>IGS Energy — Software Engineer Intern</title>
-    <link href="https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263" rel="alternate"/>
-    <id>workday:igsenergy:/job/Ohio-Remote/Software-Engineer-Intern_R6263</id>
-    <updated>2026-09-10T20:48:34Z</updated>
-    <summary>Ohio Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

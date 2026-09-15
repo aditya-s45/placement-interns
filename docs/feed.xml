@@ -4,14 +4,26 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-14T23:06:59Z</updated>
+  <updated>2026-09-15T04:22:26Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>A Thinking Ape — Software Development Engineer Co-op (Jan. 2027)</title>
+    <link href="https://job-boards.greenhouse.io/athinkingape/jobs/8203048" rel="alternate"/>
+    <id>greenhouse:athinkingape:8203048</id>
+    <updated>2026-09-15T04:22:26Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Amgen — Grad Intern – Data Engineer – Technology, AI &amp; Data (Summer 2027)</title>
     <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742" rel="alternate"/>
     <id>workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742</id>
     <updated>2026-09-14T23:06:59Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wex — AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055" rel="alternate"/>
+    <id>workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
+    <updated>2026-09-14T23:06:59Z</updated>
+    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Wex — Fullstack Software Engineer Intern (Undergraduate)</title>
     <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593" rel="alternate"/>
@@ -36,12 +48,6 @@
     <id>workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
     <updated>2026-09-14T23:06:59Z</updated>
     <summary>US - Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Wex — AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055" rel="alternate"/>
-    <id>workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
-    <updated>2026-09-14T23:06:59Z</updated>
-    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Wex — Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
     <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>workday:chemours:/job/US---Remote/AI---Data-Science-Intern_JR15013</id>
     <updated>2026-09-10T20:48:34Z</updated>
     <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cisive — Intern- Software Developer</title>
-    <link href="https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Intern--Software-Developer_JR100211" rel="alternate"/>
-    <id>workday:cisive:/job/Remote---Maryland/Intern--Software-Developer_JR100211</id>
-    <updated>2026-09-10T20:48:34Z</updated>
-    <summary>Remote - Maryland · Software · Summer 2027</summary>
   </entry>
 </feed>

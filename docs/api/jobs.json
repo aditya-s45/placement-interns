@@ -1,5 +1,17 @@
 [
   {
+    "id": "greenhouse:athinkingape:8203048",
+    "company": "A Thinking Ape",
+    "title": "Software Development Engineer Co-op (Jan. 2027)",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T19:44:33-04:00",
+    "url": "https://job-boards.greenhouse.io/athinkingape/jobs/8203048",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
     "company": "Amgen",
     "title": "Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
@@ -8,6 +20,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-14T00:00:00Z",
     "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
+    "company": "Wex",
+    "title": "AI & Data Platform Engineering Intern (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
     "salary": null,
     "source": "workday"
   },
@@ -56,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-14T00:00:00Z",
     "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "company": "Wex",
-    "title": "AI & Data Platform Engineering Intern (Undergraduate)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
     "salary": null,
     "source": "workday"
   },

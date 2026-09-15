@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:goto:/job/Remote-Brazil/Apprentice_R26-2201",
+    "company": "GoTo Group",
+    "title": "Apprentice",
+    "location": "Remote (Brazil)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-15T00:00:00Z",
+    "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-15T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
+    "company": "Marvell",
+    "title": "Solutions Research Intern — Physical AI",
+    "location": "Hyderabad",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-15T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
     "company": "Marvell",
     "title": "Generative AI Forward Deployed Engineer Intern-Enterprise Applications",
@@ -552,18 +588,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cambiumlearning:/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
-    "company": "Cambium Learning Group",
-    "title": "Software Engineer Intern – AI Applications",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T00:00:00Z",
-    "url": "https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:spgi:/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
     "company": "S&P Global",
     "title": "Apprentice, Data Operations",
@@ -754,6 +778,18 @@
     "url": "https://cw.wd1.myworkdayjobs.com/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "oracle:hccz.fa.em3.oraclecloud.com:25530",
+    "company": "Pearson",
+    "title": "Content Producer, Apprentice",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-04",
+    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W",

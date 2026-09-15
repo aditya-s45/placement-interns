@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
+    "company": "Marvell",
+    "title": "Generative AI Forward Deployed Engineer Intern-Enterprise Applications",
+    "location": "Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-15T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "greenhouse:athinkingape:8203048",
     "company": "A Thinking Ape",
     "title": "Software Development Engineer Co-op (Jan. 2027)",
@@ -336,6 +348,18 @@
     "source": "smartrecruiters"
   },
   {
+    "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+    "company": "GE Healthcare",
+    "title": "Intern Firmware",
+    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6",
     "company": "Swarm Aero",
     "title": "Software Engineer Intern (Summer 2027)",
@@ -346,18 +370,6 @@
     "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6",
     "salary": "$35 per hour",
     "source": "ashby"
-  },
-  {
-    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "greenhouse:tanium:8181017",
@@ -392,6 +404,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-10T00:00:00Z",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B4-B5",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10T00:00:00Z",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
     "salary": null,
     "source": "workday"
   },

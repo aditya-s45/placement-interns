@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 89 new this week · 5,004 companies tracked · updated Sep 15, 2026 at 04:22 UTC**
+**0 open roles · 91 new this week · 5,004 companies tracked · updated Sep 15, 2026 at 11:34 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,7 @@ _73 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-14 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-14 |
 | Novartis | Intern Data Science | Summer 2027 | 2026-09-14 |
@@ -109,10 +110,8 @@ _73 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Arista Networks | Intern Software Engineers - C/C++ | Summer 2027 | 2026-09-11 |
 | GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-09-11 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-09-11 |
-| GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-11 |
 | Liberty University | Quality Analyst Engineer Apprentice | Summer 2027 | 2026-09-11 |
 | Valeo | R&D Trainee/Apprentice/VIE | Summer 2027 | 2026-09-11 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
@@ -135,6 +134,7 @@ _73 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-09-10 |
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-09-10 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,005 companies across 25 ATS platforms · 99% fetch success · completed in 229.6s._
+_Engine (last run): 5,005 companies across 25 ATS platforms · 97% fetch success · completed in 415.3s._
 
 ## Platforms Scraped
 

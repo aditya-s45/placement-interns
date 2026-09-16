@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:itron:/job/India-Bangalore/Apprentice_JR102702-2",
+    "company": "Itron",
+    "title": "Apprentice",
+    "location": "India, Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T00:00:00Z",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "smartrecruiters:WabashValleyPowerAlliance:744000149875759",
+    "company": "Wabash Valley Power Alliance",
+    "title": "Technology & Compliance Internship - Summer 2027",
+    "location": "Indianapolis, IN, United States",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T13:48:59.686Z",
+    "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
     "company": "GE Aerospace",
     "title": "Data Science Intern",
@@ -932,18 +956,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-08-31T00:00:00Z",
     "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:igsenergy:/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
-    "company": "IGS Energy",
-    "title": "Business Analyst Intern (Summer 2027)",
-    "location": "Ohio Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-31T00:00:00Z",
-    "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
     "salary": null,
     "source": "workday"
   },

@@ -4,14 +4,20 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-16T18:07:52Z</updated>
+  <updated>2026-09-16T22:54:24Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Itron — Apprentice</title>
-    <link href="https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2" rel="alternate"/>
-    <id>workday:itron:/job/India-Bangalore/Apprentice_JR102702-2</id>
-    <updated>2026-09-16T18:07:52Z</updated>
-    <summary>India, Bangalore · Other · Summer 2027</summary>
+    <title>Ancestry — Data Science - AI Document Understanding, Co-op</title>
+    <link href="https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449" rel="alternate"/>
+    <id>workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449</id>
+    <updated>2026-09-16T22:54:24Z</updated>
+    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Twilio — Software Engineer Intern (January 12th start, 23 weeks)</title>
+    <link href="https://job-boards.greenhouse.io/twilio/jobs/8190889" rel="alternate"/>
+    <id>greenhouse:twilio:8190889</id>
+    <updated>2026-09-16T22:54:24Z</updated>
+    <summary>Remote - India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Wabash Valley Power Alliance — Technology &amp; Compliance Internship - Summer 2027</title>
     <link href="https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759" rel="alternate"/>
@@ -19,17 +25,17 @@
     <updated>2026-09-16T18:07:52Z</updated>
     <summary>Indianapolis, IN, United States · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Itron — Apprentice</title>
+    <link href="https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2" rel="alternate"/>
+    <id>workday:itron:/job/India-Bangalore/Apprentice_JR102702-2</id>
+    <updated>2026-09-16T18:07:52Z</updated>
+    <summary>India, Bangalore · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>GE Aerospace — Data Science Intern</title>
     <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1" rel="alternate"/>
     <id>workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1</id>
     <updated>2026-09-16T13:24:32Z</updated>
     <summary>Bengaluru · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Pfizer — Intern - Data Science &amp; AI</title>
-    <link href="https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079" rel="alternate"/>
-    <id>workday:pfizer:/job/India---Mumbai/Intern---Data-Science---AI_4963079</id>
-    <updated>2026-09-16T13:24:32Z</updated>
-    <summary>India - Mumbai · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Acxiom — Intern - Data Engineer</title>
     <link href="https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>workday:aksteel:/job/Indiana-Harbor/Information-Technology-Intern_R13501</id>
     <updated>2026-09-10T20:48:34Z</updated>
     <summary>Indiana Harbor · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Allegion — Summer Intern – Firmware Engineer (Advanced Development) – Indianapolis, IN</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1" rel="alternate"/>
-    <id>workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1</id>
-    <updated>2026-09-10T20:48:34Z</updated>
-    <summary>Indianapolis, IN - Hague Rd · Software · Summer 2027</summary>
   </entry>
 </feed>

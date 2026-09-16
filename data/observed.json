@@ -63,7 +63,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 236
+     "count": 247
     }
    }
   },
@@ -99,7 +99,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-14",
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -117,7 +117,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-09",
-     "count": 89
+     "count": 92
     }
    }
   },
@@ -180,7 +180,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 24
+     "count": 25
     }
    }
   },
@@ -198,7 +198,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-10",
-     "count": 29
+     "count": 30
     }
    }
   },
@@ -216,7 +216,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-17",
-     "count": 54
+     "count": 55
     }
    }
   },
@@ -225,7 +225,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 53
+     "count": 55
     }
    }
   },
@@ -243,7 +243,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-07",
-     "count": 29
+     "count": 30
     }
    }
   },
@@ -252,7 +252,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 28
+     "count": 29
     }
    }
   },
@@ -306,7 +306,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-25",
-     "count": 29
+     "count": 30
     }
    }
   },
@@ -369,7 +369,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 28
+     "count": 29
     }
    }
   },
@@ -387,7 +387,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-01",
-     "count": 2301
+     "count": 2302
     }
    }
   },
@@ -396,7 +396,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-13",
-     "count": 174
+     "count": 180
     }
    }
   },
@@ -486,7 +486,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-04-24",
-     "count": 5053
+     "count": 5054
     }
    }
   },
@@ -540,7 +540,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-24",
-     "count": 409
+     "count": 411
     }
    }
   },
@@ -630,7 +630,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 56
+     "count": 58
     }
    }
   },
@@ -639,7 +639,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 23
+     "count": 24
     }
    }
   },
@@ -648,7 +648,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 28
+     "count": 29
     }
    }
   },
@@ -738,7 +738,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-08",
-     "count": 44
+     "count": 45
     }
    }
   },
@@ -783,7 +783,16 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 23
+     "count": 24
+    }
+   }
+  },
+  "wabashvalleypoweralliance": {
+   "name": "Wabash Valley Power Alliance",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "count": 1
     }
    }
   },
@@ -815,5 +824,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T18:02:34Z"
+ "updated_at": "2026-09-16T22:47:46Z"
 }

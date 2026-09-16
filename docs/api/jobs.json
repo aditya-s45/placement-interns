@@ -1,15 +1,27 @@
 [
   {
-    "id": "workday:itron:/job/India-Bangalore/Apprentice_JR102702-2",
-    "company": "Itron",
-    "title": "Apprentice",
-    "location": "India, Bangalore",
-    "category": "Other",
+    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+    "company": "Ancestry",
+    "title": "Data Science - AI Document Understanding, Co-op",
+    "location": "Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-09-16T00:00:00Z",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:twilio:8190889",
+    "company": "Twilio",
+    "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+    "location": "Remote - India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T14:54:18-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "smartrecruiters:WabashValleyPowerAlliance:744000149875759",
@@ -24,6 +36,18 @@
     "source": "smartrecruiters"
   },
   {
+    "id": "workday:itron:/job/India-Bangalore/Apprentice_JR102702-2",
+    "company": "Itron",
+    "title": "Apprentice",
+    "location": "India, Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T00:00:00Z",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
     "company": "GE Aerospace",
     "title": "Data Science Intern",
@@ -32,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-16T00:00:00Z",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:pfizer:/job/India---Mumbai/Intern---Data-Science---AI_4963079",
-    "company": "Pfizer",
-    "title": "Intern - Data Science & AI",
-    "location": "India - Mumbai",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-16T00:00:00Z",
-    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079",
     "salary": null,
     "source": "workday"
   },
@@ -644,18 +656,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-08T00:00:00Z",
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
-    "company": "S&P Global",
-    "title": "Apprentice, Data Operations",
-    "location": "Ahmedabad, Gujarat",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T00:00:00Z",
-    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
     "salary": null,
     "source": "workday"
   },

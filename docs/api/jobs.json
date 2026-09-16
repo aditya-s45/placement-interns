@@ -396,18 +396,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "company": "Citi",
-    "title": "Services – Summer Analyst, India, 2027",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "smartrecruiters:ixigo:744000148960832",
     "company": "Ixigo",
     "title": "Full-Stack Intern - B2B",
@@ -1150,6 +1138,18 @@
     "url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
     "salary": null,
     "source": "amazon"
+  },
+  {
+    "id": "workable:innovaccer-analytics:47C4AD89C2",
+    "company": "Innovaccer",
+    "title": "Apprentice - HR (Employee Engagement)",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-28T00:00:00.000Z",
+    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "lever:thinkahead:76649f02-c9df-4206-a365-cf9d33350b55",

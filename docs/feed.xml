@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-16T00:11:15Z</updated>
+  <updated>2026-09-16T07:35:19Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Acxiom — Intern - Data Engineer</title>
@@ -235,12 +235,6 @@
     <updated>2026-09-11T14:16:50Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Citi — Services – Summer Analyst, India, 2027</title>
-    <link href="https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901" rel="alternate"/>
-    <id>workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901</id>
-    <updated>2026-09-11T14:16:50Z</updated>
-    <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Ixigo — Full-Stack Intern - B2B</title>
     <link href="https://jobs.smartrecruiters.com/ixigo/744000148960832" rel="alternate"/>
     <id>smartrecruiters:ixigo:744000148960832</id>
@@ -306,5 +300,11 @@
     <id>workday:ancestry:/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442</id>
     <updated>2026-09-10T20:48:34Z</updated>
     <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Astreya — AI Infrastructure DC Design Intern</title>
+    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747" rel="alternate"/>
+    <id>workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747</id>
+    <updated>2026-09-10T20:48:34Z</updated>
+    <summary>Remote, CA · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

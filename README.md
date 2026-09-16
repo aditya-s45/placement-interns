@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 93 new this week · 5,012 companies tracked · updated Sep 15, 2026 at 21:10 UTC**
+**0 open roles · 88 new this week · 5,012 companies tracked · updated Sep 16, 2026 at 00:11 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,7 +79,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~16d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~15d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -95,6 +95,7 @@ _73 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Innovaccer | Apprentice - HR (Employee Engagement) | Summer 2027 | 2026-09-16 |
 | GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-15 |
 | Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-15 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
@@ -134,7 +135,6 @@ _73 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-09-10 |
 | Corteva | Business Analyst Intern | Summer 2027 | 2026-09-10 |
 | Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-09-10 |
-| Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,013 companies across 25 ATS platforms · 100% fetch success · completed in 305.2s._
+_Engine (last run): 5,013 companies across 25 ATS platforms · 99% fetch success · completed in 400.0s._
 
 ## Platforms Scraped
 

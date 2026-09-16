@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:geaerospace:/job/Bengaluru/Data-Science-Intern_R5040035-1",
+    "company": "GE Aerospace",
+    "title": "Data Science Intern",
+    "location": "Bengaluru",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T00:00:00Z",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:pfizer:/job/India---Mumbai/Intern---Data-Science---AI_4963079",
+    "company": "Pfizer",
+    "title": "Intern - Data Science & AI",
+    "location": "India - Mumbai",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T00:00:00Z",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
     "company": "Acxiom",
     "title": "Intern - Data Engineer",

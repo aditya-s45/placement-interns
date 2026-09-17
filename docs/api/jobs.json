@@ -1,17 +1,5 @@
 [
   {
-    "id": "workday:statestreet:/job/Mumbai-India/Apprentice_R-796075",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Mumbai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-17T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Apprentice_R-796075",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "greenhouse:twilio:8190889",
     "company": "Twilio",
     "title": "Software Engineer Intern (January 12th start, 23 weeks)",
@@ -464,6 +452,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },
@@ -1080,6 +1080,18 @@
     "source": "ashby"
   },
   {
+    "id": "lever:dnb:f693c763-1076-4d14-97a1-fa4b21e1c360",
+    "company": "Dun & Bradstreet",
+    "title": "Apprentice - Industrial Trainee (R-19685)",
+    "location": "Mumbai - India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-25T11:15:40Z",
+    "url": "https://jobs.lever.co/dnb/f693c763-1076-4d14-97a1-fa4b21e1c360",
+    "salary": null,
+    "source": "lever"
+  },
+  {
     "id": "greenhouse:galaxydigitalservices:6163325004",
     "company": "Galaxy",
     "title": "Off-Cycle Fall 2026 Cybersecurity Internship",
@@ -1102,18 +1114,6 @@
     "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:medtronic:/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-18T00:00:00Z",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "greenhouse:leolabsinc:4367943009",
@@ -1234,6 +1234,18 @@
     "url": "https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f",
     "salary": null,
     "source": "lever"
+  },
+  {
+    "id": "workday:medtronic:/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Bangalore , Karnataka, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",

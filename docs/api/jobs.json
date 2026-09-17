@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:chemours:/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018",
+    "company": "Chemours",
+    "title": "Data Visualization Analyst Summer Intern",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-17T00:00:00Z",
+    "url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "smartrecruiters:RenesasElectronics:744000150194379",
+    "company": "Renesas Electronics",
+    "title": "Embedded Systems Intern",
+    "location": "Remote, REMOTE, United States (Remote)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-17T18:38:24.202Z",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "greenhouse:thoughtworks:8210384",
     "company": "Thoughtworks",
     "title": "Developer (Vapasi) - Intern",
@@ -140,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-15T00:00:00Z",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
-    "company": "Marvell",
-    "title": "Generative AI Forward Deployed Engineer Intern-Enterprise Applications",
-    "location": "Bangalore",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
     "salary": null,
     "source": "workday"
   },
@@ -464,18 +476,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },

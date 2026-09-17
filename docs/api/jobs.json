@@ -1,13 +1,13 @@
 [
   {
-    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
-    "company": "Ancestry",
-    "title": "Data Science - AI Document Understanding, Co-op",
-    "location": "Remote",
-    "category": "Data & ML/AI",
+    "id": "workday:statestreet:/job/Mumbai-India/Apprentice_R-796075",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Mumbai, India",
+    "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "2026-09-16T00:00:00Z",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+    "posted_at": "2026-09-17T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Mumbai-India/Apprentice_R-796075",
     "salary": null,
     "source": "workday"
   },
@@ -22,6 +22,18 @@
     "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+    "company": "Ancestry",
+    "title": "Data Science - AI Document Understanding, Co-op",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T00:00:00Z",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "smartrecruiters:WabashValleyPowerAlliance:744000149875759",
@@ -840,16 +852,16 @@
     "source": "workday"
   },
   {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25530",
-    "company": "Pearson",
-    "title": "Content Producer, Apprentice",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
+    "id": "greenhouse:newsbreak:4711146006",
+    "company": "NewsBreak",
+    "title": "New Market Launch Intern (MBA), Nearby AI",
+    "location": "Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-09-04",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530",
+    "posted_at": "2026-09-03T18:56:06-04:00",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4711146006",
     "salary": null,
-    "source": "oracle"
+    "source": "greenhouse"
   },
   {
     "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W",

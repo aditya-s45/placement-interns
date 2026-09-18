@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
+    "company": "Altera Corporation",
+    "title": "AI Automation Intern",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T00:00:00Z",
+    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+    "company": "Centene",
+    "title": "Cybersecurity Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-MO",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "company": "Centene",
+    "title": "Technology Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-FL",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "company": "Sony",
     "title": "Research Intern on Generative and Protective AI for Content Creation",
@@ -1138,6 +1174,18 @@
     "url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
     "salary": null,
     "source": "amazon"
+  },
+  {
+    "id": "workable:innovaccer-analytics:47C4AD89C2",
+    "company": "Innovaccer",
+    "title": "Apprentice - HR (Employee Engagement)",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-28T00:00:00.000Z",
+    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "lever:thinkahead:76649f02-c9df-4206-a365-cf9d33350b55",

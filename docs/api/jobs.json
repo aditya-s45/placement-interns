@@ -888,18 +888,6 @@
     "source": "lever"
   },
   {
-    "id": "workday:cengage:/job/IN-Noida-Uttar-Pradesh-India/Finance-Apprentice_R2026-1037-1",
-    "company": "Cengage Group",
-    "title": "Finance Apprentice",
-    "location": "IN-Noida, Uttar Pradesh-India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-01T00:00:00Z",
-    "url": "https://cengage.wd5.myworkdayjobs.com/CengageNorthAmericaCareers/job/IN-Noida-Uttar-Pradesh-India/Finance-Apprentice_R2026-1037-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:pg:/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000158265",
     "company": "Procter & Gamble (P&G)",
     "title": "Information Technology Intern",
@@ -1126,18 +1114,6 @@
     "url": "https://apply.workable.com/connectprep/j/D1C67258C0/",
     "salary": null,
     "source": "workable"
-  },
-  {
-    "id": "ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
-    "company": "Atlys",
-    "title": "AI Intern",
-    "location": "Delhi HQ",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-12T09:07:59.222+00:00",
-    "url": "https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
-    "salary": null,
-    "source": "ashby"
   },
   {
     "id": "amazon:amazon:10498382",

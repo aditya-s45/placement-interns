@@ -120,18 +120,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
-    "company": "PerkinElmer",
-    "title": "Data Science Intern, Asset Intelligence",
-    "location": "US Remote - NY",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:goto:/job/Remote-Brazil/Apprentice_R26-2201",
     "company": "GoTo Group",
     "title": "Apprentice",
@@ -140,30 +128,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-15T00:00:00Z",
     "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
-    "company": "Marvell",
-    "title": "Intern, Software Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:marvell:/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
-    "company": "Marvell",
-    "title": "Solutions Research Intern — Physical AI",
-    "location": "Hyderabad",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
     "salary": null,
     "source": "workday"
   },
@@ -874,18 +838,6 @@
     "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4711146006",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W",
-    "company": "Corteva",
-    "title": "Business Analyst Intern",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-03T00:00:00Z",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",

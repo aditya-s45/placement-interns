@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Protective AI for Content Creation",
+    "location": "Remote - Texas",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T00:00:00Z",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "smartrecruiters:RenesasElectronics:744000150194379",
     "company": "Renesas Electronics",
     "title": "Embedded Systems Intern",
@@ -92,18 +104,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-16T00:00:00Z",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
-    "company": "Acxiom",
-    "title": "Intern - Data Engineer",
-    "location": "Remote/Homebased",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
     "salary": null,
     "source": "workday"
   },
@@ -440,6 +440,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "company": "Citi",
+    "title": "Services – Summer Analyst, India, 2027",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
     "salary": null,
     "source": "workday"
   },
@@ -1128,18 +1140,6 @@
     "source": "amazon"
   },
   {
-    "id": "workable:innovaccer-analytics:47C4AD89C2",
-    "company": "Innovaccer",
-    "title": "Apprentice - HR (Employee Engagement)",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-28T00:00:00.000Z",
-    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
-    "salary": null,
-    "source": "workable"
-  },
-  {
     "id": "lever:thinkahead:76649f02-c9df-4206-a365-cf9d33350b55",
     "company": "AHEAD",
     "title": "MS Infrastructure Intern (6 months)",
@@ -1304,18 +1304,6 @@
     "season": "Summer 2027",
     "posted_at": null,
     "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:sonyglobal:/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "company": "Sony",
-    "title": "Research Intern on Generative and Protective AI for Content Creation",
-    "location": "Remote - New York",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "salary": null,
     "source": "workday"
   },

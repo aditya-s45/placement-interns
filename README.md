@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 45 new this week · 5,028 companies tracked · updated Sep 18, 2026 at 12:57 UTC**
+**0 open roles · 44 new this week · 5,037 companies tracked · updated Sep 18, 2026 at 17:43 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,9 @@ _74 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Innovaccer | Apprentice - HR (Employee Engagement) | Summer 2027 | 2026-09-18 |
+| Acxiom | Intern - Data Engineer | Summer 2027 | 2026-09-18 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-18 |
 | Atlys | AI Intern | Summer 2027 | 2026-09-18 |
 | Cengage Group | Finance Apprentice | Summer 2027 | 2026-09-18 |
 | Corteva | Business Analyst Intern | Summer 2027 | 2026-09-18 |
@@ -109,7 +112,6 @@ _74 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Pfizer | Intern - Data Science & AI | Summer 2027 | 2026-09-16 |
 | S&P Global | Apprentice, Data Operations | Summer 2027 | 2026-09-16 |
 | IGS Energy | Business Analyst Intern (Summer 2027) | Summer 2027 | 2026-09-16 |
-| Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-09-16 |
 | GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-15 |
 | Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-15 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
@@ -133,8 +135,6 @@ _74 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
 | Acumatica | AI & Automation Intern, Office of the CFO | Summer 2027 | 2026-09-10 |
 | LinkedIn | Software Engineering Intern | Summer 2027 | 2026-09-10 |
-| ABB | ITI apprentice | Summer 2027 | 2026-09-10 |
-| Acxiom | Intern - Data Scientist | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,029 companies across 25 ATS platforms · 96% fetch success · completed in 395.0s._
+_Engine (last run): 5,038 companies across 25 ATS platforms · 98% fetch success · completed in 444.9s._
 
 ## Platforms Scraped
 

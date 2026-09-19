@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 39 new this week · 5,037 companies tracked · updated Sep 18, 2026 at 20:49 UTC**
+**0 open roles · 31 new this week · 5,037 companies tracked · updated Sep 19, 2026 at 00:09 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,7 +79,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~13d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~12d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -95,6 +95,8 @@ _75 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| AHEAD | MS - NOC Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
+| AHEAD | MS - EUS Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
 | Acxiom | Intern - Data Engineer | Summer 2027 | 2026-09-18 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-18 |
 | Atlys | AI Intern | Summer 2027 | 2026-09-18 |
@@ -133,8 +135,6 @@ _75 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
 | Acumatica | AI & Automation Intern, Office of the CFO | Summer 2027 | 2026-09-10 |
-| LinkedIn | Software Engineering Intern | Summer 2027 | 2026-09-10 |
-| ABB | ITI apprentice | Summer 2027 | 2026-09-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,038 companies across 25 ATS platforms · 98% fetch success · completed in 458.2s._
+_Engine (last run): 5,038 companies across 25 ATS platforms · 99% fetch success · completed in 406.9s._
 
 ## Platforms Scraped
 

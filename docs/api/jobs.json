@@ -12,18 +12,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
-    "company": "Centene",
-    "title": "Cybersecurity Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-MO",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-18T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
     "company": "Centene",
     "title": "Technology Summer 2027 Intern (Undergraduate)",
@@ -32,6 +20,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+    "company": "Centene",
+    "title": "Cybersecurity Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-MO",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
     "salary": null,
     "source": "workday"
   },
@@ -1196,30 +1196,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-07-21T09:49:06Z",
     "url": "https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55",
-    "salary": null,
-    "source": "lever"
-  },
-  {
-    "id": "lever:thinkahead:3fd5cb37-6541-4e97-a827-d644468e6535",
-    "company": "AHEAD",
-    "title": "MS - NOC Apprentice/Intern (6 months)",
-    "location": "Gurugram, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-20T13:36:23Z",
-    "url": "https://jobs.lever.co/thinkahead/3fd5cb37-6541-4e97-a827-d644468e6535",
-    "salary": null,
-    "source": "lever"
-  },
-  {
-    "id": "lever:thinkahead:7950d5ca-0cf8-4fa5-a2fc-6210c711411f",
-    "company": "AHEAD",
-    "title": "MS - EUS Apprentice/Intern (6 months)",
-    "location": "Gurugram, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-20T13:32:59Z",
-    "url": "https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f",
     "salary": null,
     "source": "lever"
   },

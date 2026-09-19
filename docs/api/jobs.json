@@ -1,5 +1,17 @@
 [
   {
+    "id": "ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf",
+    "company": "Fable",
+    "title": "Software Engineering Intern",
+    "location": "San Francisco, CA (Hybrid)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T20:04:36.912+00:00",
+    "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf",
+    "salary": null,
+    "source": "ashby"
+  },
+  {
     "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
     "company": "Altera Corporation",
     "title": "AI Automation Intern",
@@ -1162,6 +1174,18 @@
     "url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
     "salary": null,
     "source": "amazon"
+  },
+  {
+    "id": "workable:innovaccer-analytics:47C4AD89C2",
+    "company": "Innovaccer",
+    "title": "Apprentice - HR (Employee Engagement)",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-28T00:00:00.000Z",
+    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "lever:thinkahead:76649f02-c9df-4206-a365-cf9d33350b55",

@@ -1,5 +1,29 @@
 [
   {
+    "id": "greenhouse:centriaautism:8826960002",
+    "company": "Centria Autism",
+    "title": "Clinical Apprentice - BCBA Fieldwork Program",
+    "location": "Speedway, Indiana, United States",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-21T07:57:39-04:00",
+    "url": "https://job-boards.greenhouse.io/centriaautism/jobs/8826960002",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "workday:spgi:/job/Gurugram-Haryana/Apprentice_329593-1",
+    "company": "S&P Global",
+    "title": "Apprentice",
+    "location": "Gurugram, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-21T00:00:00Z",
+    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice_329593-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf",
     "company": "Fable",
     "title": "Software Engineering Intern",
@@ -60,6 +84,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-17T00:00:00Z",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:chemours:/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018",
     "company": "Chemours",
     "title": "Data Visualization Analyst Summer Intern",
@@ -80,18 +116,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-17T03:51:28-04:00",
     "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
-    "id": "greenhouse:twilio:8190887",
-    "company": "Twilio",
-    "title": "Software Engineer Intern (January 12th start, 23 weeks)",
-    "location": "Remote - India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-16T15:21:27-04:00",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
     "salary": null,
     "source": "greenhouse"
   },
@@ -548,18 +572,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-10T00:00:00Z",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B4-B5",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
     "salary": null,
     "source": "workday"
   },
@@ -1186,6 +1198,18 @@
     "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
     "salary": null,
     "source": "workable"
+  },
+  {
+    "id": "instahyre:gameberrylabs:443500",
+    "company": "Gameberry Labs",
+    "title": "Gen AI Designer - Intern",
+    "location": "Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/",
+    "salary": null,
+    "source": "instahyre"
   },
   {
     "id": "workday:medtronic:/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",

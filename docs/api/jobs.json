@@ -12,18 +12,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workday:spgi:/job/Gurugram-Haryana/Apprentice_329593-1",
-    "company": "S&P Global",
-    "title": "Apprentice",
-    "location": "Gurugram, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-21T00:00:00Z",
-    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice_329593-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf",
     "company": "Fable",
     "title": "Software Engineering Intern",
@@ -92,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-17T00:00:00Z",
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:chemours:/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018",
-    "company": "Chemours",
-    "title": "Data Visualization Analyst Summer Intern",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-17T00:00:00Z",
-    "url": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018",
     "salary": null,
     "source": "workday"
   },

@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-21T12:32:16Z</updated>
+  <updated>2026-09-21T19:18:12Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Centria Autism — Clinical Apprentice - BCBA Fieldwork Program</title>
@@ -13,23 +13,17 @@
     <updated>2026-09-21T12:32:16Z</updated>
     <summary>Speedway, Indiana, United States · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
-    <link href="https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975" rel="alternate"/>
-    <id>workday:db:/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975</id>
-    <updated>2026-09-21T12:32:16Z</updated>
-    <summary>Mumbai Nirlon Know. Pk B7 · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>S&amp;P Global — Apprentice</title>
-    <link href="https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Apprentice_329593-1" rel="alternate"/>
-    <id>workday:spgi:/job/Gurugram-Haryana/Apprentice_329593-1</id>
-    <updated>2026-09-21T12:32:16Z</updated>
-    <summary>Gurugram, Haryana · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Gameberry Labs — Gen AI Designer - Intern</title>
     <link href="https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/" rel="alternate"/>
     <id>instahyre:gameberrylabs:443500</id>
     <updated>2026-09-21T12:32:16Z</updated>
     <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
+    <link href="https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975" rel="alternate"/>
+    <id>workday:db:/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975</id>
+    <updated>2026-09-21T12:32:16Z</updated>
+    <summary>Mumbai Nirlon Know. Pk B7 · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Fable — Software Engineering Intern</title>
     <link href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf" rel="alternate"/>
@@ -60,12 +54,6 @@
     <id>workday:sonyglobal:/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
     <updated>2026-09-18T17:43:59Z</updated>
     <summary>Remote - Texas · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Chemours — Data Visualization Analyst Summer Intern</title>
-    <link href="https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018" rel="alternate"/>
-    <id>workday:chemours:/job/US---Remote/Data-Visualization-Analyst-Summer-Intern_JR15018</id>
-    <updated>2026-09-17T21:16:53Z</updated>
-    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Thoughtworks — Developer (Vapasi) - Intern</title>
     <link href="https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>workday:godirect:/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187</id>
     <updated>2026-09-11T19:11:40Z</updated>
     <summary>United States-Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Swarm Aero — Software Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6" rel="alternate"/>
+    <id>ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6</id>
+    <updated>2026-09-11T14:16:50Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Citi — Services – Summer Analyst, India, 2027</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901" rel="alternate"/>
+    <id>workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901</id>
+    <updated>2026-09-11T14:16:50Z</updated>
+    <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
   </entry>
 </feed>

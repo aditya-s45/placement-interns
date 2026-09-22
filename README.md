@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 21 new this week · 5,044 companies tracked · updated Sep 22, 2026 at 04:19 UTC**
+**0 open roles · 21 new this week · 5,044 companies tracked · updated Sep 22, 2026 at 11:22 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,7 @@ _75 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Amazon | Financial Analyst Intern, Ops FP&A | Summer 2027 | 2026-09-22 |
 | Chemours | Data Visualization Analyst Summer Intern | Summer 2027 | 2026-09-21 |
 | S&P Global | Apprentice | Summer 2027 | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | Summer 2027 | 2026-09-21 |
@@ -113,7 +114,6 @@ _75 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Marvell | Solutions Research Intern — Physical AI | Summer 2027 | 2026-09-18 |
 | PerkinElmer | Data Science Intern, Asset Intelligence | Summer 2027 | 2026-09-18 |
 | Marvell | Generative AI Forward Deployed Engineer Intern-Enterprise Applications | Summer 2027 | 2026-09-17 |
-| State Street | Apprentice | Summer 2027 | 2026-09-17 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-17 |
 | State Street | Apprentice | Summer 2027 | 2026-09-17 |
 | Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-17 |
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,045 companies across 25 ATS platforms · 99% fetch success · completed in 321.7s._
+_Engine (last run): 5,045 companies across 25 ATS platforms · 98% fetch success · completed in 277.5s._
 
 ## Platforms Scraped
 

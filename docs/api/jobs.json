@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
+    "company": "Philips",
+    "title": "Intern – Data Science and AI Engineering",
+    "location": "Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T00:00:00Z",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
     "company": "ONE Finance",
     "title": "AI Research Intern",
@@ -512,6 +524,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },
@@ -1066,18 +1090,6 @@
     "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "amazon:amazon:10515290",
-    "company": "Amazon",
-    "title": "Financial Analyst Intern, Ops FP&A",
-    "location": "Bengaluru, Karnataka, IND",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-26T00:00:00Z",
-    "url": "https://www.amazon.jobs/en/jobs/10515290/financial-analyst-intern-ops-fp-a",
-    "salary": null,
-    "source": "amazon"
   },
   {
     "id": "amazon:amazon:10515426",

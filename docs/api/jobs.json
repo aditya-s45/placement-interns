@@ -1,5 +1,77 @@
 [
   {
+    "id": "workday:caci:/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "company": "CACI",
+    "title": "Business/Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T00:00:00Z",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:firstam:/job/USA-California-Remote/Software-Engineering-Intern---Remote_R058853",
+    "company": "First American",
+    "title": "Software Engineering Intern - Remote",
+    "location": "USA, California, Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T00:00:00Z",
+    "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern---Remote_R058853",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "oracle:hccz.fa.em3.oraclecloud.com:25319",
+    "company": "Pearson",
+    "title": "Apprentice, Financial Operations",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22",
+    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25319",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:hccz.fa.em3.oraclecloud.com:25453",
+    "company": "Pearson",
+    "title": "Apprentice, Software Engineer",
+    "location": "Bangalore, Karnataka, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22",
+    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25453",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+    "company": "Sprinklr",
+    "title": "ML Intern",
+    "location": "India - Haryana - Gurgaon",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T00:00:00Z",
+    "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "greenhouse:tanium:8176398",
+    "company": "Tanium",
+    "title": "Cloud Security Intern",
+    "location": "Durham, NC (Hybrid)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T09:16:18-04:00",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8176398",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
     "company": "Philips",
     "title": "Intern – Data Science and AI Engineering",

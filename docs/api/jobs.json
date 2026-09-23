@@ -36,6 +36,18 @@
     "source": "smartrecruiters"
   },
   {
+    "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
+    "company": "Lean TECHniques",
+    "title": "Software Engineer Intern - Hybrid",
+    "location": "Hybrid",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T14:36:21.374+00:00",
+    "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
+    "salary": null,
+    "source": "ashby"
+  },
+  {
     "id": "ashby:ibotta:bc7c532d-931a-40fb-8c6c-b6939dd98582",
     "company": "ibotta",
     "title": "Information Security Intern",
@@ -108,18 +120,6 @@
     "source": "oracle"
   },
   {
-    "id": "workday:caci:/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
-    "company": "CACI",
-    "title": "Business/Systems Analyst Intern - Summer 2027",
-    "location": "Remote (Any State)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-22T00:00:00Z",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
     "company": "ONE Finance",
     "title": "AI Research Intern",
@@ -130,18 +130,6 @@
     "url": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7",
     "salary": "$32 per hour",
     "source": "ashby"
-  },
-  {
-    "id": "greenhouse:centriaautism:8826960002",
-    "company": "Centria Autism",
-    "title": "Clinical Apprentice - BCBA Fieldwork Program",
-    "location": "Speedway, Indiana, United States",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-21T07:57:39-04:00",
-    "url": "https://job-boards.greenhouse.io/centriaautism/jobs/8826960002",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "greenhouse:upstart:8213476",
@@ -188,18 +176,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
-    "company": "Centene",
-    "title": "Cybersecurity Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-MO",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-18T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
     "salary": null,
     "source": "workday"
   },
@@ -360,30 +336,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-    "company": "Wex",
-    "title": "Data & AI Intern (Graduate/Master’s)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-    "company": "Wex",
-    "title": "DevOps & AI Engineering Intern (Undergraduate)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
     "company": "Wex",
     "title": "SRE & Application Services Intern (Graduate/Master's)",
@@ -454,18 +406,6 @@
     "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:egug.fa.us2.oraclecloud.com:26013720",
-    "company": "American Express",
-    "title": "Apprentice",
-    "location": "Gurugram, HR, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013720",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:cw:/job/Bengaluru-India/Apprentice_R323129",
@@ -706,18 +646,6 @@
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:eevd.fa.us6.oraclecloud.com:2027455",
-    "company": "Hearst",
-    "title": "Software Engineering Intern",
-    "location": "Indianapolis, IN, United States",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10",
-    "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",

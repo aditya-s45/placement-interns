@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 27 new this week · 5,047 companies tracked · updated Sep 23, 2026 at 13:35 UTC**
+**0 open roles · 23 new this week · 5,050 companies tracked · updated Sep 23, 2026 at 18:25 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,13 @@ _76 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Centria Autism | Clinical Apprentice - BCBA Fieldwork Program | Summer 2027 | 2026-09-23 |
+| Hearst | Software Engineering Intern | Summer 2027 | 2026-09-23 |
+| American Express | Apprentice | Summer 2027 | 2026-09-23 |
+| CACI | Business/Systems Analyst Intern - Summer 2027 | Summer 2027 | 2026-09-23 |
+| Centene | Cybersecurity Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
+| Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-09-23 |
+| Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
 | Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
 | First American | Software Engineering Intern - Remote | Summer 2027 | 2026-09-22 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-09-22 |
@@ -128,13 +135,6 @@ _76 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-15 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-14 |
-| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-14 |
-| Novartis | Intern Data Science | Summer 2027 | 2026-09-14 |
-| State Street | Apprentice | Summer 2027 | 2026-09-14 |
-| GoTo Group | DevOps Intern (fixed term, 8 months) | Summer 2027 | 2026-09-14 |
-| TNS | RTR Apprentice Accountant | Summer 2027 | 2026-09-14 |
-| Weatherford | Intern -Supplier Quality Analyst & Digital Transformation | Summer 2027 | 2026-09-13 |
-| Merck | Information Technology Intern | Summer 2027 | 2026-09-12 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,048 companies across 25 ATS platforms · 99% fetch success · completed in 308.2s._
+_Engine (last run): 5,051 companies across 25 ATS platforms · 99% fetch success · completed in 289.7s._
 
 ## Platforms Scraped
 

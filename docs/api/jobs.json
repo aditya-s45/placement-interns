@@ -1,5 +1,17 @@
 [
   {
+    "id": "smartrecruiters:AristaNetworks:744000151304169",
+    "company": "Arista Networks",
+    "title": "Junior AI-Assisted Automation Scripting Associate (Apprentice)",
+    "location": "Pune, MH, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-23T06:59:03.783Z",
+    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000151304169",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "ashby:ibotta:bc7c532d-931a-40fb-8c6c-b6939dd98582",
     "company": "ibotta",
     "title": "Information Security Intern",
@@ -418,6 +430,18 @@
     "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26013720",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013720",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "workday:cw:/job/Bengaluru-India/Apprentice_R323129",

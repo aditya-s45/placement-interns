@@ -1,17 +1,5 @@
 [
   {
-    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
-    "company": "Corteva",
-    "title": "Data Science Intern",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-22T00:00:00Z",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "ashby:ibotta:bc7c532d-931a-40fb-8c6c-b6939dd98582",
     "company": "ibotta",
     "title": "Information Security Intern",
@@ -22,6 +10,18 @@
     "url": "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582",
     "salary": null,
     "source": "ashby"
+  },
+  {
+    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
+    "company": "Corteva",
+    "title": "Data Science Intern",
+    "location": "Indianapolis, Indiana, United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T00:00:00Z",
+    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605",

@@ -1,5 +1,17 @@
 [
   {
+    "id": "greenhouse:wurljobs:4716249006",
+    "company": "Wurl",
+    "title": "Data Science Intern",
+    "location": "Remote - United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T08:25:36-04:00",
+    "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "workday:marvell:/job/Bangalore/AI-Intern_2603878",
     "company": "Marvell",
     "title": "AI Intern",
@@ -132,28 +144,16 @@
     "source": "greenhouse"
   },
   {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25319",
-    "company": "Pearson",
-    "title": "Apprentice, Financial Operations",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-22",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25319",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25453",
-    "company": "Pearson",
-    "title": "Apprentice, Software Engineer",
-    "location": "Bangalore, Karnataka, India",
+    "id": "ashby:qumulo:43855947-3a85-4d1c-8b8e-e0c0ddcaf183",
+    "company": "Qumulo",
+    "title": "Software Development Engineer (Seattle) - Internship 2027",
+    "location": "Seattle (hybrid)",
     "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "2026-09-22",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25453",
+    "posted_at": "2026-09-21T22:32:47.416+00:00",
+    "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183",
     "salary": null,
-    "source": "oracle"
+    "source": "ashby"
   },
   {
     "id": "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
@@ -1142,7 +1142,7 @@
   {
     "id": "workable:innovaccer-analytics:47C4AD89C2",
     "company": "Innovaccer",
-    "title": "Apprentice - HR (Employee Engagement)",
+    "title": "Apprentice - Employee Engagement",
     "location": "Noida, Uttar Pradesh, India",
     "category": "Other",
     "season": "Summer 2027",

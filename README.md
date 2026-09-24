@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 23 new this week · 5,050 companies tracked · updated Sep 24, 2026 at 04:11 UTC**
+**0 open roles · 22 new this week · 5,050 companies tracked · updated Sep 24, 2026 at 11:31 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,10 @@ _76 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Dun & Bradstreet | Apprentice (R-19888) | Summer 2027 | 2026-09-24 |
+| Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | Summer 2027 | 2026-09-24 |
+| Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-09-24 |
+| IGS Energy | Software Engineer Intern | Summer 2027 | 2026-09-24 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
 | Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
 | GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-23 |
@@ -131,10 +135,6 @@ _76 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Cengage Group | Finance Apprentice | Summer 2027 | 2026-09-18 |
 | Corteva | Business Analyst Intern | Summer 2027 | 2026-09-18 |
 | Marvell | Intern, Software Engineer | Summer 2027 | 2026-09-18 |
-| Marvell | Solutions Research Intern — Physical AI | Summer 2027 | 2026-09-18 |
-| PerkinElmer | Data Science Intern, Asset Intelligence | Summer 2027 | 2026-09-18 |
-| Marvell | Generative AI Forward Deployed Engineer Intern-Enterprise Applications | Summer 2027 | 2026-09-17 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-17 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,051 companies across 25 ATS platforms · 99% fetch success · completed in 294.5s._
+_Engine (last run): 5,051 companies across 25 ATS platforms · 95% fetch success · completed in 289.2s._
 
 ## Platforms Scraped
 

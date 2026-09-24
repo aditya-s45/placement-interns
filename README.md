@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 23 new this week · 5,050 companies tracked · updated Sep 23, 2026 at 22:57 UTC**
+**0 open roles · 23 new this week · 5,050 companies tracked · updated Sep 24, 2026 at 04:11 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,7 +79,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~8d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~7d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -95,6 +95,8 @@ _76 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
+| Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
 | GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-23 |
 | Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-09-23 |
 | Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-09-23 |
@@ -133,8 +135,6 @@ _76 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | PerkinElmer | Data Science Intern, Asset Intelligence | Summer 2027 | 2026-09-18 |
 | Marvell | Generative AI Forward Deployed Engineer Intern-Enterprise Applications | Summer 2027 | 2026-09-17 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-17 |
-| State Street | Apprentice | Summer 2027 | 2026-09-17 |
-| Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-17 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,051 companies across 25 ATS platforms · 98% fetch success · completed in 379.4s._
+_Engine (last run): 5,051 companies across 25 ATS platforms · 99% fetch success · completed in 294.5s._
 
 ## Platforms Scraped
 

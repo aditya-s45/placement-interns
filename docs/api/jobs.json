@@ -1,5 +1,53 @@
 [
   {
+    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "company": "Ancestry",
+    "title": "Machine Learning Engineer, Co-op",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:biibhr:/job/Remote-USA/Co-op--Data-Science_REQ24211",
+    "company": "Biogen",
+    "title": "Co-op, Data Science",
+    "location": "Remote, USA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-797519",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797519",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
+    "company": "Wex",
+    "title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "greenhouse:wurljobs:4716249006",
     "company": "Wurl",
     "title": "Data Science Intern",
@@ -10,18 +58,6 @@
     "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:marvell:/job/Bangalore/AI-Intern_2603878",
-    "company": "Marvell",
-    "title": "AI Intern",
-    "location": "Bangalore",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2603878",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
@@ -106,18 +142,6 @@
     "url": "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
-    "company": "Corteva",
-    "title": "Data Science Intern",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-22T00:00:00Z",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605",
@@ -500,18 +524,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },

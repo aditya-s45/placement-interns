@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 23 new this week · 5,054 companies tracked · updated Sep 25, 2026 at 00:27 UTC**
+**0 open roles · 23 new this week · 5,054 companies tracked · updated Sep 25, 2026 at 07:31 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,7 @@ _77 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-09-25 |
 | Intel | AI and Compiler Engineering Graduate Intern | Summer 2027 | 2026-09-25 |
 | Corteva | Data Science Intern | Summer 2027 | 2026-09-24 |
 | Marvell | AI Intern | Summer 2027 | 2026-09-24 |
@@ -103,7 +104,6 @@ _77 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Pearson | Apprentice, Software Engineer | Summer 2027 | 2026-09-24 |
 | Dun & Bradstreet | Apprentice (R-19888) | Summer 2027 | 2026-09-24 |
 | Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | Summer 2027 | 2026-09-24 |
-| Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-09-24 |
 | IGS Energy | Software Engineer Intern | Summer 2027 | 2026-09-24 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
 | Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
@@ -124,7 +124,6 @@ _77 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
 | First American | Software Engineering Intern - Remote | Summer 2027 | 2026-09-22 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-09-22 |
-| Sprinklr | ML Intern | Summer 2027 | 2026-09-22 |
 | Amazon | Financial Analyst Intern, Ops FP&A | Summer 2027 | 2026-09-22 |
 | Chemours | Data Visualization Analyst Summer Intern | Summer 2027 | 2026-09-21 |
 | S&P Global | Apprentice | Summer 2027 | 2026-09-21 |
@@ -135,6 +134,7 @@ _77 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Renesas Electronics | Embedded Systems Intern | Summer 2027 | 2026-09-19 |
 | AHEAD | MS - NOC Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
 | AHEAD | MS - EUS Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
+| Acxiom | Intern - Data Engineer | Summer 2027 | 2026-09-18 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,055 companies across 25 ATS platforms · 98% fetch success · completed in 291.8s._
+_Engine (last run): 5,055 companies across 25 ATS platforms · 99% fetch success · completed in 268.3s._
 
 ## Platforms Scraped
 

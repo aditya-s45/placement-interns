@@ -60,18 +60,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
-    "company": "Marvell",
-    "title": "Intern, Software Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "greenhouse:thoughtworksreferral:8225630",
     "company": "Thoughtworks",
     "title": "Software Procurement Intern",
@@ -166,6 +154,18 @@
     "url": "https://job-boards.greenhouse.io/tanium/jobs/8176398",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+    "company": "Sprinklr",
+    "title": "ML Intern",
+    "location": "India - Haryana - Gurgaon",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T00:00:00Z",
+    "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "ashby:qumulo:43855947-3a85-4d1c-8b8e-e0c0ddcaf183",
@@ -524,6 +524,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "company": "Citi",
+    "title": "Services – Summer Analyst, India, 2027",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
     "salary": null,
     "source": "workday"
   },

@@ -4,20 +4,26 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-25T18:28:06Z</updated>
+  <updated>2026-09-25T23:16:28Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Cencora — Software Intern</title>
-    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763" rel="alternate"/>
-    <id>workday:myhrabc:/job/Remote-USA/Software-Intern_R2613763</id>
-    <updated>2026-09-25T18:28:06Z</updated>
-    <summary>Remote, USA · Software · Summer 2027</summary>
+    <title>RRS Group — 2027 Associate Software Engineer Intern - Sophomore Only</title>
+    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151931819" rel="alternate"/>
+    <id>smartrecruiters:RRSGroup:744000151931819</id>
+    <updated>2026-09-25T23:16:28Z</updated>
+    <summary>San Francisco, United States (Remote) · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Jones Lang LaSalle (JLL) — Apprentice</title>
     <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538293" rel="alternate"/>
     <id>workday:jll:/job/Gurugram-HR/Apprentice_REQ538293</id>
     <updated>2026-09-25T18:28:06Z</updated>
     <summary>Gurugram, HR · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cencora — Software Intern</title>
+    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763" rel="alternate"/>
+    <id>workday:myhrabc:/job/Remote-USA/Software-Intern_R2613763</id>
+    <updated>2026-09-25T18:28:06Z</updated>
+    <summary>Remote, USA · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Smiths Detection Group — Graduate Apprentice Trainee</title>
     <link href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151802144" rel="alternate"/>
@@ -30,12 +36,6 @@
     <id>workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377</id>
     <updated>2026-09-24T21:28:20Z</updated>
     <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Biogen — Co-op, Data Science</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211" rel="alternate"/>
-    <id>workday:biibhr:/job/Remote-USA/Co-op--Data-Science_REQ24211</id>
-    <updated>2026-09-24T21:28:20Z</updated>
-    <summary>Remote, USA · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>State Street — Apprentice</title>
     <link href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797519" rel="alternate"/>
@@ -108,12 +108,6 @@
     <id>greenhouse:tanium:8176398</id>
     <updated>2026-09-22T16:45:33Z</updated>
     <summary>Durham, NC (Hybrid) · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Sprinklr — ML Intern</title>
-    <link href="https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB" rel="alternate"/>
-    <id>workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB</id>
-    <updated>2026-09-22T16:45:33Z</updated>
-    <summary>India - Haryana - Gurgaon · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>ONE Finance — AI Research Intern</title>
     <link href="https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7" rel="alternate"/>
@@ -304,6 +298,12 @@
     <title>Amgen — Undergrad Intern – Digital Product – Technology, AI &amp; Data (Summer 2027)</title>
     <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711" rel="alternate"/>
     <id>workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711</id>
+    <updated>2026-09-11T19:11:40Z</updated>
+    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Amgen — Undergrad Intern – Machine Learning Engineer – Technology, AI &amp; Data (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709" rel="alternate"/>
+    <id>workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709</id>
     <updated>2026-09-11T19:11:40Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>

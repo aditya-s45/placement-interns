@@ -1,15 +1,15 @@
 [
   {
-    "id": "workday:myhrabc:/job/Remote-USA/Software-Intern_R2613763",
-    "company": "Cencora",
-    "title": "Software Intern",
-    "location": "Remote, USA",
+    "id": "smartrecruiters:RRSGroup:744000151931819",
+    "company": "RRS Group",
+    "title": "2027 Associate Software Engineer Intern - Sophomore Only",
+    "location": "San Francisco, United States (Remote)",
     "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "2026-09-25T00:00:00Z",
-    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763",
+    "posted_at": "2026-09-25T20:09:49.929Z",
+    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
     "salary": null,
-    "source": "workday"
+    "source": "smartrecruiters"
   },
   {
     "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ538293",
@@ -20,6 +20,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-25T00:00:00Z",
     "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538293",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:myhrabc:/job/Remote-USA/Software-Intern_R2613763",
+    "company": "Cencora",
+    "title": "Software Intern",
+    "location": "Remote, USA",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-25T00:00:00Z",
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763",
     "salary": null,
     "source": "workday"
   },
@@ -44,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-24T00:00:00Z",
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:biibhr:/job/Remote-USA/Co-op--Data-Science_REQ24211",
-    "company": "Biogen",
-    "title": "Co-op, Data Science",
-    "location": "Remote, USA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211",
     "salary": null,
     "source": "workday"
   },
@@ -190,18 +190,6 @@
     "url": "https://job-boards.greenhouse.io/tanium/jobs/8176398",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:sprinklr:/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
-    "company": "Sprinklr",
-    "title": "ML Intern",
-    "location": "India - Haryana - Gurgaon",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-22T00:00:00Z",
-    "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "ashby:qumulo:43855947-3a85-4d1c-8b8e-e0c0ddcaf183",

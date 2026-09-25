@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ525149",
+    "company": "Jones Lang LaSalle (JLL)",
+    "title": "Apprentice",
+    "location": "Gurugram, HR",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-25T00:00:00Z",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ525149",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "smartrecruiters:SmithsGroup2:744000151802144",
+    "company": "Smiths Detection Group",
+    "title": "Graduate Apprentice Trainee",
+    "location": "Bengaluru, KA, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-25T09:30:33.188Z",
+    "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000151802144",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
     "company": "Ancestry",
     "title": "Machine Learning Engineer, Co-op",
@@ -524,18 +548,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "company": "Citi",
-    "title": "Services – Summer Analyst, India, 2027",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
     "salary": null,
     "source": "workday"
   },
@@ -1150,6 +1162,18 @@
     "url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
     "salary": null,
     "source": "amazon"
+  },
+  {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26012484",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-11",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012484",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "workable:innovaccer-analytics:47C4AD89C2",

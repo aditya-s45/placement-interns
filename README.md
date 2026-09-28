@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 19 new this week · 5,070 companies tracked · updated Sep 28, 2026 at 13:32 UTC**
+**0 open roles · 21 new this week · 5,070 companies tracked · updated Sep 28, 2026 at 20:34 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -88,13 +88,16 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Jump Trading | rolling | year-round | ⏳ waiting |
 | Microsoft | rolling | year-round | ⏳ waiting |
 
-_77 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **43** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_79 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **45** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-28 |
+| S&P Global | Apprentice | Summer 2027 | 2026-09-28 |
+| State Street | Apprentice | Summer 2027 | 2026-09-28 |
 | RRS Group | 2027 Associate Software Engineer Intern - Sophomore Only | Summer 2027 | 2026-09-28 |
 | Smiths Detection Group | Graduate Apprentice Trainee | Summer 2027 | 2026-09-28 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-09-28 |
@@ -132,9 +135,6 @@ _77 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-09-23 |
 | Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
 | Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
-| First American | Software Engineering Intern - Remote | Summer 2027 | 2026-09-22 |
-| Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-09-22 |
-| Amazon | Financial Analyst Intern, Ops FP&A | Summer 2027 | 2026-09-22 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,071 companies across 25 ATS platforms · 99% fetch success · completed in 375.0s._
+_Engine (last run): 5,071 companies across 25 ATS platforms · 98% fetch success · completed in 444.0s._
 
 ## Platforms Scraped
 

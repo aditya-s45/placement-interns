@@ -1,29 +1,5 @@
 [
   {
-    "id": "smartrecruiters:carousellgroup:744000152327759",
-    "company": "Carousell Group",
-    "title": "Android Engineer Intern - 6 months",
-    "location": "Bengaluru, KA, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-29T05:42:29.488Z",
-    "url": "https://jobs.smartrecruiters.com/carousellgroup/744000152327759",
-    "salary": null,
-    "source": "smartrecruiters"
-  },
-  {
-    "id": "workday:ciena:/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
-    "company": "Ciena",
-    "title": "SVT/PV Engineering Software Applications - Intern",
-    "location": "Pune",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-29T00:00:00Z",
-    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "smartrecruiters:Wabtec:3743990015755665",
     "company": "Wabtec",
     "title": "Technician Apprentice",
@@ -108,18 +84,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:myhrabc:/job/Remote-USA/Software-Intern_R2613763",
-    "company": "Cencora",
-    "title": "Software Intern",
-    "location": "Remote, USA",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-25T00:00:00Z",
-    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
     "company": "Ancestry",
     "title": "Machine Learning Engineer, Co-op",
@@ -128,6 +92,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-24T00:00:00Z",
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-797519",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797519",
     "salary": null,
     "source": "workday"
   },
@@ -1004,6 +980,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-08-31T00:00:00Z",
     "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:igsenergy:/job/Ohio-Remote/Software-Engineer-Intern_R6263",
+    "company": "IGS Energy",
+    "title": "Software Engineer Intern",
+    "location": "Ohio Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-31T00:00:00Z",
+    "url": "https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
     "salary": null,
     "source": "workday"
   },

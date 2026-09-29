@@ -1,5 +1,41 @@
 [
   {
+    "id": "smartrecruiters:carousellgroup:744000152327759",
+    "company": "Carousell Group",
+    "title": "Android Engineer Intern - 6 months",
+    "location": "Bengaluru, KA, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-29T05:42:29.488Z",
+    "url": "https://jobs.smartrecruiters.com/carousellgroup/744000152327759",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "workday:ciena:/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
+    "company": "Ciena",
+    "title": "SVT/PV Engineering Software Applications - Intern",
+    "location": "Pune",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-29T00:00:00Z",
+    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "smartrecruiters:Wabtec:3743990015755665",
+    "company": "Wabtec",
+    "title": "Technician Apprentice",
+    "location": "Marhowra, BR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-29T05:40:59.173Z",
+    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015755665",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "greenhouse:acluinternships:8843314002",
     "company": "ACLU Kentucky",
     "title": "Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project",
@@ -336,18 +372,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:goto:/job/Remote-Brazil/Apprentice_R26-2201",
-    "company": "GoTo Group",
-    "title": "Apprentice",
-    "location": "Remote (Brazil)",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "greenhouse:athinkingape:8203048",
     "company": "A Thinking Ape",
     "title": "Software Development Engineer Co-op (Jan. 2027)",
@@ -382,6 +406,18 @@
     "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26013720",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013720",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "workday:cw:/job/Bengaluru-India/Apprentice_R323129",
@@ -824,6 +860,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-07T11:06:46-04:00",
     "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:rubrik:8166523",
+    "company": "Rubrik",
+    "title": "Software Engineer - Winter Intern",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-09-06T08:42:59-04:00",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
     "salary": null,
     "source": "greenhouse"
   },

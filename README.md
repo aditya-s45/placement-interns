@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 21 new this week · 5,070 companies tracked · updated Sep 28, 2026 at 20:34 UTC**
+**0 open roles · 18 new this week · 5,070 companies tracked · updated Sep 29, 2026 at 01:47 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,7 +79,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~3d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~2d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -95,6 +95,7 @@ _79 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Vantor | AI Engineer Intern | Summer 2027 | 2026-09-29 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-28 |
 | S&P Global | Apprentice | Summer 2027 | 2026-09-28 |
 | State Street | Apprentice | Summer 2027 | 2026-09-28 |
@@ -134,7 +135,6 @@ _79 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Centene | Cybersecurity Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
 | Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-09-23 |
 | Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
-| Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,071 companies across 25 ATS platforms · 98% fetch success · completed in 444.0s._
+_Engine (last run): 5,071 companies across 25 ATS platforms · 99% fetch success · completed in 393.0s._
 
 ## Platforms Scraped
 

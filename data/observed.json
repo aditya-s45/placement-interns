@@ -27,6 +27,15 @@
     }
    }
   },
+  "aclukentucky": {
+   "name": "ACLU Kentucky",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "count": 1
+    }
+   }
+  },
   "akuna capital": {
    "name": "Akuna Capital",
    "cycles": {
@@ -63,7 +72,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 841
+     "count": 852
     }
    }
   },
@@ -99,7 +108,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-14",
-     "count": 62
+     "count": 63
     }
    }
   },
@@ -117,7 +126,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-09",
-     "count": 254
+     "count": 257
     }
    }
   },
@@ -139,7 +148,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-09-22",
-     "count": 27
+     "count": 28
     }
    }
   },
@@ -148,7 +157,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-18",
-     "count": 90
+     "count": 92
     }
    }
   },
@@ -193,7 +202,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 79
+     "count": 80
     }
    }
   },
@@ -211,7 +220,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-10",
-     "count": 84
+     "count": 85
     }
    }
   },
@@ -229,7 +238,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-17",
-     "count": 109
+     "count": 110
     }
    }
   },
@@ -238,7 +247,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 195
+     "count": 198
     }
    }
   },
@@ -256,7 +265,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-07",
-     "count": 84
+     "count": 85
     }
    }
   },
@@ -265,7 +274,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 83
+     "count": 84
     }
    }
   },
@@ -319,7 +328,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-25",
-     "count": 84
+     "count": 85
     }
    }
   },
@@ -382,7 +391,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 83
+     "count": 84
     }
    }
   },
@@ -400,7 +409,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-01",
-     "count": 2356
+     "count": 2357
     }
    }
   },
@@ -409,7 +418,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-13",
-     "count": 504
+     "count": 510
     }
    }
   },
@@ -499,7 +508,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-04-24",
-     "count": 5108
+     "count": 5109
     }
    }
   },
@@ -535,7 +544,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-21",
-     "count": 18
+     "count": 19
     }
    }
   },
@@ -562,7 +571,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-24",
-     "count": 531
+     "count": 534
     }
    }
   },
@@ -652,7 +661,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 166
+     "count": 168
     }
    }
   },
@@ -661,7 +670,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 78
+     "count": 79
     }
    }
   },
@@ -670,7 +679,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 83
+     "count": 84
     }
    }
   },
@@ -760,7 +769,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-08",
-     "count": 99
+     "count": 100
     }
    }
   },
@@ -779,6 +788,15 @@
     "Fall 2026": {
      "first_posted": "2026-06-09",
      "count": 25
+    }
+   }
+  },
+  "veteransunited": {
+   "name": "Veterans United",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "count": 1
     }
    }
   },
@@ -805,7 +823,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 78
+     "count": 79
     }
    }
   },
@@ -814,7 +832,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-16",
-     "count": 55
+     "count": 56
     }
    }
   },
@@ -846,5 +864,5 @@
    }
   }
  },
- "updated_at": "2026-09-28T20:27:27Z"
+ "updated_at": "2026-09-29T01:40:47Z"
 }

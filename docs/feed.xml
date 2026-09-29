@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-29T16:32:51Z</updated>
+  <updated>2026-09-29T22:12:24Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Wabtec — Technician Apprentice</title>
@@ -37,12 +37,6 @@
     <updated>2026-09-28T20:34:51Z</updated>
     <summary>Remote MO · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Alcon — Product Security Apprentice Engineer – Post-Market Surveillance &amp; Security Testing</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Product-Security-Apprentice-Engineer---Post-Market-Surveillance---Security-Testing_R-2026-48913" rel="alternate"/>
-    <id>workday:alcon:/job/Bangalore-India/Product-Security-Apprentice-Engineer---Post-Market-Surveillance---Security-Testing_R-2026-48913</id>
-    <updated>2026-09-28T13:32:23Z</updated>
-    <summary>Bangalore, India · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>GE Aerospace — Data Science -Intern</title>
     <link href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science--Intern_R5040692-1" rel="alternate"/>
     <id>workday:geaerospace:/job/Bengaluru/Data-Science--Intern_R5040692-1</id>
@@ -54,18 +48,6 @@
     <id>workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377</id>
     <updated>2026-09-24T21:28:20Z</updated>
     <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>State Street — Apprentice</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797519" rel="alternate"/>
-    <id>workday:statestreet:/job/Bangalore-India/Apprentice_R-797519</id>
-    <updated>2026-09-24T21:28:20Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Wex — Software Engineering Intern - Enterprise Data &amp; Systems (Salesforce &amp; Snowflake) (Graduate/Master&#x27;s)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543" rel="alternate"/>
-    <id>workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543</id>
-    <updated>2026-09-24T21:28:20Z</updated>
-    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Qumulo — Software Development Engineer (Seattle) - Internship 2027</title>
     <link href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183" rel="alternate"/>
@@ -217,12 +199,6 @@
     <updated>2026-09-14T23:06:59Z</updated>
     <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Wex — SRE &amp; Application Services Intern (Graduate/Master&#x27;s)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494" rel="alternate"/>
-    <id>workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
-    <updated>2026-09-14T23:06:59Z</updated>
-    <summary>US - Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>American Express — Apprentice</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013720" rel="alternate"/>
     <id>oracle:egug.fa.us2.oraclecloud.com:26013720</id>
@@ -306,5 +282,29 @@
     <id>workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711</id>
     <updated>2026-09-11T19:11:40Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Amgen — Undergrad Intern – Machine Learning Engineer – Technology, AI &amp; Data (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709" rel="alternate"/>
+    <id>workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709</id>
+    <updated>2026-09-11T19:11:40Z</updated>
+    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Amgen — Undergrad Intern – Software Engineer – Technology, AI &amp; Data (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719" rel="alternate"/>
+    <id>workday:amgen:/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719</id>
+    <updated>2026-09-11T19:11:40Z</updated>
+    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Voya Financial — Summer 2027 Technology Intern</title>
+    <link href="https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187" rel="alternate"/>
+    <id>workday:godirect:/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187</id>
+    <updated>2026-09-11T19:11:40Z</updated>
+    <summary>United States-Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Swarm Aero — Software Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6" rel="alternate"/>
+    <id>ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6</id>
+    <updated>2026-09-11T14:16:50Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

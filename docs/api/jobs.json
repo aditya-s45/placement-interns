@@ -60,18 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:alcon:/job/Bangalore-India/Product-Security-Apprentice-Engineer---Post-Market-Surveillance---Security-Testing_R-2026-48913",
-    "company": "Alcon",
-    "title": "Product Security Apprentice Engineer – Post-Market Surveillance & Security Testing",
-    "location": "Bangalore, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-28T00:00:00Z",
-    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Product-Security-Apprentice-Engineer---Post-Market-Surveillance---Security-Testing_R-2026-48913",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:geaerospace:/job/Bengaluru/Data-Science--Intern_R5040692-1",
     "company": "GE Aerospace",
     "title": "Data Science -Intern",
@@ -92,30 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-24T00:00:00Z",
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-797519",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797519",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
-    "company": "Wex",
-    "title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
     "salary": null,
     "source": "workday"
   },
@@ -368,18 +332,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-14T00:00:00Z",
     "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
-    "company": "Wex",
-    "title": "SRE & Application Services Intern (Graduate/Master's)",
-    "location": "US - Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
     "salary": null,
     "source": "workday"
   },

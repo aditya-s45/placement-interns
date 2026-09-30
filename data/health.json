@@ -570,8 +570,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/job-boards/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:liveviewtechnologiesinc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-30T05:03:21Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-30T12:18:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/liveviewtechnologiesinc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "greenhouse:locus": {
@@ -1284,6 +1284,11 @@
     "last_attempt_at": "2026-09-28T20:34:51Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/etg/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
+  "rippling:gitar-careers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-30T12:18:45Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/gitar-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
+  },
   "rippling:sennos": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-09-29T01:47:20Z",
@@ -1398,11 +1403,6 @@
     "consecutive_failures": 11,
     "last_attempt_at": "2026-09-27T23:02:32Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
-  },
-  "workday:dickssportinggoods": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-09-27T08:00:25Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://dickssportinggoods.wd1.myworkdayjobs.com/wday/cxs/dickssportinggoods/DSG/jobs'\nFor more information check: https://developer.mozi"
   },
   "workday:donaldson": {
     "consecutive_failures": 11,

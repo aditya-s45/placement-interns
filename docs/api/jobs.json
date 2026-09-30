@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-30T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:synchronyfinancial:/job/Hyderabad-IN/Apprentice---Universal-Fraud--04-_2602769-1",
+    "company": "Synchrony Financial",
+    "title": "Apprentice - Universal Fraud (04)",
+    "location": "Hyderabad IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-30T00:00:00Z",
+    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Apprentice---Universal-Fraud--04-_2602769-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "smartrecruiters:Wabtec:3743990015755665",
     "company": "Wabtec",
     "title": "Technician Apprentice",
@@ -310,18 +334,6 @@
     "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:egug.fa.us2.oraclecloud.com:26013720",
-    "company": "American Express",
-    "title": "Apprentice",
-    "location": "Gurugram, HR, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013720",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:cw:/job/Bengaluru-India/Apprentice_R323129",
@@ -1035,7 +1047,7 @@
     "id": "greenhouse:towerresearchcapital:8143756",
     "company": "Tower Research Capital",
     "title": "Intern - AI/ML",
-    "location": "gurgaon",
+    "location": "Gurgaon",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-08-20T08:57:42-04:00",

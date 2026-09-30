@@ -36,18 +36,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:fortrea:/job/Bangalore/Apprentice---Employer-Branding_264572",
-    "company": "Fortrea",
-    "title": "Apprentice - Employer Branding",
-    "location": "Bangalore",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-28T00:00:00Z",
-    "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Apprentice---Employer-Branding_264572",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:veteransunited:/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
     "company": "Veterans United",
     "title": "Intern - Software Engineer - Summer 2027",
@@ -310,18 +298,6 @@
     "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:athinkingape:8203048",
-    "company": "A Thinking Ape",
-    "title": "Software Development Engineer Co-op (Jan. 2027)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T19:44:33-04:00",
-    "url": "https://job-boards.greenhouse.io/athinkingape/jobs/8203048",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",

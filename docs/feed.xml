@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-09-29T22:12:24Z</updated>
+  <updated>2026-09-30T05:03:21Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Wabtec — Technician Apprentice</title>
@@ -24,12 +24,6 @@
     <id>workday:acxiomllc:/job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519</id>
     <updated>2026-09-28T20:34:51Z</updated>
     <summary>Remote/Homebased · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Fortrea — Apprentice - Employer Branding</title>
-    <link href="https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Apprentice---Employer-Branding_264572" rel="alternate"/>
-    <id>workday:fortrea:/job/Bangalore/Apprentice---Employer-Branding_264572</id>
-    <updated>2026-09-28T20:34:51Z</updated>
-    <summary>Bangalore · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Veterans United — Intern - Software Engineer - Summer 2027</title>
     <link href="https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249" rel="alternate"/>
@@ -187,12 +181,6 @@
     <updated>2026-09-16T18:07:52Z</updated>
     <summary>India, Bangalore · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>A Thinking Ape — Software Development Engineer Co-op (Jan. 2027)</title>
-    <link href="https://job-boards.greenhouse.io/athinkingape/jobs/8203048" rel="alternate"/>
-    <id>greenhouse:athinkingape:8203048</id>
-    <updated>2026-09-15T04:22:26Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Wex — AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
     <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055" rel="alternate"/>
     <id>workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
@@ -306,5 +294,17 @@
     <id>ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6</id>
     <updated>2026-09-11T14:16:50Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC Apprentice - Valuations and Advisory_Ahmedabad</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135" rel="alternate"/>
+    <id>workday:cw:/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135</id>
+    <updated>2026-09-11T04:02:44Z</updated>
+    <summary>CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC Apprentice- Project &amp; Development Services</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332" rel="alternate"/>
+    <id>workday:cw:/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332</id>
+    <updated>2026-09-11T04:02:44Z</updated>
+    <summary>Chennai, India · Other · Summer 2027</summary>
   </entry>
 </feed>

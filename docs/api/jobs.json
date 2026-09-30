@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:intel:/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
+    "company": "Intel",
+    "title": "Research Scientist Intern - Graphics, ML",
+    "location": "Virtual US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-30T00:00:00Z",
+    "url": "https://intel.wd1.myworkdayjobs.com/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Bangalore/AI-Intern_2604445",
+    "company": "Marvell",
+    "title": "AI Intern",
+    "location": "Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-30T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
     "company": "Marvell",
     "title": "Intern, Software QA Engineer",
@@ -106,6 +130,18 @@
     "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "greenhouse:thoughtworksreferral:8225630",

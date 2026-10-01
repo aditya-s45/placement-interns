@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:ag:/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
     "company": "Airbus",
     "title": "Apprentice - Digital Cybersecurity",
@@ -8,6 +20,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-01T00:00:00Z",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:/job/Mumbai/Apprentice-Hiring-for-2026--2027_R0445347",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-30T00:00:00Z",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai/Apprentice-Hiring-for-2026--2027_R0445347",
     "salary": null,
     "source": "workday"
   },
@@ -36,18 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
-    "company": "Marvell",
-    "title": "Intern, Software QA Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-30T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:synchronyfinancial:/job/Hyderabad-IN/Apprentice---Universal-Fraud--04-_2602769-1",
     "company": "Synchrony Financial",
     "title": "Apprentice - Universal Fraud (04)",
@@ -56,6 +68,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-30T00:00:00Z",
     "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Hyderabad-IN/Apprentice---Universal-Fraud--04-_2602769-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:pg:/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000160029",
+    "company": "Procter & Gamble (P&G)",
+    "title": "Information Technology Intern",
+    "location": "MUMBAI GENERAL OFFICE",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-29T00:00:00Z",
+    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000160029",
     "salary": null,
     "source": "workday"
   },
@@ -154,18 +178,6 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:thoughtworksreferral:8225630",
-    "company": "Thoughtworks",
-    "title": "Software Procurement Intern",
-    "location": "Gurgaon, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-23T02:35:44-04:00",
-    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:intel:/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
@@ -308,18 +320,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-17T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
     "salary": null,
     "source": "workday"
   },
@@ -934,18 +934,6 @@
     "url": "https://www.amazon.jobs/en/jobs/10525952/financial-analyst-intern-nl-re-e-finance-team",
     "salary": null,
     "source": "amazon"
-  },
-  {
-    "id": "workday:pg:/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000158265",
-    "company": "Procter & Gamble (P&G)",
-    "title": "Information Technology Intern",
-    "location": "MUMBAI GENERAL OFFICE",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-01T00:00:00Z",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000158265",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workable:twgai:1206BF981C",

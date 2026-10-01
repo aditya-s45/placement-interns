@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 15 new this week · 5,084 companies tracked · updated Oct 01, 2026 at 12:57 UTC**
+**0 open roles · 16 new this week · 5,087 companies tracked · updated Oct 01, 2026 at 19:34 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -66,7 +66,6 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Jane Street | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Meta | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Optiver | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Pinterest | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Salesforce | ~Aug | ~Aug · any day now | ⏳ waiting |
 | SIG | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Snowflake | ~Aug | ~Aug · any day now | ⏳ waiting |
@@ -87,6 +86,7 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
 | Microsoft | rolling | year-round | ⏳ waiting |
+| Millennium | rolling | year-round | ⏳ waiting |
 
 _79 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **45** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
@@ -95,6 +95,9 @@ _79 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-10-01 |
+| Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-01 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-01 |
 | Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-01 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-01 |
 | Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-01 |
@@ -132,9 +135,6 @@ _79 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Pearson | Apprentice, Software Engineer | Summer 2027 | 2026-09-24 |
 | Dun & Bradstreet | Apprentice (R-19888) | Summer 2027 | 2026-09-24 |
 | Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | Summer 2027 | 2026-09-24 |
-| Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
-| Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
-| GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-23 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,085 companies across 25 ATS platforms · 97% fetch success · completed in 472.8s._
+_Engine (last run): 5,088 companies across 25 ATS platforms · 98% fetch success · completed in 425.5s._
 
 ## Platforms Scraped
 

@@ -1,5 +1,53 @@
 [
   {
+    "id": "workday:caci:/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "company": "CACI",
+    "title": "Software Development/Engineer Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T00:00:00Z",
+    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:clearesult:/job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
+    "company": "CLEAResult",
+    "title": "HVAC Apprentice",
+    "location": "Remote - Oklahoma",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T00:00:00Z",
+    "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "greenhouse:pinterest:7838577",
+    "company": "Pinterest",
+    "title": "Software Engineer Intern 2027 (USA)",
+    "location": "San Francisco, CA, US; Remote, US",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T13:03:52-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "workday:globalhr:/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
+    "company": "RTX",
+    "title": "Digital Technology Vendor Management Co-op (REMOTE)",
+    "location": "US-CT-REMOTE",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T00:00:00Z",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer_2604244",
     "company": "Marvell",
     "title": "Intern, Software QA Engineer",
@@ -12,26 +60,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:ag:/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
-    "company": "Airbus",
-    "title": "Apprentice - Digital Cybersecurity",
-    "location": "Bangalore Area",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-01T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:/job/Mumbai/Apprentice-Hiring-for-2026--2027_R0445347",
+    "id": "workday:db:/job/Mumbai-Hazarimal-Somani-Marg/Apprentice-Hiring-for-2026--2027_R0445347",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai",
+    "location": "Mumbai, Hazarimal Somani Marg",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-09-30T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai/Apprentice-Hiring-for-2026--2027_R0445347",
+    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/Apprentice-Hiring-for-2026--2027_R0445347",
     "salary": null,
     "source": "workday"
   },
@@ -308,18 +344,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
     "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "company": "Centene",
-    "title": "Technology Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-FL",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-18T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
     "salary": null,
     "source": "workday"
   },

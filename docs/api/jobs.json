@@ -1,5 +1,17 @@
 [
   {
+    "id": "greenhouse:pinterest:7838577",
+    "company": "Pinterest",
+    "title": "Software Engineer Intern 2027 (USA)",
+    "location": "San Francisco, CA, US; Remote, US",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T13:03:52-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "workday:caci:/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
     "company": "CACI",
     "title": "Software Development/Engineer Intern - Summer 2027",
@@ -20,30 +32,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-01T00:00:00Z",
     "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "greenhouse:pinterest:7838577",
-    "company": "Pinterest",
-    "title": "Software Engineer Intern 2027 (USA)",
-    "location": "San Francisco, CA, US; Remote, US",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-01T13:03:52-04:00",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
-    "id": "workday:globalhr:/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
-    "company": "RTX",
-    "title": "Digital Technology Vendor Management Co-op (REMOTE)",
-    "location": "US-CT-REMOTE",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-01T00:00:00Z",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
     "salary": null,
     "source": "workday"
   },
@@ -392,18 +380,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-16T00:00:00Z",
     "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "company": "Wex",
-    "title": "AI & Data Platform Engineering Intern (Undergraduate)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
     "salary": null,
     "source": "workday"
   },

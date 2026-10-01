@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:ag:/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
+    "company": "Airbus",
+    "title": "Apprentice - Digital Cybersecurity",
+    "location": "Bangalore Area",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T00:00:00Z",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:intel:/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
     "company": "Intel",
     "title": "Research Scientist Intern - Graphics, ML",

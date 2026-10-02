@@ -1,5 +1,53 @@
 [
   {
+    "id": "workday:centene:/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1",
+    "company": "Centene",
+    "title": "Medical Economics Analyst Intern (Undergraduate - Summer 2027)",
+    "location": "Remote-FL",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-02T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice -San Francisco Bay Area",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-02T00:00:00Z",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-02T00:00:00Z",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "greenhouse:datacor:5242412007",
+    "company": "Datacor",
+    "title": "Data Science Summer 2027 Internship Program",
+    "location": "Remote, US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T14:12:42-04:00",
+    "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "greenhouse:pinterest:7838577",
     "company": "Pinterest",
     "title": "Software Engineer Intern 2027 (USA)",
@@ -816,18 +864,6 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:dropbox:8106224",
-    "company": "Dropbox",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "Remote - US: All locations",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-07T11:06:46-04:00",
-    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "greenhouse:rubrik:8166523",
     "company": "Rubrik",
     "title": "Software Engineer - Winter Intern",
@@ -1152,6 +1188,18 @@
     "source": "amazon"
   },
   {
+    "id": "instahyre:pradrix:445445",
+    "company": "Pradrix",
+    "title": "AI / ML Engineer - Intern",
+    "location": "Work From Home",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/",
+    "salary": null,
+    "source": "instahyre"
+  },
+  {
     "id": "instahyre:gameberrylabs:443500",
     "company": "Gameberry Labs",
     "title": "Gen AI Designer - Intern",
@@ -1268,18 +1316,6 @@
     "season": "Summer 2027",
     "posted_at": null,
     "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:motorolasolutions:/job/Bangalore-India/HR-Apprentice-Trainee_R63161",
-    "company": "Motorola",
-    "title": "HR Apprentice Trainee",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/HR-Apprentice-Trainee_R63161",
     "salary": null,
     "source": "workday"
   },

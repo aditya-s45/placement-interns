@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 14 new this week · 5,087 companies tracked · updated Oct 02, 2026 at 05:05 UTC**
+**0 open roles · 15 new this week · 5,087 companies tracked · updated Oct 02, 2026 at 12:21 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,7 @@ _79 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-02 |
 | RTX | Digital Technology Vendor Management Co-op (REMOTE) | Summer 2027 | 2026-10-01 |
 | Wex | AI & Data Platform Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-01 |
 | Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-10-01 |
@@ -102,7 +103,6 @@ _79 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-01 |
 | Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-01 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-01 |
-| Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-01 |
 | Procter & Gamble (P&G) | Information Technology Intern | Summer 2027 | 2026-10-01 |
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-30 |
 | American Express | Apprentice | Summer 2027 | 2026-09-30 |
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,088 companies across 25 ATS platforms · 99% fetch success · completed in 299.6s._
+_Engine (last run): 5,088 companies across 25 ATS platforms · 98% fetch success · completed in 456.5s._
 
 ## Platforms Scraped
 

@@ -420,6 +420,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:/job/Hyderabad-India/EIC---Apprentice_R323147",
+    "company": "Cushman & Wakefield",
+    "title": "EIC - Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-15T00:00:00Z",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Hyderabad-India/EIC---Apprentice_R323147",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cw:/job/Bengaluru-India/Apprentice_R323129",
     "company": "Cushman & Wakefield",
     "title": "Apprentice",
@@ -884,18 +896,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-05T00:00:00Z",
     "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-05T00:00:00Z",
-    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
     "salary": null,
     "source": "workday"
   },

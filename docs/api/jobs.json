@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
+    "company": "Mitel Networks",
+    "title": "R&D Intern (student) - iOS development",
+    "location": "Curitiba (Remote)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-05T00:00:00Z",
+    "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "oracle:egug.fa.us2.oraclecloud.com:26014347",
     "company": "American Express",
     "title": "Apprentice",
@@ -86,7 +98,7 @@
   {
     "id": "greenhouse:datacor:5242412007",
     "company": "Datacor",
-    "title": "Data Science Summer 2027 Internship Program",
+    "title": "Summer 2027 AI Engineer Intern",
     "location": "Remote, US",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
@@ -228,18 +240,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:geaerospace:/job/Bengaluru/Data-Science--Intern_R5040692-1",
-    "company": "GE Aerospace",
-    "title": "Data Science -Intern",
-    "location": "Bengaluru",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-28T00:00:00Z",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Bengaluru/Data-Science--Intern_R5040692-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
     "company": "Ancestry",
     "title": "Machine Learning Engineer, Co-op",
@@ -248,6 +248,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-24T00:00:00Z",
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
+    "company": "Wex",
+    "title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
     "salary": null,
     "source": "workday"
   },
@@ -452,6 +464,114 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-15T00:00:00Z",
     "url": "https://cw.wd1.myworkdayjobs.com/external/job/Hyderabad-India/EIC---Apprentice_R323147",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
+    "company": "Wex",
+    "title": "AI & Data Platform Engineering Intern (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+    "company": "Wex",
+    "title": "Fullstack Software Engineer Intern (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
+    "company": "Wex",
+    "title": "Data & AI Intern (Graduate/Master’s)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
+    "company": "Wex",
+    "title": "DevOps & AI Engineering Intern (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
+    "company": "Wex",
+    "title": "SRE & Application Services Intern (Graduate/Master's)",
+    "location": "US - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+    "company": "Wex",
+    "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+    "company": "Wex",
+    "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+    "company": "Wex",
+    "title": "Backend Software Engineer Intern - Java & AI (Master’s)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+    "company": "Wex",
+    "title": "Software Engineer Intern – AI & Cloud (Graduate/Master’s)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14T00:00:00Z",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
     "salary": null,
     "source": "workday"
   },

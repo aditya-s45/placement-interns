@@ -1,5 +1,41 @@
 [
   {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26014347",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-05",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014347",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "workday:baxter:/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-05T00:00:00Z",
+    "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:valeo:/job/Chennai/Intern---Software_REQ2026070899",
+    "company": "Valeo",
+    "title": "Intern - Software",
+    "location": "Chennai",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-05T00:00:00Z",
+    "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "greenhouse:natera:6188497004",
     "company": "Natera",
     "title": "Software Engineering Intern",
@@ -96,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:/job/Mumbai-Hazarimal-Somani-Marg/Apprentice-Hiring-for-2026--2027_R0445347",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai, Hazarimal Somani Marg",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-30T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/Apprentice-Hiring-for-2026--2027_R0445347",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:intel:/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
     "company": "Intel",
     "title": "Research Scientist Intern - Graphics, ML",
@@ -144,18 +168,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:pg:/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000160029",
-    "company": "Procter & Gamble (P&G)",
-    "title": "Information Technology Intern",
-    "location": "MUMBAI GENERAL OFFICE",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-29T00:00:00Z",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000160029",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "smartrecruiters:Wabtec:3743990015755665",
     "company": "Wabtec",
     "title": "Technician Apprentice",
@@ -166,6 +178,18 @@
     "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015755665",
     "salary": null,
     "source": "smartrecruiters"
+  },
+  {
+    "id": "greenhouse:thoughtworks:8236673",
+    "company": "Thoughtworks",
+    "title": "Software Procurement Intern",
+    "location": "Gurgaon, India; Pune, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-28T07:40:19-04:00",
+    "url": "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "greenhouse:acluinternships:8843314002",

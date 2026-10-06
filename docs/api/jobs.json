@@ -1,5 +1,17 @@
 [
   {
+    "id": "greenhouse:knowbe4:8870749002",
+    "company": "KnowBe4",
+    "title": "Software Engineer Intern (Remote)",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-06T16:08:53-04:00",
+    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "oracle:egug.fa.us2.oraclecloud.com:26014635",
     "company": "American Express",
     "title": "Apprentice",
@@ -10,18 +22,6 @@
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635",
     "salary": null,
     "source": "oracle"
-  },
-  {
-    "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
-    "company": "GE Healthcare",
-    "title": "Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-06T00:00:00Z",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "smartrecruiters:BoschGroup:744000153799209",
@@ -36,14 +36,14 @@
     "source": "smartrecruiters"
   },
   {
-    "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ538290",
-    "company": "Jones Lang LaSalle (JLL)",
-    "title": "Apprentice",
-    "location": "Gurugram, HR",
-    "category": "Other",
+    "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)",
+    "location": "Remote",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "2026-10-06T00:00:00Z",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538290",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
     "salary": null,
     "source": "workday"
   },
@@ -358,6 +358,18 @@
     "url": "https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582",
     "salary": null,
     "source": "ashby"
+  },
+  {
+    "id": "workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605",
+    "company": "Vantor",
+    "title": "AI Engineer Intern",
+    "location": "Remote (United States)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T00:00:00Z",
+    "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "greenhouse:tanium:8176398",

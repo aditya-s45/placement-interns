@@ -4,20 +4,38 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-06T19:30:14Z</updated>
+  <updated>2026-10-06T23:46:34Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>American Express — Apprentice</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635" rel="alternate"/>
-    <id>oracle:egug.fa.us2.oraclecloud.com:26014635</id>
+    <title>KnowBe4 — Software Engineer Intern (Remote)</title>
+    <link href="https://job-boards.greenhouse.io/knowbe4/jobs/8870749002" rel="alternate"/>
+    <id>greenhouse:knowbe4:8870749002</id>
+    <updated>2026-10-06T23:46:34Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Khan Academy — Software Engineer Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/khanacademy/jobs/8250259" rel="alternate"/>
+    <id>greenhouse:khanacademy:8250259</id>
     <updated>2026-10-06T19:30:14Z</updated>
-    <summary>Gurugram, HR, India · Other · Summer 2027</summary>
+    <summary>Remote (US + Canada Only) · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Cadence Solutions — Software Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/solutions/jobs/4711210006" rel="alternate"/>
     <id>greenhouse:solutions:4711210006</id>
     <updated>2026-10-06T19:30:14Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>American Express — Apprentice</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635" rel="alternate"/>
+    <id>oracle:egug.fa.us2.oraclecloud.com:26014635</id>
+    <updated>2026-10-06T19:30:14Z</updated>
+    <summary>Gurugram, HR, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Robert Bosch Venture Capital — ETAS - Thesis Project Internship – Generative AI for Automotive Safety</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153799209" rel="alternate"/>
+    <id>smartrecruiters:BoschGroup:744000153799209</id>
+    <updated>2026-10-06T19:30:14Z</updated>
+    <summary>Torino, Piemonte, IT (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Deutsche Bank — HR Apprentice</title>
     <link href="https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934" rel="alternate"/>
@@ -30,24 +48,6 @@
     <id>workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1</id>
     <updated>2026-10-06T19:30:14Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Khan Academy — Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/khanacademy/jobs/8250259" rel="alternate"/>
-    <id>greenhouse:khanacademy:8250259</id>
-    <updated>2026-10-06T19:30:14Z</updated>
-    <summary>Remote (US + Canada Only) · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Robert Bosch Venture Capital — ETAS - Thesis Project Internship – Generative AI for Automotive Safety</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153799209" rel="alternate"/>
-    <id>smartrecruiters:BoschGroup:744000153799209</id>
-    <updated>2026-10-06T19:30:14Z</updated>
-    <summary>Torino, Piemonte, IT (Remote) · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Jones Lang LaSalle (JLL) — Apprentice</title>
-    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538290" rel="alternate"/>
-    <id>workday:jll:/job/Gurugram-HR/Apprentice_REQ538290</id>
-    <updated>2026-10-06T13:15:12Z</updated>
-    <summary>Gurugram, HR · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
     <link href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685" rel="alternate"/>
@@ -223,6 +223,12 @@
     <updated>2026-09-22T21:11:34Z</updated>
     <summary>Hybrid - Denver · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Vantor — AI Engineer Intern</title>
+    <link href="https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605" rel="alternate"/>
+    <id>workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605</id>
+    <updated>2026-09-22T21:11:34Z</updated>
+    <summary>Remote (United States) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Tanium — Cloud Security Intern</title>
     <link href="https://job-boards.greenhouse.io/tanium/jobs/8176398" rel="alternate"/>
     <id>greenhouse:tanium:8176398</id>
@@ -300,11 +306,5 @@
     <id>workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
     <updated>2026-09-14T23:06:59Z</updated>
     <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Wex — Fullstack Software Engineer Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593" rel="alternate"/>
-    <id>workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593</id>
-    <updated>2026-09-14T23:06:59Z</updated>
-    <summary>US - Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

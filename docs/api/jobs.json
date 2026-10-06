@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:statestreet:/job/Hyderabad-India/Apprentice---Data-Analysis_R-797532",
+    "company": "State Street",
+    "title": "Apprentice - Data Analysis",
+    "location": "Hyderabad, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-06T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Apprentice---Data-Analysis_R-797532",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
     "company": "Mitel Networks",
     "title": "R&D Intern (student) - iOS development",
@@ -46,18 +58,6 @@
     "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:natera:6188497004",
-    "company": "Natera",
-    "title": "Software Engineering Intern",
-    "location": "US Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-02T15:12:01-04:00",
-    "url": "https://job-boards.greenhouse.io/natera/jobs/6188497004",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:centene:/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1",

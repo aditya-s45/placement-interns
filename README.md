@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 18 new this week · 5,118 companies tracked · updated Oct 06, 2026 at 13:15 UTC**
+**0 open roles · 23 new this week · 5,133 companies tracked · updated Oct 06, 2026 at 19:30 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -88,13 +88,15 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Microsoft | rolling | year-round | ⏳ waiting |
 | Millennium | rolling | year-round | ⏳ waiting |
 
-_80 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **47** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_81 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **48** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-06 |
+| Valeo | Intern - Software | Summer 2027 | 2026-10-06 |
 | American Express | Apprentice | Summer 2027 | 2026-10-06 |
 | Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
@@ -133,8 +135,6 @@ _80 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Smiths Detection Group | Graduate Apprentice Trainee | Summer 2027 | 2026-09-28 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-09-28 |
 | Innovaccer | Apprentice - Employee Engagement | Summer 2027 | 2026-09-26 |
-| Biogen | Co-op, Data Science | Summer 2027 | 2026-09-25 |
-| Sprinklr | ML Intern | Summer 2027 | 2026-09-25 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,119 companies across 25 ATS platforms · 98% fetch success · completed in 511.3s._
+_Engine (last run): 5,134 companies across 25 ATS platforms · 98% fetch success · completed in 457.7s._
 
 ## Platforms Scraped
 

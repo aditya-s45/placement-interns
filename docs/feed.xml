@@ -4,14 +4,20 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-06T05:58:19Z</updated>
+  <updated>2026-10-06T13:15:12Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>State Street — Apprentice - Data Analysis</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Apprentice---Data-Analysis_R-797532" rel="alternate"/>
-    <id>workday:statestreet:/job/Hyderabad-India/Apprentice---Data-Analysis_R-797532</id>
-    <updated>2026-10-06T05:58:19Z</updated>
-    <summary>Hyderabad, India · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Jones Lang LaSalle (JLL) — Apprentice</title>
+    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538290" rel="alternate"/>
+    <id>workday:jll:/job/Gurugram-HR/Apprentice_REQ538290</id>
+    <updated>2026-10-06T13:15:12Z</updated>
+    <summary>Gurugram, HR · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
+    <link href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685" rel="alternate"/>
+    <id>workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685</id>
+    <updated>2026-10-06T13:15:12Z</updated>
+    <summary>New Delhi, Delhi, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Mitel Networks — R&amp;D Intern (student) - iOS development</title>
     <link href="https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162" rel="alternate"/>
@@ -24,12 +30,6 @@
     <id>greenhouse:thoughtworks:8236673</id>
     <updated>2026-10-05T14:14:10Z</updated>
     <summary>Gurgaon, India; Pune, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>American Express — Apprentice</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014347" rel="alternate"/>
-    <id>oracle:egug.fa.us2.oraclecloud.com:26014347</id>
-    <updated>2026-10-05T14:14:10Z</updated>
-    <summary>Gurugram, HR, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Baxter International — Apprentice, Trainee -Instructional Design &amp; E-Learning Development</title>
     <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286" rel="alternate"/>
@@ -114,12 +114,6 @@
     <id>workday:marvell:/job/Bangalore/AI-Intern_2604445</id>
     <updated>2026-09-30T19:05:40Z</updated>
     <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Marvell — Software QA Automation Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247" rel="alternate"/>
-    <id>workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247</id>
-    <updated>2026-09-30T12:18:45Z</updated>
-    <summary>Hyderabad · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Wabtec — Technician Apprentice</title>
     <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015755665" rel="alternate"/>
@@ -247,12 +241,6 @@
     <updated>2026-09-17T11:25:25Z</updated>
     <summary>Mumbai - India · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904" rel="alternate"/>
-    <id>workday:medtronic:/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904</id>
-    <updated>2026-09-17T11:25:25Z</updated>
-    <summary>Bangalore , Karnataka, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>NewsBreak — New Market Launch Intern (MBA), Nearby AI</title>
     <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4711146006" rel="alternate"/>
     <id>greenhouse:newsbreak:4711146006</id>
@@ -306,5 +294,17 @@
     <id>workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
     <updated>2026-09-14T23:06:59Z</updated>
     <summary>US - Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wex — Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589" rel="alternate"/>
+    <id>workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
+    <updated>2026-09-14T19:14:24Z</updated>
+    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wex — Backend Software Engineer Intern - C#/Java &amp; AI Workflows (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586" rel="alternate"/>
+    <id>workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586</id>
+    <updated>2026-09-14T19:14:24Z</updated>
+    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

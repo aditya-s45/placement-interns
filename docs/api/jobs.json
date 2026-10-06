@@ -1,13 +1,25 @@
 [
   {
-    "id": "workday:statestreet:/job/Hyderabad-India/Apprentice---Data-Analysis_R-797532",
-    "company": "State Street",
-    "title": "Apprentice - Data Analysis",
-    "location": "Hyderabad, India",
-    "category": "Data & ML/AI",
+    "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ538290",
+    "company": "Jones Lang LaSalle (JLL)",
+    "title": "Apprentice",
+    "location": "Gurugram, HR",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-10-06T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Apprentice---Data-Analysis_R-797532",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538290",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "New Delhi, Delhi, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-06T00:00:00Z",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
     "salary": null,
     "source": "workday"
   },
@@ -22,18 +34,6 @@
     "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:egug.fa.us2.oraclecloud.com:26014347",
-    "company": "American Express",
-    "title": "Apprentice",
-    "location": "Gurugram, HR, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-05",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014347",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:baxter:/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
@@ -164,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-30T00:00:00Z",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
-    "company": "Marvell",
-    "title": "Software QA Automation Intern",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-30T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
     "salary": null,
     "source": "workday"
   },
@@ -728,6 +716,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },
@@ -1354,18 +1354,6 @@
     "url": "https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/",
     "salary": null,
     "source": "instahyre"
-  },
-  {
-    "id": "workday:medtronic:/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Bangalore , Karnataka, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",

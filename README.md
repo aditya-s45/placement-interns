@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 20 new this week · 5,118 companies tracked · updated Oct 06, 2026 at 05:58 UTC**
+**0 open roles · 18 new this week · 5,118 companies tracked · updated Oct 06, 2026 at 13:15 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,10 @@ _80 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| American Express | Apprentice | Summer 2027 | 2026-10-06 |
+| Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
+| State Street | Apprentice - Data Analysis | Summer 2027 | 2026-10-06 |
 | Natera | Software Engineering Intern | Summer 2027 | 2026-10-06 |
 | GE Aerospace | Data Science -Intern | Summer 2027 | 2026-10-05 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-05 |
@@ -131,10 +135,6 @@ _80 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Innovaccer | Apprentice - Employee Engagement | Summer 2027 | 2026-09-26 |
 | Biogen | Co-op, Data Science | Summer 2027 | 2026-09-25 |
 | Sprinklr | ML Intern | Summer 2027 | 2026-09-25 |
-| American Express | Apprentice | Summer 2027 | 2026-09-25 |
-| CWAN | Software Development Intern | Summer 2027 | 2026-09-25 |
-| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-09-25 |
-| Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-09-25 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,119 companies across 25 ATS platforms · 96% fetch success · completed in 688.1s._
+_Engine (last run): 5,119 companies across 25 ATS platforms · 98% fetch success · completed in 511.3s._
 
 ## Platforms Scraped
 

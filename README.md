@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 23 new this week · 5,133 companies tracked · updated Oct 06, 2026 at 23:46 UTC**
+**0 open roles · 24 new this week · 5,133 companies tracked · updated Oct 07, 2026 at 05:23 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,8 @@ _81 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Fable | Software Engineering Intern | Summer 2027 | 2026-10-07 |
+| Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-07 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-06 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-06 |
 | Valeo | Intern - Software | Summer 2027 | 2026-10-06 |
@@ -133,8 +135,6 @@ _81 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | S&P Global | Apprentice | Summer 2027 | 2026-09-28 |
 | RRS Group | 2027 Associate Software Engineer Intern - Sophomore Only | Summer 2027 | 2026-09-28 |
 | Smiths Detection Group | Graduate Apprentice Trainee | Summer 2027 | 2026-09-28 |
-| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-09-28 |
-| Innovaccer | Apprentice - Employee Engagement | Summer 2027 | 2026-09-26 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,134 companies across 25 ATS platforms · 95% fetch success · completed in 310.7s._
+_Engine (last run): 5,134 companies across 25 ATS platforms · 98% fetch success · completed in 324.4s._
 
 ## Platforms Scraped
 

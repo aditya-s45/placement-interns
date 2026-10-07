@@ -1,5 +1,41 @@
 [
   {
+    "id": "greenhouse:fourkites:8232702",
+    "company": "FourKites",
+    "title": "Intern - Project Analyst , Network Growth",
+    "location": "Chennai",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-07T03:27:45-04:00",
+    "url": "https://job-boards.greenhouse.io/fourkites/jobs/8232702",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
+    "company": "GE Healthcare",
+    "title": "Intern Data Analyst",
+    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-07T00:00:00Z",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ538524",
+    "company": "Jones Lang LaSalle (JLL)",
+    "title": "Apprentice",
+    "location": "Gurugram, HR",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-07T00:00:00Z",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538524",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:centene:/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
     "company": "Centene",
     "title": "Medical Economics Analyst Intern (Undergraduate - Summer 2027)",
@@ -8,18 +44,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-07T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ538513",
-    "company": "Jones Lang LaSalle (JLL)",
-    "title": "Apprentice",
-    "location": "Gurugram, HR",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-07T00:00:00Z",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538513",
     "salary": null,
     "source": "workday"
   },
@@ -46,18 +70,6 @@
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635",
     "salary": null,
     "source": "oracle"
-  },
-  {
-    "id": "smartrecruiters:BoschGroup:744000153799209",
-    "company": "Robert Bosch Venture Capital",
-    "title": "ETAS - Thesis Project Internship – Generative AI for Automotive Safety",
-    "location": "Torino, Piemonte, IT (Remote)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-06T15:18:18.695Z",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153799209",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
@@ -1258,18 +1270,6 @@
     "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "amazon:amazon:10515426",
-    "company": "Amazon",
-    "title": "Financial Analyst Intern, AMZL",
-    "location": "Bengaluru, Karnataka, IND",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-26T00:00:00Z",
-    "url": "https://www.amazon.jobs/en/jobs/10515426/financial-analyst-intern-amzl",
-    "salary": null,
-    "source": "amazon"
   },
   {
     "id": "ashby:realmalliance:a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a",

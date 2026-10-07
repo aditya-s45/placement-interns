@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+    "company": "Echo Global Logistics",
+    "title": "Software Engineering Intern- Chicago",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-07T00:00:00Z",
+    "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
+    "company": "SailPoint",
+    "title": "Software Engineer Intern - Platform Engines",
+    "location": "Remote (United Kingdom)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-07T00:00:00Z",
+    "url": "https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "greenhouse:fourkites:8232702",
     "company": "FourKites",
     "title": "Intern - Project Analyst , Network Growth",
@@ -10,18 +34,6 @@
     "url": "https://job-boards.greenhouse.io/fourkites/jobs/8232702",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:gehc:/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
-    "company": "GE Healthcare",
-    "title": "Intern Data Analyst",
-    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-07T00:00:00Z",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ538524",
@@ -46,18 +58,6 @@
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:knowbe4:8870749002",
-    "company": "KnowBe4",
-    "title": "Software Engineer Intern (Remote)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-06T16:08:53-04:00",
-    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "oracle:egug.fa.us2.oraclecloud.com:26014635",
@@ -776,18 +776,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },

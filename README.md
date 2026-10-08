@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 21 new this week · 5,138 companies tracked · updated Oct 08, 2026 at 00:11 UTC**
+**0 open roles · 21 new this week · 5,138 companies tracked · updated Oct 08, 2026 at 08:43 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,8 @@ _81 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| FourKites | Intern - Project Analyst , Network Growth | Summer 2027 | 2026-10-08 |
+| American Express | Apprentice | Summer 2027 | 2026-10-08 |
 | Echo Global Logistics | Software Engineering Intern- Chicago | Summer 2027 | 2026-10-08 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-08 |
 | KnowBe4 | Software Engineer Intern (Remote) | Summer 2027 | 2026-10-07 |
@@ -107,7 +109,6 @@ _81 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-07 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-06 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-06 |
-| Valeo | Intern - Software | Summer 2027 | 2026-10-06 |
 | American Express | Apprentice | Summer 2027 | 2026-10-06 |
 | Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
@@ -134,7 +135,6 @@ _81 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | A Thinking Ape | Software Development Engineer Co-op (Jan. 2027) | Summer 2027 | 2026-09-30 |
 | Fortrea | Apprentice - Employer Branding | Summer 2027 | 2026-09-30 |
 | Alcon | Product Security Apprentice Engineer – Post-Market Surveillance & Security Testing | Summer 2027 | 2026-09-29 |
-| State Street | Apprentice | Summer 2027 | 2026-09-29 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,139 companies across 25 ATS platforms · 99% fetch success · completed in 345.2s._
+_Engine (last run): 5,139 companies across 25 ATS platforms · 99% fetch success · completed in 214.3s._
 
 ## Platforms Scraped
 

@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503",
+    "company": "Philips",
+    "title": "Intern – Data Science and AI Engineering",
+    "location": "Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T00:00:00Z",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
     "company": "SailPoint",
     "title": "Software Engineer Intern - Platform Engines",
@@ -12,18 +24,6 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:fourkites:8232702",
-    "company": "FourKites",
-    "title": "Intern - Project Analyst , Network Growth",
-    "location": "Chennai",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-07T03:27:45-04:00",
-    "url": "https://job-boards.greenhouse.io/fourkites/jobs/8232702",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "workday:centene:/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
     "company": "Centene",
     "title": "Medical Economics Analyst Intern (Undergraduate - Summer 2027)",
@@ -34,18 +34,6 @@
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:egug.fa.us2.oraclecloud.com:26014635",
-    "company": "American Express",
-    "title": "Apprentice",
-    "location": "Gurugram, HR, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-06",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
@@ -104,6 +92,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-05T00:00:00Z",
     "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:valeo:/job/Chennai/Intern---Software_REQ2026070899",
+    "company": "Valeo",
+    "title": "Intern - Software",
+    "location": "Chennai",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-05T00:00:00Z",
+    "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
     "salary": null,
     "source": "workday"
   },

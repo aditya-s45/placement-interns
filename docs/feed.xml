@@ -4,15 +4,9 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-07T19:55:14Z</updated>
+  <updated>2026-10-08T00:11:23Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Echo Global Logistics — Software Engineering Intern- Chicago</title>
-    <link href="https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1" rel="alternate"/>
-    <id>workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1</id>
-    <updated>2026-10-07T19:55:14Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>SailPoint — Software Engineer Intern - Platform Engines</title>
     <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164" rel="alternate"/>
     <id>workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
@@ -24,12 +18,6 @@
     <id>greenhouse:fourkites:8232702</id>
     <updated>2026-10-07T13:10:19Z</updated>
     <summary>Chennai · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Jones Lang LaSalle (JLL) — Apprentice</title>
-    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538524" rel="alternate"/>
-    <id>workday:jll:/job/Gurugram-HR/Apprentice_REQ538524</id>
-    <updated>2026-10-07T13:10:19Z</updated>
-    <summary>Gurugram, HR · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Centene — Medical Economics Analyst Intern (Undergraduate - Summer 2027)</title>
     <link href="https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>workday:itron:/job/India-Bangalore/Apprentice_JR102702-2</id>
     <updated>2026-09-16T18:07:52Z</updated>
     <summary>India, Bangalore · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wex — AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055" rel="alternate"/>
+    <id>workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
+    <updated>2026-09-14T23:06:59Z</updated>
+    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wex — Fullstack Software Engineer Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593" rel="alternate"/>
+    <id>workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593</id>
+    <updated>2026-09-14T23:06:59Z</updated>
+    <summary>US - Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

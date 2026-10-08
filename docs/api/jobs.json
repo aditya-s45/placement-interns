@@ -1,17 +1,5 @@
 [
   {
-    "id": "workday:echo:/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-    "company": "Echo Global Logistics",
-    "title": "Software Engineering Intern- Chicago",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-07T00:00:00Z",
-    "url": "https://echo.wd1.myworkdayjobs.com/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
     "company": "SailPoint",
     "title": "Software Engineer Intern - Platform Engines",
@@ -34,18 +22,6 @@
     "url": "https://job-boards.greenhouse.io/fourkites/jobs/8232702",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:jll:/job/Gurugram-HR/Apprentice_REQ538524",
-    "company": "Jones Lang LaSalle (JLL)",
-    "title": "Apprentice",
-    "location": "Gurugram, HR",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-07T00:00:00Z",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Apprentice_REQ538524",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:centene:/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",

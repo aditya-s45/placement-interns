@@ -4,14 +4,32 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-08T08:43:16Z</updated>
+  <updated>2026-10-08T17:26:09Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Philips — Intern – Data Science and AI Engineering</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503" rel="alternate"/>
-    <id>workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503</id>
-    <updated>2026-10-08T08:43:16Z</updated>
-    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
+    <title>GuidePoint Security — AI &amp; Data Science Intern - GPSU/NE</title>
+    <link href="https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004" rel="alternate"/>
+    <id>greenhouse:guidepointsecurity:6218650004</id>
+    <updated>2026-10-08T17:26:09Z</updated>
+    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GuidePoint Security — Application Security Intern - GPSU/NE</title>
+    <link href="https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004" rel="alternate"/>
+    <id>greenhouse:guidepointsecurity:6218639004</id>
+    <updated>2026-10-08T17:26:09Z</updated>
+    <summary>Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GuidePoint Security — Cloud Infrastructure Intern - GPSU/NE</title>
+    <link href="https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004" rel="alternate"/>
+    <id>greenhouse:guidepointsecurity:6218667004</id>
+    <updated>2026-10-08T17:26:09Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>RTX — AI Engineering Intern (Summer 2027)</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596" rel="alternate"/>
+    <id>workday:globalhr:/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596</id>
+    <updated>2026-10-08T17:26:09Z</updated>
+    <summary>US-NY-REMOTE · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>SailPoint — Software Engineer Intern - Platform Engines</title>
     <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164" rel="alternate"/>
@@ -102,12 +120,6 @@
     <id>instahyre:pradrix:445445</id>
     <updated>2026-10-02T19:12:29Z</updated>
     <summary>Work From Home · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>GE Healthcare — Surgery Field Engineer Apprentice -San Francisco Bay Area</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260" rel="alternate"/>
-    <id>workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260</id>
-    <updated>2026-10-02T19:12:29Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Leidos — Business Systems AI Intern</title>
     <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>workday:itron:/job/India-Bangalore/Apprentice_JR102702-2</id>
     <updated>2026-09-16T18:07:52Z</updated>
     <summary>India, Bangalore · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Wex — AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055" rel="alternate"/>
-    <id>workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
-    <updated>2026-09-14T23:06:59Z</updated>
-    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Wex — Fullstack Software Engineer Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593" rel="alternate"/>
-    <id>workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593</id>
-    <updated>2026-09-14T23:06:59Z</updated>
-    <summary>US - Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

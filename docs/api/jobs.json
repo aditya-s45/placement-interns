@@ -1,13 +1,49 @@
 [
   {
-    "id": "workday:philips:/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503",
-    "company": "Philips",
-    "title": "Intern – Data Science and AI Engineering",
-    "location": "Bangalore",
+    "id": "greenhouse:guidepointsecurity:6218650004",
+    "company": "GuidePoint Security",
+    "title": "AI & Data Science Intern - GPSU/NE",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T12:54:28-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6218639004",
+    "company": "GuidePoint Security",
+    "title": "Application Security Intern - GPSU/NE",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T12:54:38-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6218667004",
+    "company": "GuidePoint Security",
+    "title": "Cloud Infrastructure Intern - GPSU/NE",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T12:54:17-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218667004?gh_jid=6218667004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "workday:globalhr:/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
+    "company": "RTX",
+    "title": "AI Engineering Intern (Summer 2027)",
+    "location": "US-NY-REMOTE",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-10-08T00:00:00Z",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
     "salary": null,
     "source": "workday"
   },
@@ -104,18 +140,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-05T00:00:00Z",
     "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
-    "company": "GE Healthcare",
-    "title": "Surgery Field Engineer Apprentice -San Francisco Bay Area",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-02T00:00:00Z",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "salary": null,
     "source": "workday"
   },

@@ -1,15 +1,39 @@
 [
   {
-    "id": "greenhouse:guidepointsecurity:6218650004",
-    "company": "GuidePoint Security",
-    "title": "AI & Data Science Intern - GPSU/NE",
-    "location": "Remote",
+    "id": "workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
+    "company": "Centific",
+    "title": "AI Research Intern -  Physical AI",
+    "location": "Remote Work( USA)",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-10-08T12:54:28-04:00",
-    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004",
+    "posted_at": "2026-10-08T00:00:00Z",
+    "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6212490004",
+    "company": "GuidePoint Security",
+    "title": "GPSU Cybersecurity Intern - Application Security",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T19:01:35-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
+    "company": "Merck",
+    "title": "Information Technology Intern",
+    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T00:00:00Z",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "greenhouse:guidepointsecurity:6218639004",
@@ -20,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-08T12:54:38-04:00",
     "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6218650004",
+    "company": "GuidePoint Security",
+    "title": "AI & Data Science Intern - GPSU/NE",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T12:54:28-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004",
     "salary": null,
     "source": "greenhouse"
   },
@@ -128,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-05T00:00:00Z",
     "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:valeo:/job/Chennai/Intern---Software_REQ2026070899",
-    "company": "Valeo",
-    "title": "Intern - Software",
-    "location": "Chennai",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-05T00:00:00Z",
-    "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
     "salary": null,
     "source": "workday"
   },
@@ -284,18 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-28T00:00:00Z",
     "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
-    "company": "Ancestry",
-    "title": "Machine Learning Engineer, Co-op",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
     "salary": null,
     "source": "workday"
   },
@@ -876,18 +888,6 @@
     "source": "ashby"
   },
   {
-    "id": "ashby:barnes:af9258a6-b6e6-4714-92dc-a9952c0590a7",
-    "company": "Barnes & Thornburg",
-    "title": "2027 BT RISE Internship - Information Technology AI Intern",
-    "location": "Indianapolis",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-09T20:11:43.072+00:00",
-    "url": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7",
-    "salary": null,
-    "source": "ashby"
-  },
-  {
     "id": "ashby:barnes:c77ef2c2-6aeb-4350-9fd4-842931c14177",
     "company": "Barnes & Thornburg",
     "title": "2027 BT RISE Internship - Information Security",
@@ -910,18 +910,6 @@
     "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Data-Scientist_JR014459",
-    "company": "Acxiom",
-    "title": "Intern - Data Scientist",
-    "location": "Remote/Homebased",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T00:00:00Z",
-    "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1",
@@ -1354,18 +1342,6 @@
     "url": "https://apply.workable.com/connectprep/j/D1C67258C0/",
     "salary": null,
     "source": "workable"
-  },
-  {
-    "id": "amazon:amazon:10498382",
-    "company": "Amazon",
-    "title": "Financial Analyst Intern",
-    "location": "Bengaluru, Karnataka, IND",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-11T00:00:00Z",
-    "url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
-    "salary": null,
-    "source": "amazon"
   },
   {
     "id": "instahyre:algouniversity:444755",

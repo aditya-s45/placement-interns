@@ -32,7 +32,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-28",
-     "count": 38
+     "count": 39
     }
    }
   },
@@ -72,7 +72,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 1259
+     "count": 1270
     }
    }
   },
@@ -108,7 +108,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-14",
-     "count": 100
+     "count": 101
     }
    }
   },
@@ -126,7 +126,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-09",
-     "count": 368
+     "count": 371
     }
    }
   },
@@ -148,7 +148,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-09-22",
-     "count": 92
+     "count": 94
     }
    }
   },
@@ -157,7 +157,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-18",
-     "count": 194
+     "count": 198
     }
    }
   },
@@ -202,7 +202,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 117
+     "count": 118
     }
    }
   },
@@ -220,7 +220,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-10",
-     "count": 122
+     "count": 123
     }
    }
   },
@@ -238,7 +238,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-10-01",
-     "count": 23
+     "count": 24
     }
    }
   },
@@ -247,7 +247,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-17",
-     "count": 147
+     "count": 148
     }
    }
   },
@@ -256,7 +256,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 364
+     "count": 369
     }
    }
   },
@@ -274,7 +274,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-07",
-     "count": 122
+     "count": 123
     }
    }
   },
@@ -283,7 +283,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 121
+     "count": 122
     }
    }
   },
@@ -337,7 +337,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-08-25",
-     "count": 122
+     "count": 123
     }
    }
   },
@@ -400,7 +400,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 121
+     "count": 122
     }
    }
   },
@@ -427,7 +427,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-13",
-     "count": 732
+     "count": 738
     }
    }
   },
@@ -454,7 +454,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-10-05",
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -526,7 +526,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-04-24",
-     "count": 5146
+     "count": 5147
     }
    }
   },
@@ -553,7 +553,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-10-01",
-     "count": 27
+     "count": 28
     }
    }
   },
@@ -571,7 +571,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-21",
-     "count": 56
+     "count": 57
     }
    }
   },
@@ -598,7 +598,16 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-24",
-     "count": 645
+     "count": 648
+    }
+   }
+  },
+  "rtx": {
+   "name": "RTX",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-08",
+     "count": 1
     }
    }
   },
@@ -688,7 +697,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-31",
-     "count": 242
+     "count": 244
     }
    }
   },
@@ -697,7 +706,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 116
+     "count": 117
     }
    }
   },
@@ -706,7 +715,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-10",
-     "count": 121
+     "count": 122
     }
    }
   },
@@ -796,7 +805,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-08",
-     "count": 137
+     "count": 138
     }
    }
   },
@@ -823,7 +832,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-28",
-     "count": 38
+     "count": 39
     }
    }
   },
@@ -850,7 +859,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-11",
-     "count": 116
+     "count": 117
     }
    }
   },
@@ -859,7 +868,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-16",
-     "count": 93
+     "count": 94
     }
    }
   },
@@ -891,5 +900,5 @@
    }
   }
  },
- "updated_at": "2026-10-08T17:18:34Z"
+ "updated_at": "2026-10-08T23:09:09Z"
 }

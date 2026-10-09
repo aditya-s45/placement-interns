@@ -1,15 +1,27 @@
 [
   {
-    "id": "workday:ciena:/job/Gurugram/SVT-PV-Engineering-Software-Applications---Intern_R031701",
-    "company": "Ciena",
-    "title": "SVT/PV Engineering Software Applications - Intern",
-    "location": "Gurugram",
-    "category": "Software",
+    "id": "workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
+    "company": "Allison Transmission",
+    "title": "IT Security Analyst Internship - Summer 2027",
+    "location": "Indianapolis, IN",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-10-09T00:00:00Z",
-    "url": "https://ciena.wd5.myworkdayjobs.com/careers/job/Gurugram/SVT-PV-Engineering-Software-Applications---Intern_R031701",
+    "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "lever:dnb:d6f935d0-5fdd-4f07-8dab-96b49dcce2a7",
+    "company": "Dun & Bradstreet",
+    "title": "Apprentice (R-19971)",
+    "location": "Mumbai - India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T06:12:31Z",
+    "url": "https://jobs.lever.co/dnb/d6f935d0-5fdd-4f07-8dab-96b49dcce2a7",
+    "salary": null,
+    "source": "lever"
   },
   {
     "id": "greenhouse:guidepointsecurity:6212490004",
@@ -300,6 +312,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:fortrea:/job/Bangalore/Apprentice---Employer-Branding_264572",
+    "company": "Fortrea",
+    "title": "Apprentice - Employer Branding",
+    "location": "Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-28T00:00:00Z",
+    "url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Apprentice---Employer-Branding_264572",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:veteransunited:/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
     "company": "Veterans United",
     "title": "Intern - Software Engineer - Summer 2027",
@@ -308,6 +332,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-28T00:00:00Z",
     "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-797519",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797519",
     "salary": null,
     "source": "workday"
   },

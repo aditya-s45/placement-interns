@@ -4,20 +4,26 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-08T23:15:20Z</updated>
+  <updated>2026-10-09T05:37:37Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Centific — AI Research Intern -  Physical AI</title>
-    <link href="https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1" rel="alternate"/>
-    <id>workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1</id>
-    <updated>2026-10-08T23:15:19Z</updated>
-    <summary>Remote Work( USA) · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Ciena — SVT/PV Engineering Software Applications - Intern</title>
+    <link href="https://ciena.wd5.myworkdayjobs.com/careers/job/Gurugram/SVT-PV-Engineering-Software-Applications---Intern_R031701" rel="alternate"/>
+    <id>workday:ciena:/job/Gurugram/SVT-PV-Engineering-Software-Applications---Intern_R031701</id>
+    <updated>2026-10-09T05:37:37Z</updated>
+    <summary>Gurugram · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>GuidePoint Security — GPSU Cybersecurity Intern - Application Security</title>
     <link href="https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004" rel="alternate"/>
     <id>greenhouse:guidepointsecurity:6212490004</id>
     <updated>2026-10-08T23:15:19Z</updated>
     <summary>Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Centific — AI Research Intern -  Physical AI</title>
+    <link href="https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1" rel="alternate"/>
+    <id>workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1</id>
+    <updated>2026-10-08T23:15:19Z</updated>
+    <summary>Remote Work( USA) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Merck — Information Technology Intern</title>
     <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762" rel="alternate"/>
@@ -42,12 +48,6 @@
     <id>greenhouse:guidepointsecurity:6218667004</id>
     <updated>2026-10-08T17:26:09Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>RTX — AI Engineering Intern (Summer 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596" rel="alternate"/>
-    <id>workday:globalhr:/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596</id>
-    <updated>2026-10-08T17:26:09Z</updated>
-    <summary>US-NY-REMOTE · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>SailPoint — Software Engineer Intern - Platform Engines</title>
     <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164" rel="alternate"/>
@@ -211,12 +211,6 @@
     <updated>2026-09-24T16:57:59Z</updated>
     <summary>Remote - United States · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Intel — Firmware Development Undergraduate Engineering Co-op</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862" rel="alternate"/>
-    <id>workday:intel:/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862</id>
-    <updated>2026-09-23T22:57:06Z</updated>
-    <summary>Virtual Canada · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Lean TECHniques — Software Engineer Intern - Hybrid</title>
     <link href="https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c" rel="alternate"/>
     <id>ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c</id>
@@ -306,5 +300,11 @@
     <id>smartrecruiters:WabashValleyPowerAlliance:744000149875759</id>
     <updated>2026-09-16T18:07:52Z</updated>
     <summary>Indianapolis, IN, United States · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Itron — Apprentice</title>
+    <link href="https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2" rel="alternate"/>
+    <id>workday:itron:/job/India-Bangalore/Apprentice_JR102702-2</id>
+    <updated>2026-09-16T18:07:52Z</updated>
+    <summary>India, Bangalore · Other · Summer 2027</summary>
   </entry>
 </feed>

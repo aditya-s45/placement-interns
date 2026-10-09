@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 22 new this week · 5,142 companies tracked · updated Oct 08, 2026 at 23:15 UTC**
+**0 open roles · 22 new this week · 5,142 companies tracked · updated Oct 09, 2026 at 05:37 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,8 @@ _82 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| RTX | AI Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-09 |
+| Intel | Firmware Development Undergraduate Engineering Co-op | Summer 2027 | 2026-10-09 |
 | Amazon | Financial Analyst Intern | Summer 2027 | 2026-10-08 |
 | Barnes & Thornburg | 2027 BT RISE Internship - Information Technology AI Intern | Summer 2027 | 2026-10-08 |
 | Acxiom | Intern - Data Scientist | Summer 2027 | 2026-10-08 |
@@ -133,8 +135,6 @@ _82 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | RTX | Digital Technology Vendor Management Co-op (REMOTE) | Summer 2027 | 2026-10-01 |
 | Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-10-01 |
 | Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-01 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-01 |
-| Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-01 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,143 companies across 25 ATS platforms · 99% fetch success · completed in 370.5s._
+_Engine (last run): 5,143 companies across 25 ATS platforms · 99% fetch success · completed in 368.4s._
 
 ## Platforms Scraped
 

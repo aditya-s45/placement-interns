@@ -1,5 +1,29 @@
 [
   {
+    "id": "greenhouse:coinbase:8175510",
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer Intern (HR Technology)",
+    "location": "Hybrid - New York, NY",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-09T12:51:20-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",
+    "company": "Eight Sleep",
+    "title": "Security & IT Intern",
+    "location": "Remote - US",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-09T17:05:52.446+00:00",
+    "url": "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550",
+    "salary": null,
+    "source": "ashby"
+  },
+  {
     "id": "workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
     "company": "Allison Transmission",
     "title": "IT Security Analyst Internship - Summer 2027",
@@ -34,18 +58,6 @@
     "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-    "company": "Centific",
-    "title": "AI Research Intern -  Physical AI",
-    "location": "Remote Work( USA)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-08T00:00:00Z",
-    "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
@@ -336,14 +348,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-797519",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
+    "id": "workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
+    "company": "Ancestry",
+    "title": "Machine Learning Engineer, Co-op",
+    "location": "Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-797519",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377",
     "salary": null,
     "source": "workday"
   },

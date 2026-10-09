@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 23 new this week · 5,142 companies tracked · updated Oct 09, 2026 at 13:01 UTC**
+**0 open roles · 21 new this week · 5,147 companies tracked · updated Oct 09, 2026 at 19:29 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,13 +95,14 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Centific | AI Research Intern -  Physical AI | Summer 2027 | 2026-10-09 |
+| State Street | Apprentice | Summer 2027 | 2026-10-09 |
 | Ciena | SVT/PV Engineering Software Applications - Intern | Summer 2027 | 2026-10-09 |
 | RTX | AI Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-09 |
 | Intel | Firmware Development Undergraduate Engineering Co-op | Summer 2027 | 2026-10-09 |
 | Amazon | Financial Analyst Intern | Summer 2027 | 2026-10-08 |
 | Barnes & Thornburg | 2027 BT RISE Internship - Information Technology AI Intern | Summer 2027 | 2026-10-08 |
 | Acxiom | Intern - Data Scientist | Summer 2027 | 2026-10-08 |
-| Ancestry | Machine Learning Engineer, Co-op | Summer 2027 | 2026-10-08 |
 | Valeo | Intern - Software | Summer 2027 | 2026-10-08 |
 | GE Healthcare | Surgery Field Engineer Apprentice -San Francisco Bay Area | Summer 2027 | 2026-10-08 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
@@ -134,7 +135,6 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Motorola | HR Apprentice Trainee | Summer 2027 | 2026-10-02 |
 | Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-02 |
 | RTX | Digital Technology Vendor Management Co-op (REMOTE) | Summer 2027 | 2026-10-01 |
-| Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-10-01 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,143 companies across 25 ATS platforms · 99% fetch success · completed in 392.0s._
+_Engine (last run): 5,148 companies across 25 ATS platforms · 99% fetch success · completed in 405.9s._
 
 ## Platforms Scraped
 

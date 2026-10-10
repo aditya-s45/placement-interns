@@ -1,17 +1,5 @@
 [
   {
-    "id": "greenhouse:coinbase:8175510",
-    "company": "Coinbase",
-    "title": "Forward Deployed Engineer Intern (HR Technology)",
-    "location": "Hybrid - New York, NY",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-09T12:51:20-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "ashby:eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",
     "company": "Eight Sleep",
     "title": "Security & IT Intern",
@@ -22,6 +10,18 @@
     "url": "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550",
     "salary": null,
     "source": "ashby"
+  },
+  {
+    "id": "greenhouse:coinbase:8175510",
+    "company": "Coinbase",
+    "title": "Forward Deployed Engineer Intern (HR Technology)",
+    "location": "Hybrid - New York, NY",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-09T12:51:20-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295",
@@ -46,18 +46,6 @@
     "url": "https://jobs.lever.co/dnb/d6f935d0-5fdd-4f07-8dab-96b49dcce2a7",
     "salary": null,
     "source": "lever"
-  },
-  {
-    "id": "greenhouse:guidepointsecurity:6212490004",
-    "company": "GuidePoint Security",
-    "title": "GPSU Cybersecurity Intern - Application Security",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-08T19:01:35-04:00",
-    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6212490004?gh_jid=6212490004",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",

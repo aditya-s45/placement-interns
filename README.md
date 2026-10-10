@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 20 new this week · 5,147 companies tracked · updated Oct 10, 2026 at 00:00 UTC**
+**0 open roles · 20 new this week · 5,147 companies tracked · updated Oct 10, 2026 at 05:20 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,10 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Swarm Aero | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-10 |
+| Corteva | Agentic AI Engineer Intern | Summer 2027 | 2026-10-10 |
+| Corteva | Data Science Summer Intern | Summer 2027 | 2026-10-10 |
+| Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-10-10 |
 | GuidePoint Security | GPSU Cybersecurity Intern - Application Security | Summer 2027 | 2026-10-10 |
 | Centific | AI Research Intern -  Physical AI | Summer 2027 | 2026-10-09 |
 | State Street | Apprentice | Summer 2027 | 2026-10-09 |
@@ -131,10 +135,6 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Procter & Gamble (P&G) | Information Technology Intern | Summer 2027 | 2026-10-05 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-05 |
 | Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-04 |
-| Synchrony Financial | Apprentice - Universal Fraud (04) | Summer 2027 | 2026-10-04 |
-| Dropbox | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-02 |
-| Motorola | HR Apprentice Trainee | Summer 2027 | 2026-10-02 |
-| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-02 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,148 companies across 25 ATS platforms · 94% fetch success · completed in 338.2s._
+_Engine (last run): 5,148 companies across 25 ATS platforms · 98% fetch success · completed in 308.3s._
 
 ## Platforms Scraped
 

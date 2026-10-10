@@ -708,30 +708,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
-    "company": "Corteva",
-    "title": "Agentic AI Engineer Intern",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
-    "company": "Corteva",
-    "title": "Data Science Summer Intern",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
     "company": "Amgen",
     "title": "Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
@@ -816,6 +792,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "company": "Citi",
+    "title": "Services – Summer Analyst, India, 2027",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -826,18 +814,6 @@
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6",
-    "company": "Swarm Aero",
-    "title": "Software Engineer Intern (Summer 2027)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T18:52:20.927+00:00",
-    "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6",
-    "salary": "$35 per hour",
-    "source": "ashby"
   },
   {
     "id": "greenhouse:tanium:8181017",
@@ -1138,18 +1114,6 @@
     "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4711146006",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
-    "company": "Corteva",
-    "title": "R&D Internship – Computer & Data Science",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-03T00:00:00Z",
-    "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "smartrecruiters:InfiniteQuant:744000147163879",

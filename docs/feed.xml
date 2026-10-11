@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-11T12:33:58Z</updated>
+  <updated>2026-10-11T18:48:41Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Eight Sleep — Security &amp; IT Intern</title>
@@ -30,12 +30,6 @@
     <id>workday:allisontransmission:/job/Indianapolis-IN/IT-Security-Analyst-Internship---Summer-2027_R008295</id>
     <updated>2026-10-09T13:01:51Z</updated>
     <summary>Indianapolis, IN · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Merck — Information Technology Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762" rel="alternate"/>
-    <id>workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762</id>
-    <updated>2026-10-08T23:15:19Z</updated>
-    <summary>IND - Telangana - Hyderabad (Hitec City Raidurg) · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>GuidePoint Security — Application Security Intern - GPSU/NE</title>
     <link href="https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>greenhouse:newsbreak:4711146006</id>
     <updated>2026-09-17T04:26:06Z</updated>
     <summary>Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Ancestry — Data Science - AI Document Understanding, Co-op</title>
+    <link href="https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449" rel="alternate"/>
+    <id>workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449</id>
+    <updated>2026-09-16T22:54:24Z</updated>
+    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

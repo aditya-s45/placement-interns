@@ -7020,6 +7020,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Crown Innovations",
+    "slug": "TBD20261012CrownInnovationsInc",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Cruise Automation",
     "slug": "careers-at-cruiseautomation",
     "ats": "smartrecruiters"
@@ -14717,6 +14722,11 @@
     "ats": "lever"
   },
   {
+    "name": "Lance",
+    "slug": "lance",
+    "ats": "ashby"
+  },
+  {
     "name": "Land O'Lakes",
     "slug": "landolakes",
     "ats": "workday",
@@ -21535,6 +21545,11 @@
     "name": "Resonate",
     "slug": "resonate",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Resource Innovations",
+    "slug": "resource-innovations",
+    "ats": "workable"
   },
   {
     "name": "RESPEC",

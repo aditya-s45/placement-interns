@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 19 new this week · 5,154 companies tracked · updated Oct 12, 2026 at 05:24 UTC**
+**0 open roles · 20 new this week · 5,154 companies tracked · updated Oct 12, 2026 at 15:04 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,7 +95,9 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Merck | Information Technology Intern | Summer 2027 | 2026-10-11 |
+| Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
+| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-12 |
+| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-12 |
 | Swarm Aero | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-10 |
 | Corteva | Agentic AI Engineer Intern | Summer 2027 | 2026-10-10 |
 | Corteva | Data Science Summer Intern | Summer 2027 | 2026-10-10 |
@@ -118,7 +120,6 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-08 |
 | KnowBe4 | Software Engineer Intern (Remote) | Summer 2027 | 2026-10-07 |
 | GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
-| State Street | Apprentice | Summer 2027 | 2026-10-07 |
 | Amazon | Financial Analyst Intern, AMZL | Summer 2027 | 2026-10-07 |
 | Robert Bosch Venture Capital | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | Summer 2027 | 2026-10-07 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-07 |
@@ -134,7 +135,6 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | GE Aerospace | Data Science -Intern | Summer 2027 | 2026-10-05 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-05 |
 | Procter & Gamble (P&G) | Information Technology Intern | Summer 2027 | 2026-10-05 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-05 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,155 companies across 25 ATS platforms · 98% fetch success · completed in 274.4s._
+_Engine (last run): 5,155 companies across 25 ATS platforms · 99% fetch success · completed in 365.0s._
 
 ## Platforms Scraped
 

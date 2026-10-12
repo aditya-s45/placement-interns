@@ -1,15 +1,39 @@
 [
   {
-    "id": "workday:ag:/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
+    "id": "workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039",
     "company": "Airbus",
-    "title": "Technical Data Analyst Intern",
+    "title": "Internship  AI",
     "location": "Bangalore Area",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-10-12T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "workday:ag:/job/Bangalore-Area/Internship---Digital-Security_JR10449628",
+    "company": "Airbus",
+    "title": "Internship - Digital Security",
+    "location": "Bangalore Area",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-12T00:00:00Z",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449628",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
+    "company": "Emerson Electric",
+    "title": "Metrology Software Engineering Intern",
+    "location": "DEBRECEN, HAJDÚ BIHAR, Hungary",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-12",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "workday:aah:/job/Remote/Enterprise-Internship--Information-Technology_R280079",
@@ -70,6 +94,18 @@
     "url": "https://jobs.lever.co/dnb/d6f935d0-5fdd-4f07-8dab-96b49dcce2a7",
     "salary": null,
     "source": "lever"
+  },
+  {
+    "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
+    "company": "Merck",
+    "title": "Information Technology Intern",
+    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T00:00:00Z",
+    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "greenhouse:guidepointsecurity:6218639004",
@@ -226,18 +262,6 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:caci:/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
-    "company": "CACI",
-    "title": "Software Development/Engineer Intern - Summer 2027",
-    "location": "Remote (Any State)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-01T00:00:00Z",
-    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:clearesult:/job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
@@ -502,18 +526,6 @@
     "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:thoughtworks:8210384",
-    "company": "Thoughtworks",
-    "title": "Developer (Vapasi) - Intern",
-    "location": "Bangalore, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-17T03:51:28-04:00",
-    "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
@@ -812,6 +824,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-11T00:00:00Z",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-11T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },

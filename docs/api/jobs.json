@@ -1,25 +1,13 @@
 [
   {
-    "id": "workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039",
-    "company": "Airbus",
-    "title": "Internship  AI",
-    "location": "Bangalore Area",
-    "category": "Data & ML/AI",
+    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Information-Systems---Technology_REQ_243093",
+    "company": "Rochester Regional Health",
+    "title": "RIT Co-op: Information Systems & Technology",
+    "location": "Riedman - Remote",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "2026-10-12T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:ag:/job/Bangalore-Area/Internship---Digital-Security_JR10449628",
-    "company": "Airbus",
-    "title": "Internship - Digital Security",
-    "location": "Bangalore Area",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-12T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Digital-Security_JR10449628",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Information-Systems---Technology_REQ_243093",
     "salary": null,
     "source": "workday"
   },
@@ -34,6 +22,18 @@
     "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
     "salary": null,
     "source": "oracle"
+  },
+  {
+    "id": "workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039",
+    "company": "Airbus",
+    "title": "Internship  AI",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-12T00:00:00Z",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "workday:aah:/job/Remote/Enterprise-Internship--Information-Technology_R280079",
@@ -96,18 +96,6 @@
     "source": "lever"
   },
   {
-    "id": "workday:msd:/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
-    "company": "Merck",
-    "title": "Information Technology Intern",
-    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-08T00:00:00Z",
-    "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "greenhouse:guidepointsecurity:6218639004",
     "company": "GuidePoint Security",
     "title": "Application Security Intern - GPSU/NE",
@@ -164,18 +152,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-07T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
-    "company": "GE Healthcare",
-    "title": "Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-06T00:00:00Z",
-    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
     "salary": null,
     "source": "workday"
   },
@@ -524,6 +500,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
     "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "company": "Centene",
+    "title": "Technology Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-FL",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
     "salary": null,
     "source": "workday"
   },
@@ -1114,18 +1102,6 @@
     "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:cw:/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-05T00:00:00Z",
-    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:cw:/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",

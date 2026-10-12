@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 20 new this week · 5,154 companies tracked · updated Oct 12, 2026 at 15:04 UTC**
+**0 open roles · 17 new this week · 5,157 companies tracked · updated Oct 12, 2026 at 22:54 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,10 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Airbus | Internship - Digital Security | Summer 2027 | 2026-10-12 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-10-12 |
+| GE Healthcare | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) | Summer 2027 | 2026-10-12 |
+| Merck | Information Technology Intern | Summer 2027 | 2026-10-12 |
 | Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
 | Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-12 |
 | CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-12 |
@@ -131,10 +135,6 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
 | State Street | Apprentice - Data Analysis | Summer 2027 | 2026-10-06 |
-| Natera | Software Engineering Intern | Summer 2027 | 2026-10-06 |
-| GE Aerospace | Data Science -Intern | Summer 2027 | 2026-10-05 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-05 |
-| Procter & Gamble (P&G) | Information Technology Intern | Summer 2027 | 2026-10-05 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,155 companies across 25 ATS platforms · 99% fetch success · completed in 365.0s._
+_Engine (last run): 5,158 companies across 25 ATS platforms · 98% fetch success · completed in 295.4s._
 
 ## Platforms Scraped
 

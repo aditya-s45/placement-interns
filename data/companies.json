@@ -3055,6 +3055,11 @@
     "site": "AzentaJobs"
   },
   {
+    "name": "Azul Systems",
+    "slug": "azul",
+    "ats": "lever"
+  },
+  {
     "name": "Azuria Corporation",
     "slug": "aegion",
     "ats": "workday",
@@ -4305,6 +4310,11 @@
     "name": "Brillio",
     "slug": "brillioinc",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Brillio",
+    "slug": "brillio-2",
+    "ats": "lever"
   },
   {
     "name": "BRINC Drones",
@@ -11306,6 +11316,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Goodlord",
+    "slug": "goodlord",
+    "ats": "ashby"
+  },
+  {
     "name": "Goodnotes",
     "slug": "goodnotes",
     "ats": "greenhouse"
@@ -15044,6 +15059,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Liberty Mutual Canada",
+    "slug": "liberty-mutual-canada",
+    "ats": "workable"
+  },
+  {
     "name": "Liberty University",
     "slug": "liberty",
     "ats": "workday",
@@ -16464,6 +16484,11 @@
     "name": "MemryX",
     "slug": "memryx",
     "ats": "rippling"
+  },
+  {
+    "name": "MEMX",
+    "slug": "memx",
+    "ats": "greenhouse"
   },
   {
     "name": "Menasha Corporation",

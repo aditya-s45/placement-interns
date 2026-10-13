@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 22 new this week · 5,157 companies tracked · updated Oct 13, 2026 at 15:50 UTC**
+**0 open roles · 20 new this week · 5,162 companies tracked · updated Oct 13, 2026 at 21:14 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -88,13 +88,20 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Microsoft | rolling | year-round | ⏳ waiting |
 | Millennium | rolling | year-round | ⏳ waiting |
 
-_83 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **50** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_84 companies on the [full radar](https://aditya-s45.github.io/placement-interns/#radar). **51** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles taken down in the last 14 days</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Rochester Regional Health | RIT Co-op: Information Systems & Technology | Summer 2027 | 2026-10-13 |
+| State Street | Apprentice | Summer 2027 | 2026-10-13 |
+| Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Backend Software Engineer Intern - Java & AI (Master’s) | Summer 2027 | 2026-10-13 |
+| Wex | Fullstack Software Engineer Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Software Engineer Intern – AI & Cloud (Graduate/Master’s) | Summer 2027 | 2026-10-13 |
 | Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
 | Airbus | Internship  AI | Summer 2027 | 2026-10-13 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-13 |
@@ -128,13 +135,6 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | GE Healthcare | Surgery Field Engineer Apprentice -San Francisco Bay Area | Summer 2027 | 2026-10-08 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
 | FourKites | Intern - Project Analyst , Network Growth | Summer 2027 | 2026-10-08 |
-| American Express | Apprentice | Summer 2027 | 2026-10-08 |
-| Echo Global Logistics | Software Engineering Intern- Chicago | Summer 2027 | 2026-10-08 |
-| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-08 |
-| KnowBe4 | Software Engineer Intern (Remote) | Summer 2027 | 2026-10-07 |
-| GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
-| Amazon | Financial Analyst Intern, AMZL | Summer 2027 | 2026-10-07 |
-| Robert Bosch Venture Capital | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | Summer 2027 | 2026-10-07 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,158 companies across 25 ATS platforms · 98% fetch success · completed in 257.9s._
+_Engine (last run): 5,163 companies across 25 ATS platforms · 98% fetch success · completed in 453.6s._
 
 ## Platforms Scraped
 

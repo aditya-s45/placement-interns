@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:cw:/job/Mumbai-India/EIC-Apprentice---Valuations--Mumbai-_R340091",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations (Mumbai)",
+    "location": "Mumbai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13T00:00:00Z",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice---Valuations--Mumbai-_R340091",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Information-Systems---Technology_REQ_243093",
     "company": "Rochester Regional Health",
     "title": "RIT Co-op: Information Systems & Technology",
@@ -1330,18 +1342,6 @@
     "url": "https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Worker/Correspondent-Analyst-Intern_R-05785-1",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "workable:connectprep:D1C67258C0",
-    "company": "ConnectPrep",
-    "title": "Data Analyst Internship",
-    "location": "Washington, District of Columbia, United States (Remote)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-13T00:00:00.000Z",
-    "url": "https://apply.workable.com/connectprep/j/D1C67258C0/",
-    "salary": null,
-    "source": "workable"
   },
   {
     "id": "instahyre:algouniversity:444755",

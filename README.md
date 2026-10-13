@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 18 new this week · 5,157 companies tracked · updated Oct 13, 2026 at 06:23 UTC**
+**0 open roles · 22 new this week · 5,157 companies tracked · updated Oct 13, 2026 at 15:50 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,14 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
+| Airbus | Internship  AI | Summer 2027 | 2026-10-13 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-13 |
+| Wex | AI & Data Platform Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-10-13 |
+| Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
+| Wex | SRE & Application Services Intern (Graduate/Master's) | Summer 2027 | 2026-10-13 |
+| Wex | Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's) | Summer 2027 | 2026-10-13 |
 | ConnectPrep | Data Analyst Internship | Summer 2027 | 2026-10-13 |
 | Airbus | Internship - Digital Security | Summer 2027 | 2026-10-12 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-10-12 |
@@ -127,14 +135,6 @@ _83 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
 | Amazon | Financial Analyst Intern, AMZL | Summer 2027 | 2026-10-07 |
 | Robert Bosch Venture Capital | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | Summer 2027 | 2026-10-07 |
-| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-07 |
-| Fable | Software Engineering Intern | Summer 2027 | 2026-10-07 |
-| Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-07 |
-| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-06 |
-| Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-06 |
-| American Express | Apprentice | Summer 2027 | 2026-10-06 |
-| Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,158 companies across 25 ATS platforms · 95% fetch success · completed in 303.1s._
+_Engine (last run): 5,158 companies across 25 ATS platforms · 98% fetch success · completed in 257.9s._
 
 ## Platforms Scraped
 

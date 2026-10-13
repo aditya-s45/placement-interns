@@ -1,5 +1,89 @@
 [
   {
+    "id": "workday:ag:/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
+    "company": "Airbus",
+    "title": "Internship - DCC AI and Automation",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13T00:00:00Z",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:/job/Mumbai-India/EIC-Apprentice---Project-Development-Services--Mumbai_R340094",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Project Development Services, Mumbai",
+    "location": "Mumbai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13T00:00:00Z",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice---Project-Development-Services--Mumbai_R340094",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:/job/Gurgaon-India/EIC-Apprentice---Project-Development-Services--Gurgaon_R340103",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Project Development Services, Gurgaon",
+    "location": "Gurgaon, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13T00:00:00Z",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Apprentice---Project-Development-Services--Gurgaon_R340103",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159846",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Hyderabad, Telangana, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159866",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Embedded Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "workday:medtronic:/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R66620",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-13T00:00:00Z",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R66620",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cw:/job/Mumbai-India/EIC-Apprentice---Valuations--Mumbai-_R340091",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice - Valuations (Mumbai)",
@@ -20,30 +104,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-12T00:00:00Z",
     "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Information-Systems---Technology_REQ_243093",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "oracle:hdjq.fa.us2.oraclecloud.com:26011734",
-    "company": "Emerson Electric",
-    "title": "Metrology Software Engineering Intern",
-    "location": "DEBRECEN, HAJDÚ BIHAR, Hungary",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-12",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011734",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "workday:ag:/job/Bangalore-Area/Internship--AI_JR10449039",
-    "company": "Airbus",
-    "title": "Internship  AI",
-    "location": "Bangalore Area",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-12T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--AI_JR10449039",
     "salary": null,
     "source": "workday"
   },
@@ -164,18 +224,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-07T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "New Delhi, Delhi, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-06T00:00:00Z",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
     "salary": null,
     "source": "workday"
   },
@@ -372,18 +420,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
-    "company": "Wex",
-    "title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "greenhouse:wurljobs:4716249006",
     "company": "Wurl",
     "title": "Data Science Intern",
@@ -394,6 +430,18 @@
     "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24",
@@ -576,18 +624,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "company": "Wex",
-    "title": "AI & Data Platform Engineering Intern (Undergraduate)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
     "company": "Wex",
     "title": "Fullstack Software Engineer Intern (Undergraduate)",
@@ -596,42 +632,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-14T00:00:00Z",
     "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-    "company": "Wex",
-    "title": "Data & AI Intern (Graduate/Master’s)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-    "company": "Wex",
-    "title": "DevOps & AI Engineering Intern (Undergraduate)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
-    "company": "Wex",
-    "title": "SRE & Application Services Intern (Graduate/Master's)",
-    "location": "US - Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-14T00:00:00Z",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
     "salary": null,
     "source": "workday"
   },
@@ -968,6 +968,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-08T00:00:00Z",
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice (Chattanooga, TN)",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T00:00:00Z",
+    "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
     "salary": null,
     "source": "workday"
   },

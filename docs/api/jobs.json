@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:alcon:/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
+    "company": "Alcon",
+    "title": "Payroll-Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-14T00:00:00Z",
+    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "smartrecruiters:carousellgroup:744000155411579",
+    "company": "Carousell Group",
+    "title": "Android Engineer Intern - 6 months",
+    "location": "Bengaluru, KA, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-14T04:32:51.114Z",
+    "url": "https://jobs.smartrecruiters.com/carousellgroup/744000155411579",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159828",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-14",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159828",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "workday:motorolasolutions:/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
     "company": "Motorola",
     "title": "Software Engineer Co-op Intern - 2026/2027",
@@ -22,18 +58,6 @@
     "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159846",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159846",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
@@ -612,14 +636,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:/job/Hyderabad-India/EIC---Apprentice_R323147",
+    "id": "workday:cw:/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017",
     "company": "Cushman & Wakefield",
-    "title": "EIC - Apprentice",
-    "location": "Hyderabad, India",
+    "title": "EIC Apprentice",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Hyderabad-India/EIC---Apprentice_R323147",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017",
     "salary": null,
     "source": "workday"
   },
@@ -1030,18 +1054,6 @@
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:rubrik:8166523",
-    "company": "Rubrik",
-    "title": "Software Engineer - Winter Intern",
-    "location": "Bangalore",
-    "category": "Software",
-    "season": "Term Unconfirmed",
-    "posted_at": "2026-09-06T08:42:59-04:00",
-    "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "greenhouse:rubrik:8166537",

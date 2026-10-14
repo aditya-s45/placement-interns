@@ -60,18 +60,6 @@
     "source": "oracle"
   },
   {
-    "id": "workday:ag:/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
-    "company": "Airbus",
-    "title": "Internship - DCC AI and Automation",
-    "location": "Bangalore Area",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---DCC-AI-and-Automation_JR10450231",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cw:/job/Gurgaon-India/EIC-Apprentice---Project-Development-Services--Gurgaon_R340103",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice - Project Development Services, Gurgaon",
@@ -1176,18 +1164,6 @@
     "source": "workday"
   },
   {
-    "id": "ashby:qualified-health-pbc:6cae1651-ea0d-4779-bf8c-778be1ac8789",
-    "company": "Qualified Health",
-    "title": "Clinical AI Evaluation Intern",
-    "location": "Palo Alto - Hybrid",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-28T20:24:42.517+00:00",
-    "url": "https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789",
-    "salary": null,
-    "source": "ashby"
-  },
-  {
     "id": "greenhouse:guidepointsecurity:6148707004",
     "company": "GuidePoint Security",
     "title": "GPSU Cybersecurity Spring Internship",
@@ -1198,18 +1174,6 @@
     "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6148707004?gh_jid=6148707004",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "ashby:qualified-health-pbc:4964d004-a597-4013-aea7-8dece8035f10",
-    "company": "Qualified Health",
-    "title": "Medical Scribe Intern, Clinical AI Safety & Evaluation",
-    "location": "Palo Alto - Hybrid",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-27T22:56:48.929+00:00",
-    "url": "https://jobs.ashbyhq.com/qualified-health-pbc/4964d004-a597-4013-aea7-8dece8035f10",
-    "salary": null,
-    "source": "ashby"
   },
   {
     "id": "ashby:realmalliance:a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a",

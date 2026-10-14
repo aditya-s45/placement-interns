@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 20 new this week · 5,162 companies tracked · updated Oct 13, 2026 at 21:14 UTC**
+**0 open roles · 19 new this week · 5,162 companies tracked · updated Oct 14, 2026 at 01:08 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,9 @@ _84 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Summer 2027 | 2026-10-14 |
+| Qualified Health | Clinical AI Evaluation Intern | Summer 2027 | 2026-10-14 |
+| Airbus | Internship - DCC AI and Automation | Summer 2027 | 2026-10-14 |
 | Rochester Regional Health | RIT Co-op: Information Systems & Technology | Summer 2027 | 2026-10-13 |
 | State Street | Apprentice | Summer 2027 | 2026-10-13 |
 | Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-10-13 |
@@ -132,9 +135,6 @@ _84 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Barnes & Thornburg | 2027 BT RISE Internship - Information Technology AI Intern | Summer 2027 | 2026-10-08 |
 | Acxiom | Intern - Data Scientist | Summer 2027 | 2026-10-08 |
 | Valeo | Intern - Software | Summer 2027 | 2026-10-08 |
-| GE Healthcare | Surgery Field Engineer Apprentice -San Francisco Bay Area | Summer 2027 | 2026-10-08 |
-| Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
-| FourKites | Intern - Project Analyst , Network Growth | Summer 2027 | 2026-10-08 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,163 companies across 25 ATS platforms · 98% fetch success · completed in 453.6s._
+_Engine (last run): 5,163 companies across 25 ATS platforms · 98% fetch success · completed in 433.7s._
 
 ## Platforms Scraped
 

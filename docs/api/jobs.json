@@ -1,13 +1,13 @@
 [
   {
-    "id": "workday:alcon:/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
-    "company": "Alcon",
-    "title": "Payroll-Apprentice",
-    "location": "Bangalore, India",
+    "id": "workday:viatris:/job/Milan-Office/IT-Business-Analyst---Internship-6-months_R5674668",
+    "company": "Viatris",
+    "title": "IT Business Analyst - Internship 6 months",
+    "location": "France Remote Office; Milan-Office",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-10-14T00:00:00Z",
-    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
+    "url": "https://viatris.wd5.myworkdayjobs.com/External/job/Milan-Office/IT-Business-Analyst---Internship-6-months_R5674668",
     "salary": null,
     "source": "workday"
   },
@@ -24,26 +24,14 @@
     "source": "smartrecruiters"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159828",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
+    "id": "workday:alcon:/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
+    "company": "Alcon",
+    "title": "Payroll-Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "2026-10-14",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159828",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "workday:motorolasolutions:/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
-    "company": "Motorola",
-    "title": "Software Engineer Co-op Intern - 2026/2027",
-    "location": "Illinois Remote Work, More...",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13T00:00:00Z",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
+    "posted_at": "2026-10-14T00:00:00Z",
+    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
     "salary": null,
     "source": "workday"
   },
@@ -58,30 +46,6 @@
     "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159863",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159863",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159866",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Embedded Eng",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159866",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workday:cw:/job/Gurgaon-India/EIC-Apprentice---Project-Development-Services--Gurgaon_R340103",
@@ -780,18 +744,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "company": "Citi",
-    "title": "Services – Summer Analyst, India, 2027",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-11T00:00:00Z",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -1102,18 +1054,6 @@
     "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "amazon:amazon:10525952",
-    "company": "Amazon",
-    "title": "Financial Analyst Intern, NL/RE&E Finance team",
-    "location": "Bengaluru, Karnataka, IND",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-02T00:00:00Z",
-    "url": "https://www.amazon.jobs/en/jobs/10525952/financial-analyst-intern-nl-re-e-finance-team",
-    "salary": null,
-    "source": "amazon"
   },
   {
     "id": "workable:twgai:1206BF981C",

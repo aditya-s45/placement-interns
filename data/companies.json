@@ -6972,6 +6972,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Cricut",
+    "slug": "Cricut",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Criteo",
     "slug": "criteo",
     "ats": "workday",
@@ -9169,6 +9174,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "Euronext_Career_Page"
+  },
+  {
+    "name": "Eurostar International",
+    "slug": "eurostar",
+    "ats": "workable"
   },
   {
     "name": "EV Realty",
@@ -11621,6 +11631,11 @@
     "name": "Gritt Robotics Inc",
     "slug": "gritt",
     "ats": "ashby"
+  },
+  {
+    "name": "Groma",
+    "slug": "groma",
+    "ats": "greenhouse"
   },
   {
     "name": "Group 1001",
@@ -21697,6 +21712,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Rhombus",
+    "slug": "rhombus-systems",
+    "ats": "lever"
+  },
+  {
     "name": "Rhombus Power",
     "slug": "rhombuspower",
     "ats": "greenhouse"
@@ -26152,6 +26172,11 @@
     "name": "TRM Labs",
     "slug": "trm-labs",
     "ats": "ashby"
+  },
+  {
+    "name": "Trove Brands",
+    "slug": "trovebrands",
+    "ats": "greenhouse"
   },
   {
     "name": "Trovy",

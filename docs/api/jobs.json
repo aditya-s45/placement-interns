@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-14T00:00:00Z",
+    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6224196004",
+    "company": "GuidePoint Security",
+    "title": "Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-14T17:22:54-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159740",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Madurai, Tamil Nadu, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-14",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159740",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "workday:centene:/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1",
     "company": "Centene",
     "title": "Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027)",
@@ -1246,18 +1282,6 @@
     "url": "https://www.instahyre.com/job-443500-gen-ai-designer-intern-internship-at-gameberry-labs-bangalore/",
     "salary": null,
     "source": "instahyre"
-  },
-  {
-    "id": "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:campbellsoup:/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",

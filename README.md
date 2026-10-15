@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 20 new this week · 5,167 companies tracked · updated Oct 15, 2026 at 04:08 UTC**
+**0 open roles · 23 new this week · 5,167 companies tracked · updated Oct 15, 2026 at 11:15 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,12 @@ _84 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Dun & Bradstreet | Apprentice - Industrial Trainee (R-19685) | Summer 2027 | 2026-10-15 |
+| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-15 |
+| Altera Corporation | AI Automation Intern | Summer 2027 | 2026-10-15 |
+| Centene | Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-15 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-15 |
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-15 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-10-14 |
 | Atrium Health | Enterprise Internship, Information Technology | Summer 2027 | 2026-10-14 |
 | Amazon | Financial Analyst Intern, NL/RE&E Finance team | Summer 2027 | 2026-10-14 |
@@ -129,12 +135,6 @@ _84 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | GE Healthcare | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) | Summer 2027 | 2026-10-12 |
 | Merck | Information Technology Intern | Summer 2027 | 2026-10-12 |
 | Thoughtworks | Developer (Vapasi) - Intern | Summer 2027 | 2026-10-12 |
-| Airbus | Technical Data Analyst Intern | Summer 2027 | 2026-10-12 |
-| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-12 |
-| Swarm Aero | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-10 |
-| Corteva | Agentic AI Engineer Intern | Summer 2027 | 2026-10-10 |
-| Corteva | Data Science Summer Intern | Summer 2027 | 2026-10-10 |
-| Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-10-10 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,168 companies across 25 ATS platforms · 99% fetch success · completed in 380.2s._
+_Engine (last run): 5,168 companies across 25 ATS platforms · 99% fetch success · completed in 338.0s._
 
 ## Platforms Scraped
 

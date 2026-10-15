@@ -1,5 +1,65 @@
 [
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159805",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159805",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159975",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Embedded Eng",
+    "location": "Hyderabad, Telangana, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159818",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Hyderabad, Telangana, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159818",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "workable:innovaccer-analytics:536764D921",
+    "company": "Innovaccer",
+    "title": "Apprentice - Total Rewards",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15T00:00:00.000Z",
+    "url": "https://apply.workable.com/innovaccer-analytics/j/536764D921/",
+    "salary": null,
+    "source": "workable"
+  },
+  {
+    "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
+    "company": "Marvell",
+    "title": "Generative AI Forward Deployed Engineer Intern- Master's Degree",
+    "location": "Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "greenhouse:guidepointsecurity:6224196004",
     "company": "GuidePoint Security",
     "title": "Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)",
@@ -12,18 +72,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159740",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "location": "Madurai, Tamil Nadu, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-14",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159740",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
     "id": "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -32,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-14T00:00:00Z",
     "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:centene:/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1",
-    "company": "Centene",
-    "title": "Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027)",
-    "location": "Remote-MO",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-14T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cloud-Security-Incident-Response-Analyst-Intern--Undergraduate---Summer-2027-_1667738-1",
     "salary": null,
     "source": "workday"
   },
@@ -456,18 +492,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
-    "company": "Marvell",
-    "title": "Intern, Software Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-24T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24",
     "company": "Fampay",
     "title": "Security Engineer Intern",
@@ -576,18 +600,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workday:altera:/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
-    "company": "Altera Corporation",
-    "title": "AI Automation Intern",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-18T00:00:00Z",
-    "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
     "company": "Centene",
     "title": "Technology Summer 2027 Intern (Undergraduate)",
@@ -596,6 +608,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:/job/Chennai-India/EIC-Apprentice_R-INDINT-033",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T00:00:00Z",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Chennai-India/EIC-Apprentice_R-INDINT-033",
     "salary": null,
     "source": "workday"
   },
@@ -636,14 +660,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
     "salary": null,
     "source": "workday"
   },
@@ -1174,18 +1198,6 @@
     "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "lever:dnb:f693c763-1076-4d14-97a1-fa4b21e1c360",
-    "company": "Dun & Bradstreet",
-    "title": "Apprentice - Industrial Trainee (R-19685)",
-    "location": "Mumbai - India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-25T11:15:40Z",
-    "url": "https://jobs.lever.co/dnb/f693c763-1076-4d14-97a1-fa4b21e1c360",
-    "salary": null,
-    "source": "lever"
   },
   {
     "id": "greenhouse:galaxydigitalservices:6163325004",

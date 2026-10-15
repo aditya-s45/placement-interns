@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:centene:/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
+    "company": "Centene",
+    "title": "AI Software Developer Intern (Undergraduate - Summer 2027)",
+    "location": "Remote-MO",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:leidos:/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
+    "company": "Leidos",
+    "title": "Performance Enablement AI/ML Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15T00:00:00Z",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:/job/do-not-use-Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0454244",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -118,18 +142,6 @@
     "url": "https://jobs.smartrecruiters.com/carousellgroup/744000155411579",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "workday:alcon:/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
-    "company": "Alcon",
-    "title": "Payroll-Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-14T00:00:00Z",
-    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Payroll-Apprentice_R-2026-50237",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:rollsroyce:/job/Indianapolis/Integrated-Control-Systems-Engineer-Intern--Software-_JR6161452",
@@ -970,18 +982,6 @@
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "company": "ONE Finance",
-    "title": "Software Engineer Intern",
-    "location": "United States (Remote)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T16:55:09.616+00:00",
-    "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "salary": "$32 per hour",
-    "source": "ashby"
   },
   {
     "id": "greenhouse:coinbase:8168315",

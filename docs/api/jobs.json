@@ -1,5 +1,53 @@
 [
   {
+    "id": "workday:alcon:/job/Bangalore-India/FRA-Apprentice_R-2026-46610",
+    "company": "Alcon",
+    "title": "FRA Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/FRA-Apprentice_R-2026-46610",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:/job/Mumbai-India/EIC-Apprentice_R-INDINT-039",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Mumbai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice_R-INDINT-039",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:mmc:/job/Gurugram---Good-Earth/Intern-Technology_R_341489",
+    "company": "Marsh",
+    "title": "Intern Technology",
+    "location": "Gurugram - Good Earth",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/Intern-Technology_R_341489",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
+    "company": "Novartis",
+    "title": "Intern AI & Data Science",
+    "location": "Hyderabad (Office)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "oracle:egug.fa.us2.oraclecloud.com:26014507",
     "company": "American Express",
     "title": "Apprentice",
@@ -8,30 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-16",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014507",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159855",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI Eng",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159855",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159820",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159820",
     "salary": null,
     "source": "oracle"
   },
@@ -82,18 +106,6 @@
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0454244",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159975",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Embedded Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159975",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "workable:innovaccer-analytics:536764D921",
@@ -656,18 +668,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:/job/Chennai-India/EIC-Apprentice_R-INDINT-033",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-16T00:00:00Z",
-    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Chennai-India/EIC-Apprentice_R-INDINT-033",
     "salary": null,
     "source": "workday"
   },

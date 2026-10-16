@@ -1662,6 +1662,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Angel City",
+    "slug": "wfclainc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Angle Health",
     "slug": "anglehealth",
     "ats": "ashby"
@@ -6416,6 +6421,11 @@
     "name": "CommerceIQ",
     "slug": "commerceiq",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Commonwealth Fusion Systems",
+    "slug": "cfsenergy",
+    "ats": "lever"
   },
   {
     "name": "Community Health Systems",
@@ -15663,6 +15673,11 @@
     "ats": "lever"
   },
   {
+    "name": "Luminai",
+    "slug": "luminai",
+    "ats": "ashby"
+  },
+  {
     "name": "Luminance",
     "slug": "luminance-1",
     "ats": "workable"
@@ -21581,6 +21596,11 @@
     "name": "Reputation",
     "slug": "reputation",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Research Innovations",
+    "slug": "researchinnovations",
+    "ats": "lever"
   },
   {
     "name": "Resend",
@@ -28170,6 +28190,11 @@
     "name": "Wicked Ride",
     "slug": "wickedride",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "slug": "wikimedia",
+    "ats": "greenhouse"
   },
   {
     "name": "Wilbur-Ellis",

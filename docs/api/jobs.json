@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
+    "company": "Rochester Regional Health",
+    "title": "RIT Co-op: Security Operations + Security Engineering",
+    "location": "Riedman - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
+    "company": "Rochester Regional Health",
+    "title": "RIT Co-op: Cybersecurity, Governance & Risk",
+    "location": "Riedman - Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:centene:/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
     "company": "Centene",
     "title": "IAM Analyst Intern (Undergraduate - Summer 2027)",
@@ -32,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-16T00:00:00Z",
     "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice_R-INDINT-039",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:mmc:/job/Gurugram---Good-Earth/Intern-Technology_R_341489",
-    "company": "Marsh",
-    "title": "Intern Technology",
-    "location": "Gurugram - Good Earth",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-16T00:00:00Z",
-    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/Intern-Technology_R_341489",
     "salary": null,
     "source": "workday"
   },
@@ -1364,18 +1376,6 @@
     "season": "Summer 2027",
     "posted_at": null,
     "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:ensemblehp:/job/Remote---Nationwide/Data-Scientist--AI_R048077",
-    "company": "Ensemble Health Partners",
-    "title": "Data Scientist Intern",
-    "location": "Remote - Nationwide",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
   },

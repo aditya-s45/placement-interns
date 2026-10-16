@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 23 new this week · 5,177 companies tracked · updated Oct 16, 2026 at 17:59 UTC**
+**0 open roles · 22 new this week · 5,177 companies tracked · updated Oct 16, 2026 at 20:52 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,8 @@ _85 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Ensemble Health Partners | Data Scientist Intern | Summer 2027 | 2026-10-16 |
+| Marsh | Intern Technology | Summer 2027 | 2026-10-16 |
 | Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-16 |
 | Centene | AI Software Developer Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-16 |
 | Itron | Apprentice | Summer 2027 | 2026-10-16 |
@@ -133,8 +135,6 @@ _85 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Wex | Fullstack Software Engineer Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
 | Wex | Software Engineer Intern – AI & Cloud (Graduate/Master’s) | Summer 2027 | 2026-10-13 |
 | Emerson Electric | Metrology Software Engineering Intern | Summer 2027 | 2026-10-13 |
-| Airbus | Internship  AI | Summer 2027 | 2026-10-13 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-13 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,178 companies across 25 ATS platforms · 97% fetch success · completed in 307.8s._
+_Engine (last run): 5,178 companies across 25 ATS platforms · 99% fetch success · completed in 319.4s._
 
 ## Platforms Scraped
 

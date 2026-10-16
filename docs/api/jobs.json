@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:centene:/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
+    "company": "Centene",
+    "title": "IAM Analyst Intern (Undergraduate - Summer 2027)",
+    "location": "Remote-MO",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:alcon:/job/Bangalore-India/FRA-Apprentice_R-2026-46610",
     "company": "Alcon",
     "title": "FRA Apprentice",
@@ -60,6 +72,18 @@
     "source": "oracle"
   },
   {
+    "id": "greenhouse:wikimedia:8268853",
+    "company": "Wikimedia Foundation",
+    "title": "Software Engineering Internship Program (2027)",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15T18:02:45-04:00",
+    "url": "https://job-boards.greenhouse.io/wikimedia/jobs/8268853",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "greenhouse:opensesame:8287886",
     "company": "OpenSesame",
     "title": "Security Analyst Internship",
@@ -70,18 +94,6 @@
     "url": "https://boards.greenhouse.io/opensesame/jobs/8287886?gh_jid=8287886",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:centene:/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
-    "company": "Centene",
-    "title": "AI Software Developer Intern (Undergraduate - Summer 2027)",
-    "location": "Remote-MO",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:leidos:/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
@@ -660,18 +672,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "company": "Centene",
-    "title": "Technology Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-FL",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-18T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:ancestry:/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
     "company": "Ancestry",
     "title": "Data Science - AI Document Understanding, Co-op",
@@ -694,18 +694,6 @@
     "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "workday:itron:/job/India-Bangalore/Apprentice_JR102702-2",
-    "company": "Itron",
-    "title": "Apprentice",
-    "location": "India, Bangalore",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-16T00:00:00Z",
-    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",

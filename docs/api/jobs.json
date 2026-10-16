@@ -1,5 +1,53 @@
 [
   {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26014507",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014507",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159855",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159855",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159820",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Hyderabad, Telangana, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159820",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "greenhouse:opensesame:8287886",
+    "company": "OpenSesame",
+    "title": "Security Analyst Internship",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15T20:38:18-04:00",
+    "url": "https://boards.greenhouse.io/opensesame/jobs/8287886?gh_jid=8287886",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "workday:centene:/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
     "company": "Centene",
     "title": "AI Software Developer Intern (Undergraduate - Summer 2027)",
@@ -34,30 +82,6 @@
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0454244",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159805",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI Eng",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159805",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159818",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159818",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159975",

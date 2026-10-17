@@ -1,13 +1,13 @@
 [
   {
-    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
-    "company": "Rochester Regional Health",
-    "title": "RIT Co-op: Security Operations + Security Engineering",
-    "location": "Riedman - Remote",
-    "category": "Software",
+    "id": "workday:ensemblehp:/job/Remote---Nationwide/Data-Scientist--AI_R048077",
+    "company": "Ensemble Health Partners",
+    "title": "Data Scientist Intern",
+    "location": "Remote - Nationwide",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-10-16T00:00:00Z",
-    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
+    "posted_at": "2026-10-17T00:00:00Z",
+    "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
   },
@@ -20,6 +20,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-16T00:00:00Z",
     "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Cybersecurity--Governance---Risk_REQ_243186-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
+    "company": "Rochester Regional Health",
+    "title": "RIT Co-op: Security Operations + Security Engineering",
+    "location": "Riedman - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
     "salary": null,
     "source": "workday"
   },
@@ -370,18 +382,6 @@
     "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:khanacademy:8250259",
-    "company": "Khan Academy",
-    "title": "Software Engineer Intern (Summer 2027)",
-    "location": "Remote (US + Canada Only)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-05T10:46:40-04:00",
-    "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",

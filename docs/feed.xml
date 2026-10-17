@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-17T17:00:50Z</updated>
+  <updated>2026-10-17T20:28:07Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>SSTPath — Angular Developer - Intern</title>
@@ -42,12 +42,6 @@
     <id>workday:cw:/job/Mumbai-India/EIC-Apprentice_R-INDINT-039</id>
     <updated>2026-10-16T13:13:34Z</updated>
     <summary>Mumbai, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Novartis — Intern AI &amp; Data Science</title>
-    <link href="https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1" rel="alternate"/>
-    <id>workday:novartis:/job/Hyderabad-Office/Intern-AI---Data-Science_REQ-10089924-1</id>
-    <updated>2026-10-16T13:13:34Z</updated>
-    <summary>Hyderabad (Office) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>OpenSesame — Security Analyst Internship</title>
     <link href="https://boards.greenhouse.io/opensesame/jobs/8287886?gh_jid=8287886" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:ancestry:/job/Remote/Machine-Learning-Engineer--Co-op_R003377</id>
     <updated>2026-09-24T21:28:20Z</updated>
     <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Qumulo — Software Development Engineer (Seattle) - Internship 2027</title>
+    <link href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183" rel="alternate"/>
+    <id>ashby:qumulo:43855947-3a85-4d1c-8b8e-e0c0ddcaf183</id>
+    <updated>2026-09-24T16:57:59Z</updated>
+    <summary>Seattle (hybrid) · Software · Summer 2027</summary>
   </entry>
 </feed>

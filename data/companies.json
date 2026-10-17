@@ -297,6 +297,11 @@
     "ats": "lever"
   },
   {
+    "name": "Accellor",
+    "slug": "accellor",
+    "ats": "workable"
+  },
+  {
     "name": "Accelya",
     "slug": "accelya-careers",
     "ats": "smartrecruiters"
@@ -753,6 +758,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "AgZen",
+    "slug": "agzen",
+    "ats": "ashby"
+  },
+  {
     "name": "AHEAD",
     "slug": "thinkahead",
     "ats": "lever"
@@ -927,6 +937,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External"
+  },
+  {
+    "name": "Albert Bartlett",
+    "slug": "albert-bartlett",
+    "ats": "workable"
   },
   {
     "name": "Alberta Blue Cross",
@@ -2479,6 +2494,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "aamc"
+  },
+  {
+    "name": "Assort Health",
+    "slug": "assorthealth",
+    "ats": "ashby"
   },
   {
     "name": "Assurant",
@@ -7232,6 +7252,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "CVector",
+    "slug": "cvector",
+    "ats": "workable"
+  },
+  {
     "name": "Cvent",
     "slug": "team-cvent",
     "ats": "smartrecruiters"
@@ -10607,6 +10632,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "G-20 Group",
+    "slug": "g-20-advisors-ag",
+    "ats": "workable"
+  },
+  {
     "name": "G-Research",
     "slug": "gresearch",
     "ats": "workday",
@@ -10644,6 +10674,11 @@
     "name": "Gainsight",
     "slug": "gainsight",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Galatea Associates",
+    "slug": "galatea-associates",
+    "ats": "lever"
   },
   {
     "name": "Galaxy",
@@ -14409,6 +14444,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External_Career_Site"
+  },
+  {
+    "name": "Keycafe",
+    "slug": "keycafe",
+    "ats": "workable"
   },
   {
     "name": "Keyrock",
@@ -19606,6 +19646,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Pattern",
+    "slug": "pattern",
+    "ats": "lever"
+  },
+  {
     "name": "Pattern Data",
     "slug": "patterndata",
     "ats": "greenhouse"
@@ -22629,6 +22674,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "ScientificGamesExternalCareers"
+  },
+  {
+    "name": "Scientific Systems",
+    "slug": "ssci",
+    "ats": "workable"
   },
   {
     "name": "Sciforium",

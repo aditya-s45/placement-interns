@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 21 new this week · 5,187 companies tracked · updated Oct 17, 2026 at 23:57 UTC**
+**0 open roles · 21 new this week · 5,187 companies tracked · updated Oct 18, 2026 at 04:00 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,9 +79,9 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~45d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~45d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~45d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~44d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~44d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~44d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
@@ -95,6 +95,7 @@ _85 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| LeoLabs | Skillbridge Administrative Operations Apprentice | Summer 2027 | 2026-10-18 |
 | Novartis | Intern AI & Data Science | Summer 2027 | 2026-10-17 |
 | Centene | IAM Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-17 |
 | Khan Academy | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-17 |
@@ -134,7 +135,6 @@ _85 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-10-13 |
 | Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-10-13 |
 | Wex | Backend Software Engineer Intern - Java & AI (Master’s) | Summer 2027 | 2026-10-13 |
-| Wex | Fullstack Software Engineer Intern (Undergraduate) | Summer 2027 | 2026-10-13 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,188 companies across 25 ATS platforms · 99% fetch success · completed in 255.5s._
+_Engine (last run): 5,188 companies across 25 ATS platforms · 99% fetch success · completed in 266.3s._
 
 ## Platforms Scraped
 

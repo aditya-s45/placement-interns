@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-18T17:16:24Z</updated>
+  <updated>2026-10-18T20:27:11Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>SSTPath — Angular Developer - Intern</title>
@@ -30,12 +30,6 @@
     <id>greenhouse:wikimedia:8268853</id>
     <updated>2026-10-16T17:59:41Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Alcon — FRA Apprentice</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/FRA-Apprentice_R-2026-46610" rel="alternate"/>
-    <id>workday:alcon:/job/Bangalore-India/FRA-Apprentice_R-2026-46610</id>
-    <updated>2026-10-16T13:13:34Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Cushman &amp; Wakefield — EIC Apprentice</title>
     <link href="https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice_R-INDINT-039" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>ashby:qumulo:43855947-3a85-4d1c-8b8e-e0c0ddcaf183</id>
     <updated>2026-09-24T16:57:59Z</updated>
     <summary>Seattle (hybrid) · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wurl — Data Science Intern</title>
+    <link href="https://job-boards.greenhouse.io/wurljobs/jobs/4716249006" rel="alternate"/>
+    <id>greenhouse:wurljobs:4716249006</id>
+    <updated>2026-09-24T16:57:59Z</updated>
+    <summary>Remote - United States · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

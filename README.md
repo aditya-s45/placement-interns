@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 23 new this week · 5,188 companies tracked · updated Oct 19, 2026 at 07:38 UTC**
+**0 open roles · 27 new this week · 5,188 companies tracked · updated Oct 19, 2026 at 15:30 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,12 +95,14 @@ _85 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Wabash Valley Power Alliance | Technology & Compliance Internship - Summer 2027 | Summer 2027 | 2026-10-19 |
+| Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
+| Airbus | Intern - Software Developer (Python, Full stack) | Summer 2027 | 2026-10-19 |
 | American Express | Apprentice | Summer 2027 | 2026-10-19 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-19 |
 | Alcon | FRA Apprentice | Summer 2027 | 2026-10-18 |
 | LeoLabs | Skillbridge Administrative Operations Apprentice | Summer 2027 | 2026-10-18 |
 | Novartis | Intern AI & Data Science | Summer 2027 | 2026-10-17 |
-| Centene | IAM Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-17 |
 | Khan Academy | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-17 |
 | Marsh | Intern Technology | Summer 2027 | 2026-10-16 |
 | Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-16 |
@@ -133,8 +135,6 @@ _85 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Summer 2027 | 2026-10-14 |
 | Qualified Health | Clinical AI Evaluation Intern | Summer 2027 | 2026-10-14 |
 | Airbus | Internship - DCC AI and Automation | Summer 2027 | 2026-10-14 |
-| Rochester Regional Health | RIT Co-op: Information Systems & Technology | Summer 2027 | 2026-10-13 |
-| State Street | Apprentice | Summer 2027 | 2026-10-13 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,189 companies across 25 ATS platforms · 94% fetch success · completed in 353.1s._
+_Engine (last run): 5,189 companies across 25 ATS platforms · 99% fetch success · completed in 287.4s._
 
 ## Platforms Scraped
 

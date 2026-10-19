@@ -1,25 +1,49 @@
 [
   {
-    "id": "workday:ag:/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650",
-    "company": "Airbus",
-    "title": "Intern - Software Developer (Python, Full stack)",
-    "location": "Bangalore Area",
-    "category": "Software",
+    "id": "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
+    "company": "Autodesk",
+    "title": "Intern, Research - Context and Knowledge Systems for AI",
+    "location": "United Kingdom - Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-10-19T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
     "salary": null,
     "source": "workday"
   },
   {
-    "id": "workday:ag:/job/Bangalore-Area/Data-Science-Intern_JR10449781",
-    "company": "Airbus",
-    "title": "Data Science Intern",
-    "location": "Bangalore Area",
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159854",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-19",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "workday:mmc:/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556",
+    "company": "Marsh",
+    "title": "AI Engineer Intern",
+    "location": "Gurugram - Good Earth",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "2026-10-19T00:00:00Z",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Science-Intern_JR10449781",
+    "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:rrhs:/job/Riedman---Remote/RIT-Co-op_REQ_244351-1",
+    "company": "Rochester Regional Health",
+    "title": "RIT Co-op: Security Engineering",
+    "location": "Riedman - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-19T00:00:00Z",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op_REQ_244351-1",
     "salary": null,
     "source": "workday"
   },
@@ -80,6 +104,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-16T00:00:00Z",
     "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Security-Operations---Security-Engineering_REQ_243190",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:centene:/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
+    "company": "Centene",
+    "title": "IAM Analyst Intern (Undergraduate - Summer 2027)",
+    "location": "Remote-MO",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-16T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
     "salary": null,
     "source": "workday"
   },
@@ -648,6 +684,18 @@
     "source": "greenhouse"
   },
   {
+    "id": "lever:hevodata:993a3ed3-3014-432f-b0f4-28d300d58d9a",
+    "company": "Hevodata",
+    "title": "Associate Software Development Engineer (SDE) Intern",
+    "location": "Bangalore, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-21T08:05:56Z",
+    "url": "https://jobs.lever.co/hevodata/993a3ed3-3014-432f-b0f4-28d300d58d9a",
+    "salary": null,
+    "source": "lever"
+  },
+  {
     "id": "ashby:qumulo:43855947-3a85-4d1c-8b8e-e0c0ddcaf183",
     "company": "Qumulo",
     "title": "Software Development Engineer (Seattle) - Internship 2027",
@@ -694,18 +742,6 @@
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "smartrecruiters:WabashValleyPowerAlliance:744000149875759",
-    "company": "Wabash Valley Power Alliance",
-    "title": "Technology & Compliance Internship - Summer 2027",
-    "location": "Indianapolis, IN, United States",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-16T13:48:59.686Z",
-    "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",

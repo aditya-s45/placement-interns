@@ -1,5 +1,53 @@
 [
   {
+    "id": "workday:ag:/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650",
+    "company": "Airbus",
+    "title": "Intern - Software Developer (Python, Full stack)",
+    "location": "Bangalore Area",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-19T00:00:00Z",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Software-Developer--Python--Full-stack-_JR10448650",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:ag:/job/Bangalore-Area/Data-Science-Intern_JR10449781",
+    "company": "Airbus",
+    "title": "Data Science Intern",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-19T00:00:00Z",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Data-Science-Intern_JR10449781",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26014753",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-19",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014753",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "workday:slihrms:/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
+    "company": "AtkinsRéalis",
+    "title": "Data Science Intern",
+    "location": "AtkinsRéalis - Corporate Office Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-19T00:00:00Z",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:ensemblehp:/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "company": "Ensemble Health Partners",
     "title": "Data Scientist Intern",
@@ -46,18 +94,6 @@
     "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice_R-INDINT-039",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:egug.fa.us2.oraclecloud.com:26014507",
-    "company": "American Express",
-    "title": "Apprentice",
-    "location": "Gurugram, HR, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-16",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014507",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "greenhouse:wikimedia:8268853",
@@ -816,18 +852,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
-    "company": "Deutsche Bank",
-    "title": "HR Apprentice",
-    "location": "(do not use) Bangalore, Velankani Tech Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "greenhouse:tanium:8181017",
     "company": "Tanium",
     "title": "Software Engineering Intern – Summer 2027",
@@ -1066,18 +1090,6 @@
     "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:rubrik:8166537",
-    "company": "Rubrik",
-    "title": "Software Engineer (CPD) - Winter Intern",
-    "location": "Bangalore",
-    "category": "Software",
-    "season": "Term Unconfirmed",
-    "posted_at": "2026-09-06T08:47:22-04:00",
-    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:cw:/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",

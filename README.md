@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 20 new this week · 5,188 companies tracked · updated Oct 18, 2026 at 20:27 UTC**
+**0 open roles · 20 new this week · 5,188 companies tracked · updated Oct 19, 2026 at 00:07 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,9 +79,9 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~44d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~44d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~44d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~43d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~43d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~43d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,189 companies across 25 ATS platforms · 99% fetch success · completed in 247.4s._
+_Engine (last run): 5,189 companies across 25 ATS platforms · 99% fetch success · completed in 288.4s._
 
 ## Platforms Scraped
 

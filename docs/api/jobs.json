@@ -1,5 +1,65 @@
 [
   {
+    "id": "workday:centene:/job/Remote-MO/Business-Analyst-Undergraduate-Summer-Intern_1667765",
+    "company": "Centene",
+    "title": "Business Analyst Undergraduate Summer Intern",
+    "location": "Remote-MO",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-20T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Analyst-Undergraduate-Summer-Intern_1667765",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:liberty:/job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0013197",
+    "company": "Liberty University",
+    "title": "Quality Analyst Engineer Apprentice",
+    "location": "Remote Location",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-20T00:00:00Z",
+    "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0013197",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:/job/Hyderabad-India/Apprentice_R-799933",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-20T00:00:00Z",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Apprentice_R-799933",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:liberty:/job/Hybrid/ADS-Apprentice_R0010936-1",
+    "company": "Liberty University",
+    "title": "ADS Apprentice",
+    "location": "Hybrid",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-20T00:00:00Z",
+    "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "greenhouse:insomniac:6226611004",
+    "company": "Insomniac Games",
+    "title": "Gameplay Programming Intern - Undergraduate",
+    "location": "United States, Burbank, CA; United States, Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-19T18:13:09-04:00",
+    "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226611004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "ashby:amplify:855d22a3-f15e-49f6-854c-29e505653efa",
     "company": "Amplify",
     "title": "Summer 2027: Software Engineering Intern",
@@ -708,14 +768,14 @@
     "source": "greenhouse"
   },
   {
-    "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "id": "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
     "company": "Centene",
-    "title": "Technology Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-FL",
+    "title": "Cybersecurity Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-MO",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-09-18T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
     "salary": null,
     "source": "workday"
   },
@@ -1364,18 +1424,6 @@
     "season": "Summer 2027",
     "posted_at": null,
     "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:liberty:/job/Hybrid/ADS-Apprentice_R0010936-1",
-    "company": "Liberty University",
-    "title": "ADS Apprentice",
-    "location": "Hybrid",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": null,
-    "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1",
     "salary": null,
     "source": "workday"
   },

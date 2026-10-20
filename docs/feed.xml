@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-20T07:24:53Z</updated>
+  <updated>2026-10-20T13:34:58Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Amplify — Summer 2027: Software Engineering Intern</title>
@@ -24,12 +24,6 @@
     <id>lever:hevodata:993a3ed3-3014-432f-b0f4-28d300d58d9a</id>
     <updated>2026-10-19T15:30:04Z</updated>
     <summary>Bangalore, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:159854</id>
-    <updated>2026-10-19T15:30:04Z</updated>
-    <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Autodesk — Intern, Research - Context and Knowledge Systems for AI</title>
     <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1" rel="alternate"/>
@@ -241,12 +235,6 @@
     <updated>2026-10-05T14:14:10Z</updated>
     <summary>Gurgaon, India; Pune, India · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Baxter International — Apprentice, Trainee -Instructional Design &amp; E-Learning Development</title>
-    <link href="https://baxter.wd1.myworkdayjobs.com/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286" rel="alternate"/>
-    <id>workday:baxter:/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286</id>
-    <updated>2026-10-05T14:14:10Z</updated>
-    <summary>Gurgaon, Haryana · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>AlgoUniversity — Teaching &amp; Software Engineering Intern</title>
     <link href="https://www.instahyre.com/job-444755-teaching-software-engineering-intern-internship-at-algouniversity-2-bangalore/" rel="alternate"/>
     <id>instahyre:algouniversity:444755</id>
@@ -306,5 +294,17 @@
     <id>greenhouse:acluinternships:8843314002</id>
     <updated>2026-09-28T20:34:51Z</updated>
     <summary>Remote/Hybrid-New York York, NY · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Acxiom — Intern - Commercial Financial Analyst</title>
+    <link href="https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519" rel="alternate"/>
+    <id>workday:acxiomllc:/job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519</id>
+    <updated>2026-09-28T20:34:51Z</updated>
+    <summary>Remote/Homebased · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Fortrea — Apprentice - Employer Branding</title>
+    <link href="https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Bangalore/Apprentice---Employer-Branding_264572" rel="alternate"/>
+    <id>workday:fortrea:/job/Bangalore/Apprentice---Employer-Branding_264572</id>
+    <updated>2026-09-28T20:34:51Z</updated>
+    <summary>Bangalore · Other · Summer 2027</summary>
   </entry>
 </feed>

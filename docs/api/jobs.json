@@ -24,18 +24,6 @@
     "source": "ashby"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159854",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-19",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159854",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
     "id": "workday:autodesk:/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-1",
     "company": "Autodesk",
     "title": "Intern, Research - Context and Knowledge Systems for AI",
@@ -428,18 +416,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-05T00:00:00Z",
     "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-05T00:00:00Z",
-    "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
     "salary": null,
     "source": "workday"
   },

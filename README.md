@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 29 new this week · 5,190 companies tracked · updated Oct 20, 2026 at 01:06 UTC**
+**0 open roles · 26 new this week · 5,190 companies tracked · updated Oct 20, 2026 at 07:24 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,8 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Rochester Regional Health | RIT Co-op: Cybersecurity, Governance & Risk | Summer 2027 | 2026-10-20 |
+| Rochester Regional Health | RIT Co-op: Security Operations + Security Engineering | Summer 2027 | 2026-10-20 |
 | Tower Research Capital | Intern - AI/ML | Summer 2027 | 2026-10-20 |
 | Wabash Valley Power Alliance | Technology & Compliance Internship - Summer 2027 | Summer 2027 | 2026-10-19 |
 | Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
@@ -133,8 +135,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-14 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-14 |
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Summer 2027 | 2026-10-14 |
-| Qualified Health | Clinical AI Evaluation Intern | Summer 2027 | 2026-10-14 |
-| Airbus | Internship - DCC AI and Automation | Summer 2027 | 2026-10-14 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,191 companies across 25 ATS platforms · 99% fetch success · completed in 399.8s._
+_Engine (last run): 5,191 companies across 25 ATS platforms · 99% fetch success · completed in 232.7s._
 
 ## Platforms Scraped
 

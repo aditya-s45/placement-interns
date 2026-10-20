@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 29 new this week · 5,190 companies tracked · updated Oct 19, 2026 at 21:02 UTC**
+**0 open roles · 29 new this week · 5,190 companies tracked · updated Oct 20, 2026 at 01:06 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,9 +79,9 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~43d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~43d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~43d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~42d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~42d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~42d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
@@ -95,6 +95,7 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Tower Research Capital | Intern - AI/ML | Summer 2027 | 2026-10-20 |
 | Wabash Valley Power Alliance | Technology & Compliance Internship - Summer 2027 | Summer 2027 | 2026-10-19 |
 | Airbus | Data Science Intern | Summer 2027 | 2026-10-19 |
 | Airbus | Intern - Software Developer (Python, Full stack) | Summer 2027 | 2026-10-19 |
@@ -134,7 +135,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Qualified Health | Medical Scribe Intern, Clinical AI Safety & Evaluation | Summer 2027 | 2026-10-14 |
 | Qualified Health | Clinical AI Evaluation Intern | Summer 2027 | 2026-10-14 |
 | Airbus | Internship - DCC AI and Automation | Summer 2027 | 2026-10-14 |
-| Rochester Regional Health | RIT Co-op: Information Systems & Technology | Summer 2027 | 2026-10-13 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,191 companies across 25 ATS platforms · 96% fetch success · completed in 363.2s._
+_Engine (last run): 5,191 companies across 25 ATS platforms · 99% fetch success · completed in 399.8s._
 
 ## Platforms Scraped
 

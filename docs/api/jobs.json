@@ -1,5 +1,29 @@
 [
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159858",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Embedded Eng",
+    "location": "Hyderabad, Telangana, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-21",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "ashby:julius:8e228c39-4a79-4202-bdbf-dddb703693cc",
+    "company": "Julius AI",
+    "title": "Investment Banking - AI Research (MBA Intern)",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-21T06:00:51.566+00:00",
+    "url": "https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc",
+    "salary": "$2K – $12K per week • Offers Bonus",
+    "source": "ashby"
+  },
+  {
     "id": "lever:dnb:a61b6368-4c4f-4e1b-b125-d0d7ba7f8278",
     "company": "Dun & Bradstreet",
     "title": "Apprentice (R-20025)",
@@ -22,18 +46,6 @@
     "url": "https://jobs.lever.co/dnb/fa0a5dc9-1217-4e73-978e-aa503a00ca4b",
     "salary": null,
     "source": "lever"
-  },
-  {
-    "id": "ashby:julius:8e228c39-4a79-4202-bdbf-dddb703693cc",
-    "company": "Julius AI",
-    "title": "Investment Banking - AI Research (MBA Intern)",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-21T06:00:51.566+00:00",
-    "url": "https://jobs.ashbyhq.com/julius/8e228c39-4a79-4202-bdbf-dddb703693cc",
-    "salary": "$2K – $12K per week • Offers Bonus",
-    "source": "ashby"
   },
   {
     "id": "workday:revvity:/job/Mumbai/AI-Applications-DevOps-Intern_JR-045766",
@@ -68,6 +80,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-20T00:00:00Z",
     "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0013197",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:liberty:/job/Hybrid/ADS-Apprentice_R0010936-1",
+    "company": "Liberty University",
+    "title": "ADS Apprentice",
+    "location": "Hybrid",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-20T00:00:00Z",
+    "url": "https://liberty.wd5.myworkdayjobs.com/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1",
     "salary": null,
     "source": "workday"
   },
@@ -120,18 +144,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:centene:/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
-    "company": "Centene",
-    "title": "IAM Analyst Intern (Undergraduate - Summer 2027)",
-    "location": "Remote-MO",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-16T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/IAM-Analyst-Intern--Undergraduate---Summer-2027-_1667747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cw:/job/Mumbai-India/EIC-Apprentice_R-INDINT-039",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice",
@@ -142,6 +154,18 @@
     "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice_R-INDINT-039",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:thoughtworksreferral:8284263",
+    "company": "Thoughtworks",
+    "title": "Business Analyst Intern",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-15T02:44:45-04:00",
+    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8284263",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "greenhouse:wikimedia:8268853",
@@ -730,6 +754,18 @@
     "url": "https://careers.upstart.com/jobs?gh_jid=8213476",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "company": "Centene",
+    "title": "Technology Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-FL",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-18T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 22 new this week · 5,195 companies tracked · updated Oct 21, 2026 at 11:37 UTC**
+**0 open roles · 22 new this week · 5,202 companies tracked · updated Oct 21, 2026 at 17:01 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,16 +95,15 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Centene | IAM Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-21 |
 | American Express | Apprentice | Summer 2027 | 2026-10-21 |
 | AtkinsRéalis | Data Science Intern | Summer 2027 | 2026-10-21 |
 | State Street | Apprentice | Summer 2027 | 2026-10-21 |
 | Autodesk | Intern, Research - Context and Knowledge Systems for AI | Summer 2027 | 2026-10-20 |
 | Centene | Business Analyst Undergraduate Summer Intern | Summer 2027 | 2026-10-20 |
 | GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-10-20 |
-| Liberty University | ADS Apprentice | Summer 2027 | 2026-10-20 |
 | Marsh | AI Engineer Intern | Summer 2027 | 2026-10-20 |
 | Rochester Regional Health | RIT Co-op: Security Engineering | Summer 2027 | 2026-10-20 |
-| Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-20 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-20 |
 | Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-20 |
 | Rochester Regional Health | RIT Co-op: Cybersecurity, Governance & Risk | Summer 2027 | 2026-10-20 |
@@ -135,6 +134,7 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Altera Corporation | AI Automation Intern | Summer 2027 | 2026-10-15 |
 | Centene | Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-15 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-15 |
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,196 companies across 25 ATS platforms · 98% fetch success · completed in 431.7s._
+_Engine (last run): 5,203 companies across 25 ATS platforms · 99% fetch success · completed in 293.5s._
 
 ## Platforms Scraped
 

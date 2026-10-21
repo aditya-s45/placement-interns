@@ -5995,6 +5995,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "ats": "ashby"
+  },
+  {
     "name": "ClickUp",
     "slug": "clickup",
     "ats": "ashby"
@@ -6451,6 +6456,11 @@
     "name": "CommerceIQ",
     "slug": "commerceiq",
     "ats": "greenhouse"
+  },
+  {
+    "name": "CommonAI C.I.C.",
+    "slug": "commonai",
+    "ats": "workable"
   },
   {
     "name": "Commonwealth Fusion Systems",
@@ -10617,6 +10627,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Funnel Leasing",
+    "slug": "funnel-leasing",
+    "ats": "workable"
+  },
+  {
     "name": "Further",
     "slug": "furtherearlycareer",
     "ats": "greenhouse"
@@ -13576,6 +13591,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "IAScareers"
+  },
+  {
+    "name": "Integrate",
+    "slug": "integrate",
+    "ats": "ashby"
   },
   {
     "name": "Integrated Resources",
@@ -16729,6 +16749,11 @@
     "name": "Meta",
     "slug": "meta",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Metamorphic",
+    "slug": "metamorphic",
+    "ats": "ashby"
   },
   {
     "name": "Metaview",
@@ -21469,6 +21494,11 @@
     "site": "redfin_careers"
   },
   {
+    "name": "Redgate",
+    "slug": "red-gate",
+    "ats": "ashby"
+  },
+  {
     "name": "Redhorse",
     "slug": "redhorsecorp",
     "ats": "lever"
@@ -24336,6 +24366,11 @@
     "name": "STCU",
     "slug": "STCU1",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Steel",
+    "slug": "steel",
+    "ats": "ashby"
   },
   {
     "name": "SteelEye",

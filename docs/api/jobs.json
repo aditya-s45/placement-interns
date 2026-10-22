@@ -1,5 +1,41 @@
 [
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-22",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159821",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-22",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160479",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-22",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "workday:marvell:/job/Bangalore/Intern--Software-QA-Engineer-Bachelor-s-Degree_2604245",
     "company": "Marvell",
     "title": "Intern, Software QA Engineer Bachelor's Degree",
@@ -34,18 +70,6 @@
     "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159858",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Embedded Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-21",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159858",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "ashby:julius:8e228c39-4a79-4202-bdbf-dddb703693cc",
@@ -192,18 +216,6 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:thoughtworksreferral:8284263",
-    "company": "Thoughtworks",
-    "title": "Business Analyst Intern",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15T02:44:45-04:00",
-    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8284263",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "greenhouse:wikimedia:8268853",
     "company": "Wikimedia Foundation",
     "title": "Software Engineering Internship Program (2027)",
@@ -236,18 +248,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-15T00:00:00Z",
     "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:/job/do-not-use-Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0454244",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "(do not use) Mumbai Nirlon Knowledge Pk B1",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15T00:00:00Z",
-    "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0454244",
     "salary": null,
     "source": "workday"
   },
@@ -356,18 +356,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-13T00:00:00Z",
     "url": "https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/EIC-Apprentice---Project-Development-Services--Mumbai_R340094",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R66620",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-13T00:00:00Z",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R66620",
     "salary": null,
     "source": "workday"
   },
@@ -492,6 +480,30 @@
     "source": "workday"
   },
   {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26014635",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-06",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "New Delhi, Delhi, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-06T00:00:00Z",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
     "company": "Mitel Networks",
     "title": "R&D Intern (student) - iOS development",
@@ -586,18 +598,6 @@
     "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015755665",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "greenhouse:thoughtworks:8236673",
-    "company": "Thoughtworks",
-    "title": "Software Procurement Intern",
-    "location": "Gurgaon, India; Pune, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-28T07:40:19-04:00",
-    "url": "https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "greenhouse:acluinternships:8843314002",

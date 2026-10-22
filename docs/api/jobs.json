@@ -1,15 +1,39 @@
 [
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
+    "id": "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
+    "company": "Allstate Insurance Company",
+    "title": "Arity - Software Engineer Intern",
+    "location": "USA - NC (Remote)",
+    "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "2026-10-22",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
+    "posted_at": "2026-10-22T00:00:00Z",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
     "salary": null,
-    "source": "oracle"
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+    "company": "Marvell",
+    "title": "Software Validation Intern - Master's Degree",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-22T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",
+    "company": "Marvell",
+    "title": "Software Engineer Intern - Master's Degree",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-22T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Engineer-Intern---Master-s-Degree_2603868",
+    "salary": null,
+    "source": "workday"
   },
   {
     "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159821",
@@ -20,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-22",
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-22",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
     "salary": null,
     "source": "oracle"
   },
@@ -274,18 +310,6 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:guidepointsecurity:6224196004",
-    "company": "GuidePoint Security",
-    "title": "Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-14T17:22:54-04:00",
-    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
@@ -790,18 +814,6 @@
     "url": "https://careers.upstart.com/jobs?gh_jid=8213476",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workday:centene:/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "company": "Centene",
-    "title": "Technology Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-FL",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-18T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",

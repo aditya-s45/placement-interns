@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 24 new this week · 5,208 companies tracked · updated Oct 22, 2026 at 18:32 UTC**
+**0 open roles · 24 new this week · 5,208 companies tracked · updated Oct 22, 2026 at 23:19 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,10 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Coinbase | Software Engineer Intern | Summer 2027 | 2026-10-22 |
+| American Express | Apprentice | Summer 2027 | 2026-10-22 |
+| Deutsche Bank | Apprentice Role for Non-Technology hiring, NCT | Summer 2027 | 2026-10-22 |
+| Marvell | Intern, Software QA Engineer Bachelor's Degree | Summer 2027 | 2026-10-22 |
 | GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Summer 2027 | 2026-10-22 |
 | Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-22 |
 | Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-22 |
@@ -102,7 +106,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-22 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-22 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-22 |
-| Coinbase | Software Engineer Intern | Summer 2027 | 2026-10-22 |
 | Centene | IAM Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-21 |
 | American Express | Apprentice | Summer 2027 | 2026-10-21 |
 | AtkinsRéalis | Data Science Intern | Summer 2027 | 2026-10-21 |
@@ -132,9 +135,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-16 |
 | Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-16 |
 | Honeywell | Intern Bachelors Embedded Eng | Summer 2027 | 2026-10-16 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-16 |
-| Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-16 |
-| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-16 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,209 companies across 25 ATS platforms · 99% fetch success · completed in 324.2s._
+_Engine (last run): 5,209 companies across 25 ATS platforms · 96% fetch success · completed in 372.8s._
 
 ## Platforms Scraped
 

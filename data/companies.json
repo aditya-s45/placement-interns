@@ -524,6 +524,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Adler & Allan",
+    "slug": "AdlerAllan1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Adobe",
     "slug": "adobe",
     "ats": "workday",
@@ -4495,6 +4500,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "search"
+  },
+  {
+    "name": "Brunswick Group",
+    "slug": "brunswickgroup",
+    "ats": "greenhouse"
   },
   {
     "name": "Bt Group",
@@ -8499,6 +8509,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "EDF Energy",
+    "slug": "EDF-UK",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "EDFT",
     "slug": "edftrading",
     "ats": "workday",
@@ -9507,6 +9522,11 @@
     "name": "Face Reality",
     "slug": "facereality",
     "ats": "rippling"
+  },
+  {
+    "name": "Facilities Management Express",
+    "slug": "fmx",
+    "ats": "workable"
   },
   {
     "name": "FactSet",
@@ -16751,6 +16771,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Metalenz",
+    "slug": "metalenz",
+    "ats": "ashby"
+  },
+  {
     "name": "Metamorphic",
     "slug": "metamorphic",
     "ats": "ashby"
@@ -19082,6 +19107,11 @@
   {
     "name": "OpenAI",
     "slug": "openai",
+    "ats": "ashby"
+  },
+  {
+    "name": "OpenArt AI",
+    "slug": "openart",
     "ats": "ashby"
   },
   {

@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 21 new this week · 5,202 companies tracked · updated Oct 22, 2026 at 00:36 UTC**
+**0 open roles · 23 new this week · 5,202 companies tracked · updated Oct 22, 2026 at 07:31 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,6 +95,7 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Coinbase | Software Engineer Intern | Summer 2027 | 2026-10-22 |
 | Centene | IAM Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-21 |
 | American Express | Apprentice | Summer 2027 | 2026-10-21 |
 | AtkinsRéalis | Data Science Intern | Summer 2027 | 2026-10-21 |
@@ -134,7 +135,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Altera Corporation | AI Automation Intern | Summer 2027 | 2026-10-15 |
 | Centene | Cloud Security Incident Response Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-15 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-15 |
-| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-15 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,203 companies across 25 ATS platforms · 99% fetch success · completed in 315.5s._
+_Engine (last run): 5,203 companies across 25 ATS platforms · 97% fetch success · completed in 543.5s._
 
 ## Platforms Scraped
 

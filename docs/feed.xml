@@ -4,9 +4,15 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-23T17:04:31Z</updated>
+  <updated>2026-10-23T21:20:45Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Pearson — Apprentice, Portfolio Management</title>
+    <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26049" rel="alternate"/>
+    <id>oracle:hccz.fa.em3.oraclecloud.com:26049</id>
+    <updated>2026-10-23T21:20:45Z</updated>
+    <summary>Bangalore, Karnataka, India · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Allstate Insurance Company — L&amp;H Actuarial Analyst Intern</title>
     <link href="https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---WI-Remote/L-H-Actuarial-Analyst-Intern_R36407" rel="alternate"/>
     <id>workday:allstate:/job/USA---WI-Remote/L-H-Actuarial-Analyst-Intern_R36407</id>
@@ -36,12 +42,6 @@
     <id>workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250</id>
     <updated>2026-10-23T11:31:41Z</updated>
     <summary>Hyderabad · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Philips — Apprentice Trainee (Software Developer Level 1)</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732" rel="alternate"/>
-    <id>workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
-    <updated>2026-10-23T11:31:41Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Valeo — AI - Intern</title>
     <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851" rel="alternate"/>
@@ -90,18 +90,6 @@
     <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160473</id>
     <updated>2026-10-22T13:43:12Z</updated>
     <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors Software Eng</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160479</id>
-    <updated>2026-10-22T13:43:12Z</updated>
-    <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Coinbase — Software Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873" rel="alternate"/>
-    <id>greenhouse:coinbase:8175873</id>
-    <updated>2026-10-22T07:31:31Z</updated>
-    <summary>Hybrid - Singapore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Walrus — Full Stack Developer Intern</title>
     <link href="https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5" rel="alternate"/>
@@ -211,6 +199,12 @@
     <updated>2026-10-15T11:15:58Z</updated>
     <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
+    <title>GuidePoint Security — Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</title>
+    <link href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004" rel="alternate"/>
+    <id>greenhouse:guidepointsecurity:6224196004</id>
+    <updated>2026-10-14T23:09:53Z</updated>
+    <summary>Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Astreya — AI Infrastructure DC Design Intern</title>
     <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931" rel="alternate"/>
     <id>workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931</id>
@@ -306,5 +300,11 @@
     <id>greenhouse:solutions:4711210006</id>
     <updated>2026-10-06T19:30:14Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
+    <link href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685" rel="alternate"/>
+    <id>workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685</id>
+    <updated>2026-10-06T13:15:12Z</updated>
+    <summary>New Delhi, Delhi, India · Other · Summer 2027</summary>
   </entry>
 </feed>

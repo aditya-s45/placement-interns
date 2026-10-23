@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 29 new this week · 5,224 companies tracked · updated Oct 23, 2026 at 17:04 UTC**
+**0 open roles · 26 new this week · 5,224 companies tracked · updated Oct 23, 2026 at 21:20 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,8 +95,10 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Lean TECHniques | Software Engineer Intern - Hybrid | Summer 2027 | 2026-10-23 |
 | Coinbase | Software Engineer Intern | Summer 2027 | 2026-10-23 |
+| Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-23 |
+| Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-23 |
+| Lean TECHniques | Software Engineer Intern - Hybrid | Summer 2027 | 2026-10-23 |
 | Acxiom | Intern - Commercial Financial Analyst | Summer 2027 | 2026-10-23 |
 | Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-23 |
 | Honeywell | Intern Bachelors AI Eng | Summer 2027 | 2026-10-23 |
@@ -104,7 +106,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | American Express | Apprentice | Summer 2027 | 2026-10-22 |
 | Deutsche Bank | Apprentice Role for Non-Technology hiring, NCT | Summer 2027 | 2026-10-22 |
 | Marvell | Intern, Software QA Engineer Bachelor's Degree | Summer 2027 | 2026-10-22 |
-| GuidePoint Security | Cybersecurity Presales Intern - GPSU/Heartland (Tulsa) | Summer 2027 | 2026-10-22 |
 | Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-22 |
 | Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-22 |
 | Thoughtworks | Business Analyst Intern | Summer 2027 | 2026-10-22 |
@@ -134,7 +135,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | LeoLabs | Skillbridge Administrative Operations Apprentice | Summer 2027 | 2026-10-18 |
 | Novartis | Intern AI & Data Science | Summer 2027 | 2026-10-17 |
 | Khan Academy | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-17 |
-| Marsh | Intern Technology | Summer 2027 | 2026-10-16 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,225 companies across 25 ATS platforms · 99% fetch success · completed in 334.3s._
+_Engine (last run): 5,225 companies across 25 ATS platforms · 98% fetch success · completed in 406.1s._
 
 ## Platforms Scraped
 

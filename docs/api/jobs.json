@@ -1,5 +1,17 @@
 [
   {
+    "id": "oracle:hccz.fa.em3.oraclecloud.com:26049",
+    "company": "Pearson",
+    "title": "Apprentice, Portfolio Management",
+    "location": "Bangalore, Karnataka, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23",
+    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26049",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "workday:allstate:/job/USA---WI-Remote/L-H-Actuarial-Analyst-Intern_R36407",
     "company": "Allstate Insurance Company",
     "title": "L&H Actuarial Analyst Intern",
@@ -56,18 +68,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-23T00:00:00Z",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
-    "company": "Philips",
-    "title": "Apprentice Trainee (Software Developer Level 1)",
-    "location": "Bangalore",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-23T00:00:00Z",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
     "salary": null,
     "source": "workday"
   },
@@ -166,30 +166,6 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473",
     "salary": null,
     "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160479",
-    "company": "Honeywell",
-    "title": "Intern Bachelors Software Eng",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-22",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "greenhouse:coinbase:8175873",
-    "company": "Coinbase",
-    "title": "Software Engineer Intern",
-    "location": "Hybrid - Singapore",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-21T23:19:03-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
@@ -406,6 +382,18 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6224196004",
+    "company": "GuidePoint Security",
+    "title": "Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-14T17:22:54-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931",
@@ -1162,6 +1150,18 @@
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:coinbase:8168315",
+    "company": "Coinbase",
+    "title": "Software Engineer Intern",
+    "location": "Hybrid - San Francisco, CA",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T18:12:20-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "greenhouse:coinbase:8175441",

@@ -1,5 +1,65 @@
 [
   {
+    "id": "workday:cw:/job/Gurgaon-India/EIC-Apprentice---Valuations-and-Advisory-Gurugram_R327452",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Gurugram",
+    "location": "Gurgaon, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Apprentice---Valuations-and-Advisory-Gurugram_R327452",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer - Bachelor's Degree",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer - Bachelor's Degree",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:philips:/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
+    "company": "Philips",
+    "title": "Apprentice Trainee (Software Developer Level 1)",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:valeo:/job/Chennai/AI---Intern_REQ2026080851",
+    "company": "Valeo",
+    "title": "AI - Intern",
+    "location": "Chennai",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/AI---Intern_REQ2026080851",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "greenhouse:opensesame:8313424",
     "company": "OpenSesame",
     "title": "AI Product Builder Intern",
@@ -72,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:159821",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI Eng",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-22",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159821",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
     "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160473",
     "company": "Honeywell",
     "title": "Intern Bachelors AI",
@@ -106,18 +154,6 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
     "salary": null,
     "source": "oracle"
-  },
-  {
-    "id": "greenhouse:coinbase:8175873",
-    "company": "Coinbase",
-    "title": "Software Engineer Intern",
-    "location": "Hybrid - Singapore",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-21T23:19:03-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
@@ -708,6 +744,18 @@
     "source": "greenhouse"
   },
   {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603879",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-24T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24",
     "company": "Fampay",
     "title": "Security Engineer Intern",
@@ -848,18 +896,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-16T00:00:00Z",
     "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2604241",
-    "company": "Marvell",
-    "title": "Intern, Software Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-15T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2604241",
     "salary": null,
     "source": "workday"
   },
@@ -1126,6 +1162,18 @@
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:coinbase:8168315",
+    "company": "Coinbase",
+    "title": "Software Engineer Intern",
+    "location": "Hybrid - San Francisco, CA",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T18:12:20-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "greenhouse:coinbase:8175441",

@@ -1,5 +1,17 @@
 [
   {
+    "id": "greenhouse:opensesame:8313424",
+    "company": "OpenSesame",
+    "title": "AI Product Builder Intern",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-22T15:32:21-04:00",
+    "url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "workday:allstate:/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
     "company": "Allstate Insurance Company",
     "title": "Arity - Data Analytics Engineer Intern",
@@ -22,18 +34,6 @@
     "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:opensesame:8313424",
-    "company": "OpenSesame",
-    "title": "AI Product Builder Intern",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-22T15:32:21-04:00",
-    "url": "https://boards.greenhouse.io/opensesame/jobs/8313424?gh_jid=8313424",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
@@ -106,6 +106,18 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
     "salary": null,
     "source": "oracle"
+  },
+  {
+    "id": "greenhouse:coinbase:8175873",
+    "company": "Coinbase",
+    "title": "Software Engineer Intern",
+    "location": "Hybrid - Singapore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-21T23:19:03-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
@@ -1114,18 +1126,6 @@
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:coinbase:8168315",
-    "company": "Coinbase",
-    "title": "Software Engineer Intern",
-    "location": "Hybrid - San Francisco, CA",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T18:12:20-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "greenhouse:coinbase:8175441",

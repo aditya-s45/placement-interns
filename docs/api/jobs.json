@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:allstate:/job/USA---WI-Remote/L-H-Actuarial-Analyst-Intern_R36407",
+    "company": "Allstate Insurance Company",
+    "title": "L&H Actuarial Analyst Intern",
+    "location": "USA - WI (Remote)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---WI-Remote/L-H-Actuarial-Analyst-Intern_R36407",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:centene:/job/Remote-MO/Social-Media-Analyst-Intern--Undergraduate-Summer-2027-_1667851-1",
+    "company": "Centene",
+    "title": "Social Media Analyst Intern (Undergraduate Summer 2027)",
+    "location": "Remote-MO",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Social-Media-Analyst-Intern--Undergraduate-Summer-2027-_1667851-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cw:/job/Gurgaon-India/EIC-Apprentice---Valuations-and-Advisory-Gurugram_R327452",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice - Valuations and Advisory_Gurugram",
@@ -12,18 +36,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-    "company": "Marvell",
-    "title": "Intern, Software QA Engineer - Bachelor's Degree",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-23T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
     "company": "Marvell",
     "title": "Intern, Software Engineer - Bachelor's Degree",
@@ -32,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-23T00:00:00Z",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer---Bachelor-s-Degree_2604624",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer - Bachelor's Degree",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-23T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer---Bachelor-s-Degree_2604250",
     "salary": null,
     "source": "workday"
   },
@@ -154,6 +178,18 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160479",
     "salary": null,
     "source": "oracle"
+  },
+  {
+    "id": "greenhouse:coinbase:8175873",
+    "company": "Coinbase",
+    "title": "Software Engineer Intern",
+    "location": "Hybrid - Singapore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-21T23:19:03-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
@@ -552,18 +588,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:centene:/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
-    "company": "Centene",
-    "title": "Medical Economics Analyst Intern (Undergraduate - Summer 2027)",
-    "location": "Remote-MO",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-07T00:00:00Z",
-    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -684,18 +708,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workday:acxiomllc:/job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519",
-    "company": "Acxiom",
-    "title": "Intern - Commercial Financial Analyst",
-    "location": "Remote/Homebased",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-28T00:00:00Z",
-    "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:fortrea:/job/Bangalore/Apprentice---Employer-Branding_264572",
     "company": "Fortrea",
     "title": "Apprentice - Employer Branding",
@@ -778,18 +790,6 @@
     "url": "https://apply.workable.com/innovaccer-analytics/j/5298761677/",
     "salary": null,
     "source": "workable"
-  },
-  {
-    "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
-    "company": "Lean TECHniques",
-    "title": "Software Engineer Intern - Hybrid",
-    "location": "Hybrid",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-22T14:36:21.374+00:00",
-    "url": "https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
-    "salary": null,
-    "source": "ashby"
   },
   {
     "id": "ashby:ibotta:bc7c532d-931a-40fb-8c6c-b6939dd98582",
@@ -1162,18 +1162,6 @@
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:coinbase:8168315",
-    "company": "Coinbase",
-    "title": "Software Engineer Intern",
-    "location": "Hybrid - San Francisco, CA",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T18:12:20-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "greenhouse:coinbase:8175441",

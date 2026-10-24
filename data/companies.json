@@ -1961,6 +1961,11 @@
     "site": "External"
   },
   {
+    "name": "Applied Underwriters",
+    "slug": "auw",
+    "ats": "lever"
+  },
+  {
     "name": "AppLogic Networks",
     "slug": "applogicnetworks",
     "ats": "smartrecruiters"
@@ -9668,6 +9673,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Farther",
+    "slug": "fartherfinance",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Fasanara",
     "slug": "fasanara",
     "ats": "workable"
@@ -10307,6 +10317,11 @@
     "ats": "workable"
   },
   {
+    "name": "Focused",
+    "slug": "focused",
+    "ats": "ashby"
+  },
+  {
     "name": "Foley Hoag",
     "slug": "foleyhoag",
     "ats": "greenhouse"
@@ -10548,6 +10563,11 @@
     "site": "Freese_Nichols_External"
   },
   {
+    "name": "Freestone Capital Management",
+    "slug": "freestonecapitalmanagement",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Fresenius Kabi",
     "slug": "freseniusglobal",
     "ats": "workday",
@@ -10610,6 +10630,11 @@
   {
     "name": "FSH Technologies",
     "slug": "fsh",
+    "ats": "ashby"
+  },
+  {
+    "name": "Fuel Cycle",
+    "slug": "fuel-cycle",
     "ats": "ashby"
   },
   {
@@ -12352,6 +12377,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Jobsathpe"
+  },
+  {
+    "name": "Hex Technologies",
+    "slug": "hex",
+    "ats": "ashby"
   },
   {
     "name": "HEXAWARE",
@@ -15450,6 +15480,11 @@
     "ats": "linkedin"
   },
   {
+    "name": "Linkup",
+    "slug": "linkup",
+    "ats": "ashby"
+  },
+  {
     "name": "LINQ",
     "slug": "linqapp",
     "ats": "ashby"
@@ -17492,6 +17527,11 @@
     "name": "Moveworks",
     "slug": "moveworks",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Moxxi Digital",
+    "slug": "moxxidigital",
+    "ats": "greenhouse"
   },
   {
     "name": "Mozilla",
@@ -22887,6 +22927,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Scout AI",
+    "slug": "scout-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Scout Clean Energy",
     "slug": "scout-clean-energy",
     "ats": "workable"
@@ -23825,6 +23870,11 @@
     "name": "Softwire",
     "slug": "softwire-jobs",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Sola",
+    "slug": "sola",
+    "ats": "ashby"
   },
   {
     "name": "Solace Health",

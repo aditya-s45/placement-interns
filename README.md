@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 26 new this week · 5,224 companies tracked · updated Oct 23, 2026 at 21:20 UTC**
+**0 open roles · 25 new this week · 5,224 companies tracked · updated Oct 24, 2026 at 00:31 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -79,9 +79,9 @@ Stop refreshing career pages. Every date here is **real or verified** — no thi
 | Roblox | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
 | D.E. Shaw | ~Oct | ~Oct · any day now | ⏳ waiting |
-| Coinbase | ~Dec | ~Dec · in ~39d | ⏳ waiting |
-| Ramp | ~Dec | ~Dec · in ~39d | ⏳ waiting |
-| Two Sigma | ~Dec | ~Dec · in ~39d | ⏳ waiting |
+| Coinbase | ~Dec | ~Dec · in ~38d | ⏳ waiting |
+| Ramp | ~Dec | ~Dec · in ~38d | ⏳ waiting |
+| Two Sigma | ~Dec | ~Dec · in ~38d | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
 | Datadog | rolling | year-round | ⏳ waiting |
 | Jump Trading | rolling | year-round | ⏳ waiting |
@@ -95,6 +95,7 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-24 |
 | Coinbase | Software Engineer Intern | Summer 2027 | 2026-10-23 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-23 |
 | Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-23 |
@@ -134,7 +135,6 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 | Alcon | FRA Apprentice | Summer 2027 | 2026-10-18 |
 | LeoLabs | Skillbridge Administrative Operations Apprentice | Summer 2027 | 2026-10-18 |
 | Novartis | Intern AI & Data Science | Summer 2027 | 2026-10-17 |
-| Khan Academy | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-10-17 |
 
 </details>
 
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,225 companies across 25 ATS platforms · 98% fetch success · completed in 406.1s._
+_Engine (last run): 5,225 companies across 25 ATS platforms · 98% fetch success · completed in 400.0s._
 
 ## Platforms Scraped
 

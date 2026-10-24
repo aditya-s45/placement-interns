@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-23T21:20:45Z</updated>
+  <updated>2026-10-24T00:31:47Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Pearson — Apprentice, Portfolio Management</title>
@@ -84,12 +84,6 @@
     <id>workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
     <updated>2026-10-22T18:32:45Z</updated>
     <summary>Bangalore · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Honeywell — Intern Bachelors AI</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160473" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160473</id>
-    <updated>2026-10-22T13:43:12Z</updated>
-    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Walrus — Full Stack Developer Intern</title>
     <link href="https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685</id>
     <updated>2026-10-06T13:15:12Z</updated>
     <summary>New Delhi, Delhi, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Mitel Networks — R&amp;D Intern (student) - iOS development</title>
+    <link href="https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162" rel="alternate"/>
+    <id>workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162</id>
+    <updated>2026-10-05T22:34:11Z</updated>
+    <summary>Curitiba (Remote) · Software · Summer 2027</summary>
   </entry>
 </feed>

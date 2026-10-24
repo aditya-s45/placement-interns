@@ -4,9 +4,21 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-24T12:38:32Z</updated>
+  <updated>2026-10-24T17:23:34Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Honeywell — Intern Bachelors AI</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494" rel="alternate"/>
+    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160494</id>
+    <updated>2026-10-24T17:23:34Z</updated>
+    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Honeywell — Intern Bachelors Software Eng</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495" rel="alternate"/>
+    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:160495</id>
+    <updated>2026-10-24T17:23:34Z</updated>
+    <summary>Bengaluru, Karnataka, India · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Pearson — Apprentice, Portfolio Management</title>
     <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26049" rel="alternate"/>
     <id>oracle:hccz.fa.em3.oraclecloud.com:26049</id>
@@ -294,17 +306,5 @@
     <id>greenhouse:solutions:4711210006</id>
     <updated>2026-10-06T19:30:14Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685" rel="alternate"/>
-    <id>workday:medtronic:/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685</id>
-    <updated>2026-10-06T13:15:12Z</updated>
-    <summary>New Delhi, Delhi, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Mitel Networks — R&amp;D Intern (student) - iOS development</title>
-    <link href="https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162" rel="alternate"/>
-    <id>workday:mitel:/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162</id>
-    <updated>2026-10-05T22:34:11Z</updated>
-    <summary>Curitiba (Remote) · Software · Summer 2027</summary>
   </entry>
 </feed>

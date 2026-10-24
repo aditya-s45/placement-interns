@@ -1,5 +1,29 @@
 [
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160494",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-24",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160494",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:160495",
+    "company": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-24",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160495",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "oracle:hccz.fa.em3.oraclecloud.com:26049",
     "company": "Pearson",
     "title": "Apprentice, Portfolio Management",

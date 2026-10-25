@@ -1,5 +1,17 @@
 [
   {
+    "id": "workable:connectprep:1AF4F8C65F",
+    "company": "ConnectPrep",
+    "title": "Data Analyst Internship",
+    "location": "Washington, District of Columbia, United States (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-25T00:00:00.000Z",
+    "url": "https://apply.workable.com/connectprep/j/1AF4F8C65F/",
+    "salary": null,
+    "source": "workable"
+  },
+  {
     "id": "workday:illumina:/job/India---Bengaluru---Manyata/Apprentice-Finance-_43668-JOB",
     "company": "Illumina",
     "title": "Apprentice(Finance)",
@@ -190,18 +202,6 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "greenhouse:coinbase:8175873",
-    "company": "Coinbase",
-    "title": "Software Engineer Intern",
-    "location": "Hybrid - Singapore",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-21T23:19:03-04:00",
-    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5",
@@ -406,18 +406,6 @@
     "url": "https://apply.workable.com/innovaccer-analytics/j/536764D921/",
     "salary": null,
     "source": "workable"
-  },
-  {
-    "id": "workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
-    "company": "Marvell",
-    "title": "Generative AI Forward Deployed Engineer Intern- Master's Degree",
-    "location": "Bangalore",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-15T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231",
-    "salary": null,
-    "source": "workday"
   },
   {
     "id": "greenhouse:guidepointsecurity:6224196004",
@@ -1186,6 +1174,18 @@
     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:coinbase:8168315",
+    "company": "Coinbase",
+    "title": "Software Engineer Intern",
+    "location": "Hybrid - San Francisco, CA",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T18:12:20-04:00",
+    "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "greenhouse:coinbase:8175441",

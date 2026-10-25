@@ -4,9 +4,15 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-25T17:36:56Z</updated>
+  <updated>2026-10-25T20:44:07Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>ConnectPrep — Data Analyst Internship</title>
+    <link href="https://apply.workable.com/connectprep/j/1AF4F8C65F/" rel="alternate"/>
+    <id>workable:connectprep:1AF4F8C65F</id>
+    <updated>2026-10-25T20:44:07Z</updated>
+    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Illumina — Apprentice(Finance)</title>
     <link href="https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/India---Bengaluru---Manyata/Apprentice-Finance-_43668-JOB" rel="alternate"/>
     <id>workday:illumina:/job/India---Bengaluru---Manyata/Apprentice-Finance-_43668-JOB</id>
@@ -102,12 +108,6 @@
     <id>workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
     <updated>2026-10-22T18:32:45Z</updated>
     <summary>Bangalore · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Coinbase — Software Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873" rel="alternate"/>
-    <id>greenhouse:coinbase:8175873</id>
-    <updated>2026-10-22T07:31:31Z</updated>
-    <summary>Hybrid - Singapore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Walrus — Full Stack Developer Intern</title>
     <link href="https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5" rel="alternate"/>
@@ -211,12 +211,6 @@
     <updated>2026-10-15T11:15:58Z</updated>
     <summary>Noida, Uttar Pradesh, India · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Marvell — Generative AI Forward Deployed Engineer Intern- Master&#x27;s Degree</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231" rel="alternate"/>
-    <id>workday:marvell:/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern--Master-s-Degree_2604231</id>
-    <updated>2026-10-15T11:15:58Z</updated>
-    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>GuidePoint Security — Cybersecurity Presales Intern - GPSU/Heartland (Tulsa)</title>
     <link href="https://boards.greenhouse.io/guidepointsecurity/jobs/6224196004?gh_jid=6224196004" rel="alternate"/>
     <id>greenhouse:guidepointsecurity:6224196004</id>
@@ -306,5 +300,11 @@
     <id>greenhouse:guidepointsecurity:6218667004</id>
     <updated>2026-10-08T17:26:09Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>SailPoint — Software Engineer Intern - Platform Engines</title>
+    <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164" rel="alternate"/>
+    <id>workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
+    <updated>2026-10-07T19:55:14Z</updated>
+    <summary>Remote (United Kingdom) · Software · Summer 2027</summary>
   </entry>
 </feed>

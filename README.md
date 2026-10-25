@@ -4,7 +4,7 @@
 
 A self-updating engine that tracks tech internships so you don't have to. Instead of refreshing a dozen career pages by hand, it reads company hiring feeds directly and keeps one live list, newest roles on top, refreshed automatically throughout the day.
 
-**0 open roles · 27 new this week · 5,234 companies tracked · updated Oct 25, 2026 at 13:11 UTC**
+**0 open roles · 28 new this week · 5,234 companies tracked · updated Oct 25, 2026 at 17:36 UTC**
 
 **⭐Star this repo⭐** to save it and get updates when new roles are added.
 
@@ -95,8 +95,8 @@ _86 companies on the [full radar](https://aditya-s45.github.io/placement-interns
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Coinbase | Software Engineer Intern | Summer 2027 | 2026-10-25 |
 | Galaxy | Off-Cycle 2026 Cybersecurity Internship | Fall 2026 | 2026-10-25 |
-| Coinbase | Software Engineer Intern | Summer 2027 | 2026-10-24 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-10-24 |
 | Honeywell | Intern Bachelors Software Eng | Summer 2027 | 2026-10-23 |
 | Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-23 |
@@ -153,7 +153,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 5,235 companies across 25 ATS platforms · 100% fetch success · completed in 368.4s._
+_Engine (last run): 5,235 companies across 25 ATS platforms · 94% fetch success · completed in 287.7s._
 
 ## Platforms Scraped
 

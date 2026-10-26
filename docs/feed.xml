@@ -4,7 +4,7 @@
   <link href="https://aditya-s45.github.io/placement-interns/feed.xml" rel="self"/>
   <link href="https://aditya-s45.github.io/placement-interns/" rel="alternate"/>
   <id>https://aditya-s45.github.io/placement-interns/</id>
-  <updated>2026-10-25T20:44:07Z</updated>
+  <updated>2026-10-26T00:08:03Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>ConnectPrep — Data Analyst Internship</title>
@@ -108,6 +108,12 @@
     <id>workday:marvell:/job/Bangalore/Software-Validation-Intern---Master-s-Degree_2603870</id>
     <updated>2026-10-22T18:32:45Z</updated>
     <summary>Bangalore · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Coinbase — Software Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873" rel="alternate"/>
+    <id>greenhouse:coinbase:8175873</id>
+    <updated>2026-10-22T07:31:31Z</updated>
+    <summary>Hybrid - Singapore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Walrus — Full Stack Developer Intern</title>
     <link href="https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>greenhouse:guidepointsecurity:6218667004</id>
     <updated>2026-10-08T17:26:09Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>SailPoint — Software Engineer Intern - Platform Engines</title>
-    <link href="https://sailpoint.wd1.myworkdayjobs.com/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164" rel="alternate"/>
-    <id>workday:sailpoint:/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
-    <updated>2026-10-07T19:55:14Z</updated>
-    <summary>Remote (United Kingdom) · Software · Summer 2027</summary>
   </entry>
 </feed>

@@ -581,3 +581,4 @@
 {"ts": "2026-10-25T13:11:42Z", "open": 131, "new": 1, "companies": 5235, "ok_rate": 1.0, "secs": 368.4}
 {"ts": "2026-10-25T17:36:56Z", "open": 131, "new": 0, "companies": 5235, "ok_rate": 0.946, "secs": 287.7}
 {"ts": "2026-10-25T20:44:07Z", "open": 131, "new": 1, "companies": 5235, "ok_rate": 0.988, "secs": 305.8}
+{"ts": "2026-10-26T00:08:03Z", "open": 130, "new": 0, "companies": 5235, "ok_rate": 0.979, "secs": 328.3}

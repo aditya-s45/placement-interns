@@ -1,17 +1,5 @@
 [
   {
-    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885",
-    "company": "Marvell",
-    "title": "Intern, Software Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-26T00:00:00Z",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:marvell:/job/Bangalore/Software-Intern_2604252",
     "company": "Marvell",
     "title": "Software Intern",
@@ -20,6 +8,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-26T00:00:00Z",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Software-Intern_2604252",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:/job/Hyderabad/Intern--Software-Engineer_2603885",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-26T00:00:00Z",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603885",
     "salary": null,
     "source": "workday"
   },

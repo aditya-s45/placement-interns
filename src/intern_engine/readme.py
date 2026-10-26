@@ -315,7 +315,10 @@ def _select(rows: list[dict], limit, per_company) -> list[dict]:
 
 
 def _region_of(record: dict) -> str:
-    return "India"
+    loc = (record.get("location") or "").lower()
+    if any(tok in loc for tok in ("remote", "wfh", "anywhere")):
+        return "Remote"
+    return "India" 
 
 
 def _new_this_week(open_jobs: list[dict]) -> int:
@@ -438,7 +441,8 @@ def generate(store_data: dict) -> dict:
 
     sections: list[tuple[str, list[dict]]] = []
     displayed: list[dict] = []
-    for region in ("US", "International"):
+    regions = list(dict.fromkeys(list(cfg.get("regions") or ["India", "Remote"]) + ["India", "Remote"]))
+    for region in regions:
         for cycle in cycles:
             rows = _select(
                 groups.get((region, cycle)) or [],
@@ -446,7 +450,7 @@ def generate(store_data: dict) -> dict:
                 per_company,
             )
             if rows:
-                heading = cycle if region == "US" else f"{cycle} (International)"
+                heading = cycle if region == "India" else f"{cycle} ({region})"
                 sections.append((heading, rows))
                 displayed.extend(rows)
 

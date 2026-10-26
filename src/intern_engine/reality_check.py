@@ -1,7 +1,7 @@
 import os
 import json
 import httpx
-from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup
 
 from . import paths
 from . import llm
@@ -22,15 +22,20 @@ def evaluate_fit(job_url: str, resume_text: str = None) -> dict | None:
         return None
         
     try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            page = browser.new_page(user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
-            page.goto(job_url, wait_until="domcontentloaded", timeout=20000)
-            page.wait_for_timeout(2000) # Give React/Angular a moment to mount the DOM
-            jd_text = page.inner_text("body")[:15000]
-            browser.close()
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        }
+        with httpx.Client(timeout=15.0, follow_redirects=True) as client:
+            resp = client.get(job_url, headers=headers)
+            if resp.status_code != 200:
+                return None
+            soup = BeautifulSoup(resp.text, 'html.parser')
+            for tag in soup(["script", "style", "noscript", "svg"]):
+                tag.extract()
+            jd_text = soup.get_text(separator=' ')[:15000]
     except Exception as e:
-        print(f"  [RealityCheck] Playwright error: {e}")
+        print(f"  [RealityCheck] Fetch error: {e}")
         return None
         
     prompt = (
@@ -58,13 +63,21 @@ def evaluate_fit(job_url: str, resume_text: str = None) -> dict | None:
                 headers={'Authorization': f'Bearer {api_key}'},
                 timeout=30.0
             )
+            resp.raise_for_status()
             data = resp.json()
-            content = data['choices'][0]['message']['content'].strip()
-            if content.startswith('```'):
-                import re
-                content = re.sub(r'^```(?:json)?\s*', '', content)
-                content = re.sub(r'\s*```$', '', content)
-            return json.loads(content)
+            raw_content = data['choices'][0]['message']['content']
+            
+            # Robust JSON extraction
+            cleaned_content = raw_content.strip()
+            if cleaned_content.startswith('```'):
+                lines = cleaned_content.split('\n')
+                if lines[0].startswith('```'):
+                    lines = lines[1:]
+                if lines and lines[-1].startswith('```'):
+                    lines = lines[:-1]
+                cleaned_content = '\n'.join(lines).strip()
+                
+            return json.loads(cleaned_content)
     except Exception as e:
-        print(f'  [RealityCheck] Error: {e}')
+        print(f"  [RealityCheck] LLM evaluation error: {e}")
         return None

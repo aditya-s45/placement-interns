@@ -13301,51 +13301,6 @@
     "ats": "greenhouse"
   },
   {
-    "name": "Indeed — Ai Intern",
-    "slug": "ai+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — Backend Intern",
-    "slug": "backend+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — Devops Intern",
-    "slug": "devops+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — Frontend Intern",
-    "slug": "frontend+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — Java Intern",
-    "slug": "java+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — Python Intern",
-    "slug": "python+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — React Intern",
-    "slug": "react+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — Sde Intern",
-    "slug": "sde+intern",
-    "ats": "indeed"
-  },
-  {
-    "name": "Indeed — Software Intern",
-    "slug": "software+intern",
-    "ats": "indeed"
-  },
-  {
     "name": "Index Exchange",
     "slug": "indexexchange",
     "ats": "smartrecruiters"
@@ -15418,66 +15373,6 @@
     "name": "Linkedin",
     "slug": "linkedin",
     "ats": "lever"
-  },
-  {
-    "name": "LinkedIn — Ai Intern",
-    "slug": "ai+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Backend Intern",
-    "slug": "backend+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Data Science Intern India",
-    "slug": "data+science+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Devops Intern",
-    "slug": "devops+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Frontend Intern",
-    "slug": "frontend+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Java Intern",
-    "slug": "java+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — ML Intern India",
-    "slug": "machine+learning+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Python Intern",
-    "slug": "python+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — React Intern",
-    "slug": "react+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Sde Intern",
-    "slug": "sde+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — Software Intern India",
-    "slug": "software+engineer+intern",
-    "ats": "linkedin"
-  },
-  {
-    "name": "LinkedIn — SWE Intern India",
-    "slug": "swe+intern+india",
-    "ats": "linkedin"
   },
   {
     "name": "Linkup",
@@ -17860,56 +17755,6 @@
     "name": "Naukri",
     "slug": "naukri",
     "ats": "greenhouse"
-  },
-  {
-    "name": "Naukri — Ai Intern",
-    "slug": "ai-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Backend Intern",
-    "slug": "backend-developer-internship",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Backend Intern",
-    "slug": "backend-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Devops Intern",
-    "slug": "devops-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Frontend Intern",
-    "slug": "frontend-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Java Intern",
-    "slug": "java-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Python Intern",
-    "slug": "python-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — React Intern",
-    "slug": "react-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Sde Intern",
-    "slug": "sde-intern",
-    "ats": "naukri"
-  },
-  {
-    "name": "Naukri — Software Intern",
-    "slug": "software-internship",
-    "ats": "naukri"
   },
   {
     "name": "NAV CANADA",
@@ -28288,11 +28133,6 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "WeldCountyCareers"
-  },
-  {
-    "name": "Wellfound India",
-    "slug": "wellfound-india",
-    "ats": "wellfound"
   },
   {
     "name": "Wellington Management",

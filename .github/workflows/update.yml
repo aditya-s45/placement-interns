@@ -1,8 +1,6 @@
 name: Update internships
 
 on:
-  schedule:
-    - cron: "0 */2 * * *"    # every 2 hours (UTC)
   workflow_dispatch:
 
 permissions:
@@ -29,9 +27,6 @@ jobs:
           python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
           pip list
-
-      - name: Install Playwright browsers
-        run: playwright install --with-deps chromium
 
       - name: Run the engine
         env:

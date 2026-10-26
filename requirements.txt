@@ -1,6 +1,3 @@
 httpx==0.27.0
 pyyaml>=6.0
-scrapling[all]
-curl-cffi>=0.15.0
-browserforge>=1.2.4
-playwright
+beautifulsoup4>=4.12.0

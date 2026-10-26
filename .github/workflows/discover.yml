@@ -1,8 +1,6 @@
 name: Discover companies
 
 on:
-  schedule:
-    - cron: "30 8 * * *"    # daily 08:30 UTC
   workflow_dispatch:
 
 permissions:
@@ -29,9 +27,6 @@ jobs:
           python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
           pip list
-
-      - name: Install Playwright browsers
-        run: playwright install chromium
 
       - name: Discover + harvest
         env:

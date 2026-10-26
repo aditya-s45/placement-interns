@@ -1,18 +1,7 @@
 """Custom career page connector for companies without a standard ATS.
 
 For companies like Flipkart, Ola, CRED, NPCI, Groww, etc. that host their
-own career pages, this connector uses Scrapling to fetch and parse the page.
-
-Each company entry in companies.json needs:
-    {
-      "name": "Flipkart",
-      "slug": "flipkart",
-      "ats": "custom",
-      "careers_url": "https://www.flipkartcareers.com/#!/joblist",
-      "job_link_pattern": "/job/"     # optional: substring in job detail links
-    }
-
-Scrapling's adaptive selectors auto-detect job links on the page.
+own career pages, this connector uses standard HTTP requests to fetch and parse the page.
 """
 
 from __future__ import annotations
@@ -21,6 +10,8 @@ import asyncio
 import re
 from concurrent.futures import ThreadPoolExecutor
 
+import httpx
+
 from ..models import Job
 from ..net import Net
 
@@ -28,9 +19,10 @@ _EXECUTOR = ThreadPoolExecutor(max_workers=3, thread_name_prefix="custom")
 
 _HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
     ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
 }
 
@@ -53,13 +45,11 @@ def _scrape_careers_page(url: str, link_pattern: str | None) -> list[dict]:
     """Fetch the careers page and extract job links + titles."""
     results: list[dict] = []
     try:
-        from scrapling.fetchers import Fetcher
-
-        fetcher = Fetcher(auto_match=False)
-        resp = fetcher.get(url, headers=_HEADERS, timeout=25)
-        html = resp.content or ""
-    except ImportError:
-        return []
+        with httpx.Client(timeout=20, follow_redirects=True) as client:
+            resp = client.get(url, headers=_HEADERS)
+            if resp.status_code != 200:
+                return []
+            html = resp.text
     except Exception:
         return []
 

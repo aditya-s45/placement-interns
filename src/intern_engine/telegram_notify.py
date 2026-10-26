@@ -1,6 +1,5 @@
 import os
 import httpx
-from . import referrals
 from . import reality_check
 from . import telegram_bot
 
@@ -68,14 +67,6 @@ def notify_new_jobs(store_data: dict, new_ids: list[str]) -> None:
                         for bullet in tailored:
                             lines.append(f'• {bullet}')
                     
-                alumni = referrals.find_alumni(company)
-                if alumni:
-                    lines.append('')
-                    lines.append(f'🤝 *IIIT Lucknow Alumni at {company}:*')
-                    for name, link in alumni:
-                        lines.append(f'• [{name}]({link})')
-                    lines.append('')
-                    lines.append(f'_"Hi {{Name}}, I saw your journey from IIIT Lucknow to {company} and was really inspired. I am currently applying for their internship and would love to ask you 2 quick questions about your experience if you have a moment!"_')
                 lines.append('')
                 lines.append('━━━━━━━━━━━━━━━')
                 lines.append('')

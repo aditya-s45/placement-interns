@@ -4,17 +4,17 @@ from ..net import Net
 
 async def fetch(company: dict, net: Net) -> list[Job]:
     url = "https://careers.bloomberg.com/job/search"
-    page = await net.fetch_html(url, needs_interaction=True)
+    page = await net.fetch_html(url)
     if not page:
         return []
         
     jobs: list[Job] = []
-    job_elements = page.css('a')
+    job_elements = page.find_all('a')
     for el in job_elements:
         try:
-            link = el.attrib.get('href', '')
+            link = el.get('href', '')
             if '/job/detail/' in link or '/job/' in link:
-                title = el.text.strip()
+                title = el.get_text(strip=True)
                 if title:
                     job_id = link.split("/")[-1] if link else ""
                     job_url = f"https://careers.bloomberg.com{link}" if link.startswith("/") else link

@@ -1,13 +1,22 @@
-# Intern Engine India
-
-Python >= 3.12, auto-updated by GitHub Actions.
-
-## Files
-temp_repos/
-venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment and sensitive user data
+.env
+.env.*
+data/users.json
+data/bot_state.json
+
+# Temporary files and logs
 logs/
+*.log
+temp_repos/
 scratch*
 waas_initial.png

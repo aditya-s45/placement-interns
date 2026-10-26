@@ -46,6 +46,18 @@ class Net:
         self._client = client
         self._limiter = limiter
 
+    async def get(self, url: str, **kwargs) -> httpx.Response:
+        host = httpx.URL(url).host
+        sem = await self._limiter.acquire(host)
+        async with sem:
+            return await self._client.get(url, **kwargs)
+
+    async def post(self, url: str, **kwargs) -> httpx.Response:
+        host = httpx.URL(url).host
+        sem = await self._limiter.acquire(host)
+        async with sem:
+            return await self._client.post(url, **kwargs)
+
     async def get_json(self, url: str, **kwargs):
         return await self._request("GET", url, **kwargs)
 
@@ -78,34 +90,23 @@ class Net:
         raise last_error or httpx.HTTPError(f"request to {url} failed after retries")
 
     async def fetch_html(self, url: str, *, needs_interaction: bool = False, check_robots: bool = False):
-        """Fetch HTML, escalating from Tier 1 (httpx/Fetcher) to Tier 2/3 (Scrapling)."""
+        """Fetch HTML and parse using BeautifulSoup without headless browser overhead."""
         host = httpx.URL(url).host
         sem = await self._limiter.acquire(host)
 
-        def _do_fetch():
-            from scrapling.fetchers import Fetcher, StealthyFetcher, DynamicFetcher
-            
-            if needs_interaction:
-                try:
-                    return DynamicFetcher.fetch(url, headless=True)
-                except Exception as e:
-                    print(f"Tier 3 fetch failed for {url}: {e}")
-                    return None
-                
-            try:
-                page = Fetcher.get(url, timeout=15)
-                if page.status == 200:
-                    return page
-            except Exception as e:
-                print(f"Tier 1 fetch failed for {url}: {e}")
-
-            # Tier 1 failed — escalate
-            try:
-                print(f"Escalating to Tier 2 for {url}")
-                return StealthyFetcher.fetch(url, headless=True)
-            except Exception as e:
-                print(f"Tier 2 fetch failed for {url}: {e}")
-                return None
-                
         async with sem:
-            return await asyncio.to_thread(_do_fetch)
+            try:
+                headers = {
+                    "User-Agent": (
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+                    ),
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                }
+                resp = await self._client.get(url, headers=headers, timeout=20.0)
+                if resp.status_code == 200:
+                    from bs4 import BeautifulSoup
+                    return BeautifulSoup(resp.text, "html.parser")
+            except Exception as e:
+                print(f"fetch_html failed for {url}: {e}")
+            return None

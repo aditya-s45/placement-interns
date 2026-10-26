@@ -254,7 +254,7 @@ def is_india(location: str) -> bool:
     if not location:
         return False
     low = location.lower()
-    if any(token in low for token in _INDIA_COUNTRY):
+    if re.search(r"\b(india|bharat)\b", low):
         return True
     if _INDIA_CITY_RE.search(low):
         return True

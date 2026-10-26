@@ -315,10 +315,10 @@ def _select(rows: list[dict], limit, per_company) -> list[dict]:
 
 
 def _region_of(record: dict) -> str:
-    loc = (record.get("location") or "").lower()
-    if any(tok in loc for tok in ("remote", "wfh", "anywhere")):
-        return "Remote"
-    return "India" 
+    loc = record.get("location") or ""
+    if filters.is_india(loc):
+        return "India"
+    return "Remote & Global" 
 
 
 def _new_this_week(open_jobs: list[dict]) -> int:
@@ -439,36 +439,69 @@ def generate(store_data: dict) -> dict:
     for r in open_jobs:
         groups.setdefault((_region_of(r), r.get("season", "")), []).append(r)
 
-    sections: list[tuple[str, list[dict]]] = []
     displayed: list[dict] = []
-    regions = list(dict.fromkeys(list(cfg.get("regions") or ["India", "Remote"]) + ["India", "Remote"]))
-    for region in regions:
-        for cycle in cycles:
-            rows = _select(
-                groups.get((region, cycle)) or [],
-                config.section_limit(cfg, cycle),
-                per_company,
-            )
-            if rows:
-                heading = cycle if region == "India" else f"{cycle} ({region})"
-                sections.append((heading, rows))
-                displayed.extend(rows)
+    category_sections: list[tuple[str, str, list[tuple[str, list[dict]]]]] = []
+
+    # Category 1: India Internships (ON TOP)
+    india_subsections = []
+    for cycle in cycles:
+        rows = _select(
+            groups.get(("India", cycle)) or [],
+            config.section_limit(cfg, cycle),
+            per_company,
+        )
+        if rows:
+            india_subsections.append((f"{cycle} (India)", rows))
+            displayed.extend(rows)
+    if india_subsections:
+        category_sections.append((
+            "🇮🇳 India Tech Internships",
+            "On-site and hybrid roles located across tech hubs in India (Bengaluru, Hyderabad, Pune, Delhi NCR, Mumbai, etc.).",
+            india_subsections
+        ))
+
+    # Category 2: Remote & Global Internships (All Others below)
+    other_subsections = []
+    for cycle in cycles:
+        rows = _select(
+            groups.get(("Remote & Global", cycle)) or [],
+            config.section_limit(cfg, cycle),
+            per_company,
+        )
+        if rows:
+            other_subsections.append((f"{cycle} (Remote & Global)", rows))
+            displayed.extend(rows)
+    if other_subsections:
+        category_sections.append((
+            "🌐 Remote & Global Internships",
+            "Work-from-anywhere, fully remote, and international tech opportunities.",
+            other_subsections
+        ))
 
     lines = _header(cfg, len(displayed), _company_count(), _new_this_week(open_jobs))
-    for heading, rows in sections:
-        lines.append(f"## {heading}  ({len(rows)} open)")
+
+    for cat_title, cat_desc, sub_list in category_sections:
+        total_cat = sum(len(rows) for _, rows in sub_list)
+        lines.append(f"## {cat_title}  ({total_cat} open)")
         lines.append("")
-        lines.append("| Company | Role | Category | Pay & Specs | Location | Posted | Apply |")
-        lines.append("|---|---|---|---|---|---|---|")
-        lines.extend(_row(r) for r in rows)
+        lines.append(f"_{cat_desc}_")
         lines.append("")
-        n_inferred = sum(1 for r in rows if r.get("season_inferred"))
-        if n_inferred:
-            lines.append(
-                f"_~ = the title doesn't state a year; bucketed here from its "
-                f"posting date ({n_inferred} of {len(rows)})._"
-            )
+        for heading, rows in sub_list:
+            lines.append(f"### {heading}  ({len(rows)} open)")
             lines.append("")
+            lines.append("| Company | Role | Category | Pay & Specs | Location | Posted | Apply |")
+            lines.append("|---|---|---|---|---|---|---|")
+            lines.extend(_row(r) for r in rows)
+            lines.append("")
+            n_inferred = sum(1 for r in rows if r.get("season_inferred"))
+            if n_inferred:
+                lines.append(
+                    f"_~ = the title doesn't state a year; bucketed here from its "
+                    f"posting date ({n_inferred} of {len(rows)})._"
+                )
+                lines.append("")
+        lines.append("---")
+        lines.append("")
 
     if not displayed:
         lines.append(
